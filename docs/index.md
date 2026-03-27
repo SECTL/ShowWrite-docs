@@ -1,37 +1,720 @@
----
-home: true
-config:
-  - type: doc-hero
-    background: tint-plate
-    hero:
-      name: ShowWrite
-      text: 助力每一节课堂教学
-      tagline: 一款简洁，易用的作业板
-      image: /logo.png
-      actions:
-        - theme: brand
-          text: 下载
-          icon: lucide:download
-          link: https://stk.sectl.top/ShowWrite
-        - theme: brand
-          text: 阅读文档
-          icon: lucide:list-start
-          link: /doc/overview
-        - theme: alt
-          text: Github 仓库
-          icon: fa-brands:github
-          link: https://github.com/SECTL/ShowWrite
-        - theme: alt
-          text: SECTL 网站
-          icon: {
-            svg: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 430 430"><defs><style>.st0 { fill: #95c8fa; } .st1 { fill: #95c8ff; } .st2 { fill: #016fc8; }</style></defs><path class="st1" d="M312.44,52.45c.45-.03.84-.06,1.29-.06,22.2-.09,38.16,16.5,38.34,38.68v212.35c0,6.68-.03,13.37-.03,20.06,0,14.01-5.4,28.11-15.39,38.14-7.77,7.96-17.83,13.29-28.78,15.26-6.04,1.06-20.54.67-27.3.66H50.43c-9.5.11-17.8-2.63-25.12-8.81-8.59-7.24-13.9-17.63-14.72-28.84-.3-3.93-.16-9.69-.17-13.71v-24.89l.04-78.65v-76.68c0-7.34-.23-14.05,2.41-21.06,2.01-5.34,4.21-9.7,7.94-14.05,5.13-5.97,11.9-10.31,19.48-12.46,4.13-1.22,10.58-2.11,14.99-2.83l23.6-3.91,79.37-13.41,104.34-17.68,29.28-4.92c6.27-1.08,14.33-2.71,20.58-3.19h0Z"/><path class="st2" d="M186.02,162.78c16.16-2.06,24.38,11.79,25.22,26.01.33,5.59.04,6.68-5.46,7.08-8.96.65-10.02,2.68-11.18-7.52-2.98-14.92-19.53-6.4-21.99,4.14-1.29,5.55-3.22,12.13-3.03,17.57.35,10.46-4.26,40.64,12.43,39.85,6.54-.43,11.18-7.13,12.44-13.02,1.44-6.73.67-6.85,7.9-7.22,2.16-.15,8.02-1.24,8.03,1.64.1,17.66-14.72,39.23-33.13,36.66-23.76-3.32-24.13-33.55-23.54-51.22.72-21.67,7.36-50.09,32.31-53.97h0Z"/><path class="st2" d="M144.63,171.34c.75-.1,1.99-.21,2.54.3,3.19,2.93,2.43,11.56.29,14.83-1.21,1.84-6.34,2.47-8.36,2.77-6.73.98-13.38,1.64-20.08,2.82.26,6.34,0,14.43-.6,20.74,4.62-.82,17.24-2.19,22.17-2.67,3.58-.35,3.92,15.14,0,16.2-2.39.64-5.91.97-8.79,1.28-4.57.49-9.13,1.01-13.69,1.57.69,9.74.39,14.89-.22,24.65l19.03-1.82c2.71-.23,7.41-1.04,9.73.03,2.26,2.21,1.45,5.51,1.55,8.31.36,10.61-7.39,8.74-15.26,9.47l-14.85,1.31c-5.29.47-13.78,2.81-14.28-4.59-.9-13.27.27-26.57.55-39.82l.34-29.18c.08-4.33-.36-15.6,2.11-19.51,1.04-1.65,6.34-2.29,8.54-2.54,9.72-1.08,19.52-3.23,29.27-4.12l.02-.03Z"/><path class="st2" d="M74.69,180.1c6.32-.66,10.49.51,15.22,5.4,3.22,3.33,7.52,13.76,3.78,17.84-1.23,1.34-7.68,1.71-9.76,1.96-2.34-.78-2.52-6.28-4.27-7.65-7.19-5.63-15.56,2.23-15.15,10.48-.2,6.55,4.56,8.21,10.48,9.76,14.35,3.76,20.91,10.79,20.6,26.24-.32,16.38-9.17,33.04-28.02,32.53-3.43-.29-6.59-.94-9.37-3.06-7.51-5.72-10.36-15.76-8.67-24.69,2.65-.56,4.77-.93,7.42-1.25,7.98-1.37,2.77,7.75,8.56,11.06,9.87,5.91,17.91-5.99,16.11-15.07-1.6-8.09-15.18-8.26-21.58-12.97-12.58-9.25-10.48-27.96-2.79-39.58,4.03-6.09,10.51-9.85,17.42-11.01h.02Z"/><path class="st2" d="M281.97,151.54c6.13-.78,7.44.96,7.8,7.03.22,3.81.1,7.73.04,11.56l-.38,20.19c-.26,15.37-.13,32.33-1.07,47.56,5.03-.73,10.27-1,15.43-1.49,4.63-.44,10.47-1.33,15.11-.95,1.88.16,2.87,3.88,3.02,5.55.34,3.85.58,8.85-1.83,12.17-1.34,1.8-5.67,2.02-7.81,2.25-10.55.87-21.23,1.42-31.69,2.68-4.45.54-9.45.21-9.9-5.13-.69-8.23.14-17.62.27-25.86l.88-40.27c.11-8.62-.17-17.19.25-25.85.37-7.7,2.77-8.19,9.88-9.43h0Z"/><path class="st2" d="M260.92,154.24c3.17-.27,6.19-.18,6.59,4.02.84,8.96.7,14.95-10.06,14.85-2.27-.02-7.68.82-10.14,1.23.05.42.08.83.11,1.25.24,3.84-.02,9.04-.13,13l-.64,22.59c-.18,9.9.14,19.79-.27,29.77-.18,4.42.35,14.44-2.03,18.09-1.76,2.69-10.84,2.93-13.2.45-2.27-2.39-1.71-7.29-1.68-10.49.16-24.09.66-48.18,1.49-72.26-2.23.51-4.87,1.09-7.17,1.25-4.34.29-10.13,2.28-10.77-3.99-.35-3.42-.52-12.03,3.78-13,5.03-1.13,10.48-1.78,15.62-2.54l28.49-4.22h.01Z"/><path class="st2" d="M202.62,276.74c1.62-.1,4.3.31,4.48,2.29,1.17,12.71-.17,25.82-.38,38.57-.06,3.28.27,6.36.28,9.54-1.66,1.87-3.7,2.97-6.28,1.94-1.98-.79-2.25-1.91-2.96-3.73-3.6,4.43-7.9,5.2-13.2,3.49-.39-.19-.77-.39-1.14-.6-14.43-8.16-6.1-45.93,14.56-33.63.05-3.32-.16-6.73-.15-10.05.02-4.63.15-6.62,4.79-7.83h0Z"/><path class="st0" d="M190.72,300.94c6.17-.94,7.43,4.74,7.32,9.6-.1,4.41-.92,7.98-5.19,10.05-6.98.61-7.67-5.63-7.33-11.06.23-3.76,1.76-6.91,5.2-8.59Z"/><path class="st2" d="M243.33,289.26c17.36-.15,20.94,20.84,12.58,32.83-2.69,3.85-7.28,5.83-11.88,6.38-21.2.41-23.34-29.12-7.31-37.73,2.07-1.11,4.3-1.34,6.61-1.48h0Z"/><path class="st0" d="M242.88,298.26c3.36.02,5.7,1.98,6.56,5.19,1.51,5.62.89,13.79-5.71,15.58-4.13-.1-6.74-2.5-7.36-6.55-.81-5.24.29-13.15,6.51-14.22h0Z"/><path class="st2" d="M108.29,281.66c8.12-.44,13.39,3.22,14.57,11.56.34,2.4-4,3.88-5.88,3.66-4.23-.49-2.38-7.15-8-6.63-3.67.26-5.98,2.48-5.69,6.11.04,3.56,4.53,5.3,7.87,5.98,13.52,2.78,15.91,16.08,8.12,25.97-2.4,3.05-7.02,4.64-11.18,4.86-7.69.08-13.05-4.33-14.44-11.89-.79-4.33,1.27-4.35,4.89-4.78,4.2-.5,2.98,3.96,5.3,5.89,2.61,2.18,7.18,1.98,9.37-.71,2.24-2.77,2.23-6.82-1.3-8.46-7.03-3.28-15.74-3.63-17.2-13.31-1.43-9.52,4.02-16.82,13.57-18.25Z"/><path class="st2" d="M167.24,294.1c1.05-.09,4.51-.22,4.82,1.21,1.99,9.23.5,18.53.94,28.01.24,5.2-.35,7.31-6.94,6.64-.93-.1-1.56-2.02-1.9-2.86-2.72,2.23-5.49,4.26-9.18,4.19-9.45-.18-9.29-11.63-9.18-18.15.05-3.04-.53-15.79,2.06-17.3,11.06-6.46,5.38,16.71,6.92,21.48.32.99.69,4.53,2.6,4.74,11.4,1.24,4.32-19.47,7.26-25.77.66-1.43,1.21-1.58,2.6-2.19h0Z"/><path class="st2" d="M132.19,286.53c.33-.02.67-.02,1-.02,4.7.1,3.62,6.4,3.48,9.54,1.51-.08,4.54-.42,5.68.49,1.74,1.38,1.27,5.12-.08,6.6-1.06,1.17-4.22,1-5.75,1.09-.25,4.6-.67,12.56.58,17.04.41,1.48,3.08.76,3.86,1.1,3.13,1.41,3.85,6.78.26,8.59-1.42.39-2.89.6-4.36.62-11.81.03-9.22-19.7-8.93-27.22-1.05.11-2.32.37-3.16-.43-1.91-1.8-1.61-5.21.11-7.01,1-.45,2.01-.32,3.14-.31.22-4.25-.9-8.86,4.18-10.09h0Z"/><path class="st2" d="M217.64,291.68c1.1-.04,2.31-.12,3.27.51.64.42,1.04.98,1.19,1.74.82,4.15.69,31.57-.7,33.4-.93,1.22-2.33,1.17-3.71,1.3-1.02-.06-2.15-.07-3.03-.66-1.18-.79-1.44-2.01-1.67-3.33-.67-3.74-1.17-29.33.66-31.49.98-1.15,2.59-1.26,3.98-1.46h.01Z"/><path class="st2" d="M217.67,275.03c7.02-.25,8.22,10.39.56,12.33-4.74-.21-7.3-3.76-5.49-8.43.85-2.21,2.84-3.1,4.92-3.91h0Z"/><path class="st0" d="M356.9,82.04c11.03,1.08,22.42,9.74,26.96,19.92,4.18,9.36,3.85,14.26,3.85,24.09v81.26l.04,71.51c.08,9.12.1,18.24.08,27.36-.01,4.73.1,9.77-.2,14.46-.34,5.36-1.47,10.63-3.35,15.65-5.36,14.17-15.19,23.59-28.75,29.76-9.08,4.12-16.75,3.68-26.27,4.72,6.65-3.58,12.49-8.94,17.11-14.88,6.12-7.98,9.99-17.46,11.2-27.44.77-5.92.58-11.9.54-17.86l-.03-19.36.03-69.93-.03-86.35v-24.83c0-11.24.22-16.9-1.16-28.09h-.02Z"/><path class="st0" d="M393.81,116.85c8.18,2.73,16.41,11.94,20.39,19.48,6.68,12.66,5.25,25.55,5.29,39.47l.02,45.1v56.86c0,9.76.26,19.82-.11,29.55-.84,21.74-12.07,40.27-31.54,50.21-7.35,3.64-13.4,4.76-21.4,5.19,3.74-1.75,8.5-5.58,11.44-8.53,7.62-7.73,12.79-17.55,14.83-28.22,1.58-8.32,1.11-19.34,1.1-28.07v-38.39l-.02-142.66h0Z"/></svg>'
-          }
-          link: https://sectl.top/
-          
-  - type: features
-    features:
-      - title: 还没有写呢
-        icon: lucide:users
-        details: 一款简洁，易用的作业板
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>展示助力课堂 | 滚动视差特效</title>
+    <!-- GSAP 和 ScrollTrigger -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
 
----
+        body {
+            font-family: 'Helvetica Neue', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+            background-color: #000;
+            color: #fff;
+            overflow-x: hidden;
+            scroll-behavior: smooth;
+        }
+
+        ::-webkit-scrollbar {
+            width: 6px;
+            background: #111;
+        }
+        ::-webkit-scrollbar-thumb {
+            background: #333;
+            border-radius: 3px;
+        }
+
+        /* 导航栏 */
+        .navbar {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            z-index: 100;
+            padding: 1.2rem 3rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            backdrop-filter: blur(10px);
+            background: rgba(0,0,0,0.5);
+            transition: all 0.3s ease;
+        }
+        .navbar.scrolled {
+            background: rgba(0,0,0,0.85);
+            backdrop-filter: blur(12px);
+            padding: 0.8rem 3rem;
+        }
+        .logo svg path {
+            fill: white;
+        }
+        .nav-links {
+            display: flex;
+            gap: 2rem;
+        }
+        .nav-links a {
+            color: rgba(255,255,255,0.8);
+            text-decoration: none;
+            font-size: 0.9rem;
+            font-weight: 500;
+            letter-spacing: 1px;
+            transition: 0.2s;
+        }
+        .nav-links a:hover {
+            color: white;
+        }
+
+        /* 超级壁纸区域 (纯黑背景 + 手机视差) */
+        .super-wrapper {
+            height: 300vh;
+            position: relative;
+            background-color: #000;
+        }
+        .super-pin {
+            position: sticky;
+            top: 0;
+            height: 100vh;
+            width: 100%;
+            overflow: hidden;
+            background: #000;
+        }
+        .super-pin video {
+            display: none;
+        }
+        .super-content {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .phones-layer {
+            position: relative;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .phone {
+            position: absolute;
+            width: 280px;
+            will-change: transform;
+            pointer-events: none;
+        }
+        .phone img {
+            width: 100%;
+            display: block;
+            border-radius: 32px;
+            box-shadow: 0 20px 35px rgba(0,0,0,0.5);
+        }
+        .phone-center {
+            width: 340px;
+            z-index: 10;
+        }
+        .phone-left {
+            transform: translateX(-280px) scale(0.8);
+            opacity: 0.6;
+            z-index: 5;
+        }
+        .phone-right {
+            transform: translateX(280px) scale(0.8);
+            opacity: 0.6;
+            z-index: 5;
+        }
+        .phone-back {
+            transform: translateX(0px) scale(1.2);
+            opacity: 0;
+            z-index: 2;
+        }
+
+        /* 标题区域：展示助力课堂 + Logo过渡 */
+        .super-title {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            z-index: 20;
+            pointer-events: none;
+            text-align: center;
+        }
+        /* Logo 样式：靠上（距离顶部 20%） */
+        .logo-showwrite {
+            font-size: 4.5rem;
+            font-weight: 700;
+            letter-spacing: 0.05em;  /* 字符间距缩小 */
+            color: #fff;
+            text-shadow: 0 0 20px rgba(0,0,0,0.5);
+            white-space: nowrap;
+            opacity: 1;
+            transform: translateY(0);
+            transition: none;
+            /* 位置靠上：通过 margin-top 调整整体在 flex 中的偏移 */
+            margin-top: -20vh;  /* 向上偏移 20vh，使 Logo 位于上半区 */
+        }
+        /* 主标题：字体细一点 */
+        .main-headline {
+            font-size: 4.5rem;
+            font-weight: 400;   /* 更细 */
+            letter-spacing: 0;
+            color: #fff;
+            text-shadow: 0 0 20px rgba(0,0,0,0.5);
+            white-space: nowrap;
+            opacity: 0;
+            transform: translateY(80px);
+            will-change: transform, letter-spacing, opacity;
+        }
+
+        @media (max-width: 800px) {
+            .navbar { padding: 1rem; }
+            .nav-links { display: none; }
+            .logo-showwrite, .main-headline { 
+                font-size: 2.5rem; 
+                white-space: normal; 
+                padding: 0 20px;
+            }
+            .logo-showwrite {
+                margin-top: -15vh;
+            }
+            .phone-center { width: 220px; }
+            .phone-left { transform: translateX(-180px) scale(0.7); }
+            .phone-right { transform: translateX(180px) scale(0.7); }
+        }
+
+        /* 其他模块样式保持不变 */
+        .weather-section {
+            background: #000;
+            position: relative;
+            min-height: 100vh;
+        }
+        .weather-bg-video {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            opacity: 0.4;
+            z-index: 0;
+        }
+        .weather-content {
+            position: relative;
+            z-index: 2;
+            padding: 15% 0;
+            text-align: center;
+        }
+        .weather-title {
+            font-size: 4rem;
+            font-weight: 700;
+            margin-bottom: 1rem;
+        }
+        .section-desc {
+            font-size: 1.1rem;
+            color: #ccc;
+            max-width: 700px;
+            margin: 0 auto;
+            line-height: 1.6;
+        }
+        .replay-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background: rgba(255,255,255,0.15);
+            backdrop-filter: blur(4px);
+            padding: 8px 20px;
+            border-radius: 40px;
+            font-size: 0.9rem;
+            cursor: pointer;
+            margin-top: 30px;
+            border: 1px solid rgba(255,255,255,0.3);
+            transition: 0.2s;
+        }
+        .replay-btn:hover {
+            background: rgba(255,255,255,0.3);
+        }
+        .maml-section {
+            background: #000;
+            padding: 100px 0;
+        }
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 4%;
+        }
+        .maml-grid {
+            display: flex;
+            align-items: center;
+            gap: 60px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        .maml-text {
+            flex: 1;
+            text-align: left;
+        }
+        .maml-text h2 {
+            font-size: 2.8rem;
+            margin-bottom: 20px;
+            color: white;
+        }
+        .maml-text p {
+            color: #aaa;
+            line-height: 1.7;
+        }
+        .maml-img {
+            flex: 1;
+            text-align: center;
+        }
+        .maml-img img {
+            max-width: 100%;
+            width: 400px;
+            filter: drop-shadow(0 20px 30px rgba(0,0,0,0.5));
+        }
+        .icons-section {
+            background: #030303;
+            padding: 120px 0;
+        }
+        .icon-cards {
+            display: flex;
+            gap: 40px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        .icon-card {
+            background: rgba(20,20,20,0.7);
+            backdrop-filter: blur(8px);
+            border-radius: 48px;
+            padding: 30px;
+            width: 480px;
+            text-align: center;
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+        .icon-video {
+            width: 100%;
+            border-radius: 32px;
+            margin: 20px 0;
+        }
+        .icon-card h3 {
+            font-size: 1.8rem;
+            margin-top: 20px;
+        }
+        .visual-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 30px;
+            margin-top: 60px;
+        }
+        .vis-item {
+            background: rgba(20,20,20,0.6);
+            border-radius: 40px;
+            padding: 40px 30px;
+            text-align: center;
+            backdrop-filter: blur(4px);
+        }
+        .vis-video {
+            width: 100%;
+            border-radius: 28px;
+            margin-bottom: 20px;
+        }
+        .plan-section {
+            background: #000;
+            padding: 100px 0;
+            text-align: center;
+        }
+        .section-title {
+            font-size: 3rem;
+            font-weight: 600;
+            margin-bottom: 2rem;
+        }
+        .phone-slider {
+            display: flex;
+            overflow-x: auto;
+            gap: 20px;
+            padding: 40px 0;
+            scroll-behavior: smooth;
+            scrollbar-width: thin;
+        }
+        .phone-item {
+            flex: 0 0 180px;
+            text-align: center;
+            background: rgba(30,30,30,0.6);
+            border-radius: 32px;
+            padding: 20px 10px;
+            backdrop-filter: blur(5px);
+        }
+        .phone-item img {
+            width: 120px;
+            margin-bottom: 12px;
+            border-radius: 20px;
+        }
+        .slider-controls {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin: 20px 0;
+        }
+        .ctrl-btn {
+            background: rgba(255,255,255,0.2);
+            border: none;
+            color: white;
+            font-size: 1.8rem;
+            width: 48px;
+            border-radius: 50%;
+            cursor: pointer;
+            transition: 0.2s;
+        }
+        .footer-links {
+            margin-top: 80px;
+            display: flex;
+            justify-content: center;
+            gap: 50px;
+            flex-wrap: wrap;
+        }
+        .footer-link-item a {
+            color: #aaa;
+            text-decoration: none;
+        }
+        @media (max-width: 800px) {
+            .visual-grid { grid-template-columns: 1fr; }
+            .icon-card { width: 90%; }
+            .section-title { font-size: 2.2rem; }
+        }
+    </style>
+</head>
+<body>
+
+<nav class="navbar" id="navbar">
+    <div class="logo">
+        <svg width="70" height="16" viewBox="0 0 70 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M44.8875 0.682373H42.168V15.6568H44.8875V0.682373Z" fill="white"/>
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M25.3359 0.682373V9.28793C25.3359 13.1627 27.9258 16 32.1118 16C36.256 16 38.7162 13.1607 38.7162 9.28793V0.682373L35.9966 0.682373V9.37373C35.9966 11.7401 34.7875 13.462 32.1118 13.462C29.4781 13.462 28.0974 11.6563 28.0974 9.37373V0.682373H25.3359Z" fill="white"/>
+            <path d="M21.6663 0.682373H18.9468V15.6568H21.6663V0.682373Z" fill="white"/>
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M8.02694 11.3111L12.6021 6.36288V15.6568H15.3216V0.682373H14.5016L7.63986 7.9551L0.776157 0.682373H0L0 15.6568H2.67565L2.67565 6.36288L7.38047 11.3111H8.02694Z" fill="white"/>
+            <path d="M57.2098 0.682373V15.6129H54.5103V3.24628H52.3135V0.682373L57.2098 0.682373Z" fill="white"/>
+            <path d="M63.9258 13.1049H69.5305V15.4593H60.6775V13.454L66.0627 6.82579C66.9127 5.80022 67.196 5.14777 67.196 4.31775C67.196 3.20638 66.346 2.42025 65.1469 2.42025C63.9258 2.42025 62.966 3.31413 62.966 4.73076H60.458C60.458 1.8516 62.4213 0 65.1469 0C67.7208 0 69.6602 1.8536 69.6602 4.31775C69.6602 5.88802 68.896 7.08717 67.7188 8.5038L63.9258 13.1049Z" fill="white"/>
+        </svg>
+    </div>
+    <div class="nav-links">
+        <a href="#">首页</a>
+        <a href="#">课堂</a>
+        <a href="#">视效</a>
+        <a href="#">动态</a>
+    </div>
+</nav>
+
+<!-- 第一页：超级壁纸区域 -->
+<div class="super-wrapper">
+    <div class="super-pin" id="superPin">
+        <div class="super-content">
+            <div class="phones-layer" id="phoneLayer">
+                <div class="phone phone-left" id="phoneLeft">
+                    <img src="https://cdn.cnbj1.fds.api.mi-img.com/miui12-homepage/pSLUAM-6u.png" alt="phone left">
+                </div>
+                <div class="phone phone-center" id="phoneCenter">
+                    <img src="https://cdn.cnbj1.fds.api.mi-img.com/miui12-homepage/y8w0fwBAk.jpg" alt="main phone">
+                </div>
+                <div class="phone phone-right" id="phoneRight">
+                    <img src="https://cdn.cnbj1.fds.api.mi-img.com/miui12-homepage/LDD1f7Q2f.png" alt="phone right">
+                </div>
+                <div class="phone phone-back" id="phoneBack">
+                    <img src="https://cdn.cnbj1.fds.api.mi-img.com/miui12-homepage/S7r8_JMUs.png" alt="back phone">
+                </div>
+            </div>
+            <div class="super-title">
+                <!-- Logo 先显示，靠上 -->
+                <div class="logo-showwrite" id="logoShowWrite">ShowWrite</div>
+                <!-- 主标题，初始隐藏，滚动后显现，垂直居中 -->
+                <h1 class="main-headline" id="dynamicHeadline">展示助力课堂</h1>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- 第二页：动态天气 -->
+<section class="weather-section" id="weatherSec">
+    <video id="weatherVideo" class="weather-bg-video" src="https://cdn.cnbj1.fds.api.mi-img.com/miui12-homepage/cm-EX3rBJ.mp4" muted autoplay loop playsinline></video>
+    <div class="weather-content container">
+        <h2 class="weather-title fade-up">感受真实</h2>
+        <p class="section-desc fade-up">将自然、极具生命力的气候元素融入系统天气应用，在指尖即可感受气候变化，欣赏阴晴雨雪之美。</p>
+        <div class="replay-btn fade-up" id="weatherReplay">
+            <span>重播动态天气</span>
+            <svg width="16" height="14" viewBox="0 0 20 14" fill="none"><path fill-rule="evenodd" clip-rule="evenodd" d="M16.0896 7.99925L0 7.99925V5.99925L16.0885 5.99925L12.6097 2.17249L14.0895 0.827148L19.0896 6.32715L19.7011 6.99982L19.0896 7.67249L14.0895 13.1725L12.6097 11.8271L16.0896 7.99925Z" fill="white"></path></svg>
+        </div>
+    </div>
+</section>
+
+<!-- 后续模块保持不变 -->
+<section class="maml-section">
+    <div class="container maml-grid">
+        <div class="maml-text fade-up">
+            <h2>光锥动效架构</h2>
+            <p>自研物理引擎，重写底层渲染。通过 MAML 插画引擎、Folme 物理引擎，实现完美动态圆角、高级混色，系统动画焕然一新。</p>
+        </div>
+        <div class="maml-img fade-up">
+            <img src="https://cdn.cnbj1.fds.api.mi-img.com/miui12-homepage/b6OFyNhHl.png" alt="光锥架构">
+        </div>
+    </div>
+</section>
+
+<section class="icons-section">
+    <div class="container">
+        <div class="icon-cards">
+            <div class="icon-card fade-up">
+                <h3>应用图标删除动效</h3>
+                <p>绽放精彩，传递律动</p>
+                <video id="deleteVideo" class="icon-video" src="https://cdn.cnbj1.fds.api.mi-img.com/miui12-homepage/fKpZszP22.mp4" poster="https://cdn.cnbj1.fds.api.mi-img.com/miui12-homepage/9ZQ9UCHeN.png" muted playsinline></video>
+                <div class="replay-btn" id="deleteReplay">重播<img src="https://cdn.cnbj1.fds.api.mi-img.com/miui12-homepage/_PidVi45D.svg" style="width:16px; margin-left:6px;"></div>
+            </div>
+            <div class="icon-card fade-up">
+                <h3>系统图标动效</h3>
+                <p>按钮仿真动效 · 每次点击怦然心动</p>
+                <video id="systemVideo" class="icon-video" src="https://cdn.cnbj1.fds.api.mi-img.com/miui12-homepage/8ej86ffM_.mp4" poster="https://cdn.cnbj1.fds.api.mi-img.com/miui12-homepage/uRnK3dHxs.png" muted playsinline></video>
+                <div class="replay-btn" id="systemReplay">重播<img src="https://cdn.cnbj1.fds.api.mi-img.com/miui12-homepage/_PidVi45D.svg" style="width:16px; margin-left:6px;"></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="maml-section" style="background:#050505">
+    <div class="container">
+        <h2 class="section-title fade-up">通感可视化 · 跨越语言</h2>
+        <div class="visual-grid">
+            <div class="vis-item fade-up">
+                <video class="vis-video" id="dailyVideo" src="https://cdn.cnbj1.fds.api.mi-img.com/miui12-homepage/SWoBjDSNl.mp4" muted autoplay loop playsinline></video>
+                <h3>为每一个纪念日增加仪式感</h3>
+            </div>
+            <div class="vis-item fade-up">
+                <video class="vis-video" id="electricVideo" src="https://cdn.cnbj1.fds.api.mi-img.com/miui12-homepage/jxycHQDYC.mp4" muted autoplay loop playsinline></video>
+                <h3>全新可视化UI，高效传递信息</h3>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="plan-section">
+    <div class="container">
+        <h2 class="section-title fade-up">MIUI 12 发版计划</h2>
+        <div class="phone-slider" id="phoneSlider">
+            <div class="phone-item"><img src="https://cdn.cnbj1.fds.api.mi-img.com/miui12-homepage/part3/phone10u.png" onerror="this.src='https://placehold.co/120x240?text=Mi10U'"><p>小米10 至尊版</p></div>
+            <div class="phone-item"><img src="https://cdn.cnbj1.fds.api.mi-img.com/miui12-homepage/part3/k30u.png" onerror="this.src='https://placehold.co/120x240?text=K30U'"><p>Redmi K30 Ultra</p></div>
+            <div class="phone-item"><img src="https://cdn.cnbj1.fds.api.mi-img.com/miui12-homepage/part3/mi10pro.png" onerror="this.src='https://placehold.co/120x240?text=Mi10Pro'"><p>小米10 Pro</p></div>
+            <div class="phone-item"><img src="https://cdn.cnbj1.fds.api.mi-img.com/miui12-homepage/part3/mi10.png" onerror="this.src='https://placehold.co/120x240?text=Mi10'"><p>小米10</p></div>
+        </div>
+        <div class="slider-controls">
+            <button class="ctrl-btn" id="scrollLeftBtn">←</button>
+            <button class="ctrl-btn" id="scrollRightBtn">→</button>
+        </div>
+        <div class="footer-links">
+            <div class="footer-link-item"><a href="#">隐私课堂</a></div>
+            <div class="footer-link-item"><a href="#">助力社区</a></div>
+        </div>
+    </div>
+</section>
+
+<script>
+    gsap.registerPlugin(ScrollTrigger);
+    
+    // 导航栏滚动样式
+    window.addEventListener('scroll', () => {
+        const nav = document.getElementById('navbar');
+        if (window.scrollY > 50) nav.classList.add('scrolled');
+        else nav.classList.remove('scrolled');
+    });
+    
+    // 元素获取
+    const headline = document.getElementById('dynamicHeadline');
+    const logo = document.getElementById('logoShowWrite');
+    
+    // 设置初始状态：logo 可见，标题完全隐藏
+    gsap.set(logo, { opacity: 1, y: 0 });
+    gsap.set(headline, { opacity: 0, y: 80, letterSpacing: '0px' });
+    
+    // 创建滚动驱动的动画时间线（跟随滚动），实现“先隐藏Logo，间隔后再显示slogan”
+    const tlTransition = gsap.timeline({
+        scrollTrigger: {
+            trigger: ".super-wrapper",
+            start: "top top",
+            end: "bottom top",
+            scrub: 1.2,
+            invalidateOnRefresh: true
+        }
+    });
+    
+    // 阶段1：滚动开始后，Logo 快速淡出（0% ~ 15% 进度）
+    tlTransition.to(logo, {
+        opacity: 0,
+        duration: 0.15,
+        ease: "none"
+    }, 0)
+    .to(logo, {
+        y: -20,
+        duration: 0.15,
+        ease: "none"
+    }, 0);
+    
+    // 阶段2：延迟一点，再让标题开始出现（从滚动进度 0.3 开始，即 30% 处才启动标题动画）
+    // 标题动画：升起 → 拉大字符间距 → 渐隐向上
+    tlTransition.to(headline, {
+        y: 0,
+        opacity: 1,
+        duration: 0.2,
+        ease: "none"
+    }, 0.3)   // 延迟到 30% 进度
+    .to(headline, {
+        letterSpacing: '0.25em',
+        duration: 0.2,
+        ease: "none"
+    }, 0.45)
+    .to(headline, {
+        y: -80,
+        opacity: 0,
+        letterSpacing: '1.2em',
+        duration: 0.4,
+        ease: "none"
+    }, 0.7);
+    
+    // 手机视差动画（保留原有动效）
+    const tlPhones = gsap.timeline({
+        scrollTrigger: {
+            trigger: ".super-wrapper",
+            start: "top top",
+            end: "bottom top",
+            scrub: 1.0
+        }
+    });
+    tlPhones.fromTo("#phoneCenter", { scale: 1, y: 0 }, { scale: 1.25, y: -50, duration: 1 }, 0)
+            .to("#phoneCenter", { scale: 0.95, y: 40, duration: 1 }, 1)
+            .fromTo("#phoneLeft", { x: -280, opacity: 0.7, scale: 0.8 }, { x: -380, opacity: 0, scale: 0.5, duration: 1.2 }, 0.3)
+            .fromTo("#phoneRight", { x: 280, opacity: 0.7, scale: 0.8 }, { x: 380, opacity: 0, scale: 0.5, duration: 1.2 }, 0.3)
+            .fromTo("#phoneBack", { opacity: 0, scale: 1.2 }, { opacity: 0.6, scale: 1, duration: 1 }, 0.5);
+    
+    gsap.set("#phoneLeft", { x: -280, scale: 0.8, opacity: 0.7 });
+    gsap.set("#phoneRight", { x: 280, scale: 0.8, opacity: 0.7 });
+    gsap.set("#phoneCenter", { x: 0, scale: 1 });
+    gsap.set("#phoneBack", { opacity: 0, scale: 1.2 });
+    
+    // 其他模块滚动动画（保持不变）
+    gsap.utils.toArray(".weather-section .fade-up").forEach(el => {
+        gsap.fromTo(el, { autoAlpha: 0, y: 50 }, {
+            scrollTrigger: {
+                trigger: ".weather-section",
+                start: "top 80%",
+                end: "bottom 30%",
+                toggleActions: "play none none reverse"
+            },
+            duration: 1,
+            y: 0,
+            autoAlpha: 1,
+            ease: "power2.out"
+        });
+    });
+    
+    const weatherVideo = document.getElementById('weatherVideo');
+    if(weatherVideo) {
+        document.getElementById('weatherReplay').addEventListener('click', () => {
+            weatherVideo.currentTime = 0;
+            weatherVideo.play().catch(e=>console.log);
+        });
+    }
+    
+    gsap.utils.toArray(".maml-section .fade-up").forEach(el => {
+        gsap.fromTo(el, { autoAlpha: 0, y: 60 }, {
+            scrollTrigger: {
+                trigger: ".maml-section",
+                start: "top 70%",
+                toggleActions: "play none none reverse"
+            },
+            duration: 1,
+            y: 0,
+            autoAlpha: 1,
+            stagger: 0.2
+        });
+    });
+    
+    gsap.utils.toArray(".icon-card").forEach(card => {
+        gsap.fromTo(card, { autoAlpha: 0, y: 50 }, {
+            scrollTrigger: {
+                trigger: ".icons-section",
+                start: "top 75%",
+                toggleActions: "play none none reverse"
+            },
+            duration: 0.9,
+            y: 0,
+            autoAlpha: 1,
+            stagger: 0.2
+        });
+    });
+    
+    const deleteVideo = document.getElementById('deleteVideo');
+    if(deleteVideo) {
+        document.getElementById('deleteReplay').addEventListener('click', () => {
+            deleteVideo.currentTime = 0;
+            deleteVideo.play().catch(e=>console.log);
+        });
+    }
+    const systemVideo = document.getElementById('systemVideo');
+    if(systemVideo) {
+        document.getElementById('systemReplay').addEventListener('click', () => {
+            systemVideo.currentTime = 0;
+            systemVideo.play().catch(e=>console.log);
+        });
+    }
+    
+    const visVideos = document.querySelectorAll('.vis-video');
+    visVideos.forEach(vid => { vid.play().catch(e=>console.log); });
+    gsap.utils.toArray(".vis-item").forEach(item => {
+        gsap.fromTo(item, { autoAlpha: 0, y: 40 }, {
+            scrollTrigger: {
+                trigger: ".visual-grid",
+                start: "top 80%",
+                toggleActions: "play none none reverse"
+            },
+            duration: 0.8,
+            y: 0,
+            autoAlpha: 1,
+            stagger: 0.15
+        });
+    });
+    
+    gsap.fromTo(".plan-section .section-title", { autoAlpha: 0, y: 40 }, {
+        scrollTrigger: {
+            trigger: ".plan-section",
+            start: "top 80%",
+        },
+        duration: 1,
+        y: 0,
+        autoAlpha: 1
+    });
+    
+    const slider = document.getElementById('phoneSlider');
+    const leftBtn = document.getElementById('scrollLeftBtn');
+    const rightBtn = document.getElementById('scrollRightBtn');
+    if(leftBtn && rightBtn && slider) {
+        leftBtn.addEventListener('click', () => { slider.scrollBy({ left: -260, behavior: 'smooth' }); });
+        rightBtn.addEventListener('click', () => { slider.scrollBy({ left: 260, behavior: 'smooth' }); });
+    }
+    
+    const allVids = document.querySelectorAll('video');
+    allVids.forEach(vid => {
+        vid.muted = true;
+        vid.play().catch(e=>{});
+    });
+    
+    ScrollTrigger.refresh();
+</script>
+</body>
+</html>

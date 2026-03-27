@@ -7,26 +7,6 @@ footer: false
 pageClass: custom-home-page
 ---
 
-<!-- ============ 导航栏 ============ -->
-<nav class="navbar" id="navbar">
-  <div class="logo">
-    <svg width="70" height="16" viewBox="0 0 70 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <path d="M44.8875 0.682373H42.168V15.6568H44.8875V0.682373Z" fill="white"/>
-      <path fill-rule="evenodd" clip-rule="evenodd" d="M25.3359 0.682373V9.28793C25.3359 13.1627 27.9258 16 32.1118 16C36.256 16 38.7162 13.1607 38.7162 9.28793V0.682373L35.9966 0.682373V9.37373C35.9966 11.7401 34.7875 13.462 32.1118 13.462C29.4781 13.462 28.0974 11.6563 28.0974 9.37373V0.682373H25.3359Z" fill="white"/>
-      <path d="M21.6663 0.682373H18.9468V15.6568H21.6663V0.682373Z" fill="white"/>
-      <path fill-rule="evenodd" clip-rule="evenodd" d="M8.02694 11.3111L12.6021 6.36288V15.6568H15.3216V0.682373H14.5016L7.63986 7.9551L0.776157 0.682373H0L0 15.6568H2.67565L2.67565 6.36288L7.38047 11.3111H8.02694Z" fill="white"/>
-      <path d="M57.2098 0.682373V15.6129H54.5103V3.24628H52.3135V0.682373L57.2098 0.682373Z" fill="white"/>
-      <path d="M63.9258 13.1049H69.5305V15.4593H60.6775V13.454L66.0627 6.82579C66.9127 5.80022 67.196 5.14777 67.196 4.31775C67.196 3.20638 66.346 2.42025 65.1469 2.42025C63.9258 2.42025 62.966 3.31413 62.966 4.73076H60.458C60.458 1.8516 62.4213 0 65.1469 0C67.7208 0 69.6602 1.8536 69.6602 4.31775C69.6602 5.88802 68.896 7.08717 67.7188 8.5038L63.9258 13.1049Z" fill="white"/>
-    </svg>
-  </div>
-  <div class="nav-links">
-    <a href="#">首页</a>
-    <a href="#">课堂</a>
-    <a href="#">视效</a>
-    <a href="#">动态</a>
-  </div>
-</nav>
-
 <!-- ============ 超级壁纸区域 ============ -->
 <div class="super-wrapper">
   <div class="super-pin" id="superPin">
@@ -100,7 +80,7 @@ pageClass: custom-home-page
 </section>
 
 <!-- ============ 通感可视化 ============ -->
-<section class="maml-section" style="background:#050505">
+<section class="maml-section maml-section-dark">
   <div class="container">
     <h2 class="section-title fade-up">通感可视化 · 跨越语言</h2>
     <div class="visual-grid">
@@ -144,7 +124,6 @@ import { onMounted, onUnmounted } from 'vue'
 let cleanupFns = []
 
 onMounted(() => {
-  // 动态加载 GSAP（如果 config.head 未预加载）
   const loadScript = (src) => {
     return new Promise((resolve, reject) => {
       if (document.querySelector(`script[src="${src}"]`)) {
@@ -175,28 +154,15 @@ function initAnimations() {
   const { gsap, ScrollTrigger } = window
   if (!gsap || !ScrollTrigger) return
 
-  // 导航栏滚动样式
-  const handleScroll = () => {
-    const nav = document.getElementById('navbar')
-    if (nav) {
-      if (window.scrollY > 50) nav.classList.add('scrolled')
-      else nav.classList.remove('scrolled')
-    }
-  }
-  window.addEventListener('scroll', handleScroll)
-  cleanupFns.push(() => window.removeEventListener('scroll', handleScroll))
-
   // 元素获取 + 空值判断
   const headline = document.getElementById('dynamicHeadline')
   const logo = document.getElementById('logoShowWrite')
   const phones = document.querySelectorAll('.phone')
   
-  // 设置初始状态
   if (logo) gsap.set(logo, { opacity: 1, y: 0 })
   if (headline) gsap.set(headline, { opacity: 0, y: 300, letterSpacing: '0.5em' })
   if (phones.length) gsap.set(phones, { opacity: 0 })
   
-  // 手机目标透明度
   const phoneTargets = {
     '#phoneCenter': 1,
     '#phoneLeft': 0.7,
@@ -204,7 +170,6 @@ function initAnimations() {
     '#phoneBack': 0.6
   }
   
-  // 过渡动画时间线
   const tlTransition = gsap.timeline({
     scrollTrigger: {
       trigger: ".super-wrapper",
@@ -228,7 +193,6 @@ function initAnimations() {
       .to(headline, { y: -80, opacity: 0, letterSpacing: '1.2em', duration: 0.4, ease: "none" }, 0.6)
   }
   
-  // 手机视差动画
   const tlPhones = gsap.timeline({
     scrollTrigger: {
       trigger: ".super-wrapper",
@@ -243,13 +207,12 @@ function initAnimations() {
           .fromTo("#phoneRight", { x: 280, scale: 0.8 }, { x: 380, scale: 0.5, duration: 1.2 }, 0.3)
           .fromTo("#phoneBack", { scale: 1.2 }, { scale: 1, duration: 1 }, 0.5)
   
-  // 确保初始位置
   gsap.set("#phoneLeft", { x: -280, scale: 0.8 })
   gsap.set("#phoneRight", { x: 280, scale: 0.8 })
   gsap.set("#phoneCenter", { x: 0, scale: 1 })
   gsap.set("#phoneBack", { scale: 1.2 })
   
-  // 其他模块滚动动画
+  // 滚动动画工具函数
   const fadeUp = (selector, trigger, start = "top 80%") => {
     gsap.utils.toArray(selector).forEach(el => {
       gsap.fromTo(el, { autoAlpha: 0, y: 50 }, {
@@ -264,7 +227,7 @@ function initAnimations() {
   fadeUp(".icon-card", ".icons-section", "top 75%")
   fadeUp(".vis-item", ".visual-grid", "top 80%")
   
-  // 视频重播按钮
+  // 视频重播
   const bindReplay = (videoId, btnId) => {
     const video = document.getElementById(videoId)
     const btn = document.getElementById(btnId)
@@ -298,17 +261,14 @@ function initAnimations() {
     })
   }
   
-  // 标题动画
   gsap.fromTo(".plan-section .section-title", { autoAlpha: 0, y: 40 }, {
     scrollTrigger: { trigger: ".plan-section", start: "top 80%" },
     duration: 1, y: 0, autoAlpha: 1
   })
   
-  // 刷新 ScrollTrigger
   ScrollTrigger.refresh()
 }
 
-// 组件卸载时清理副作用
 onUnmounted(() => {
   cleanupFns.forEach(fn => fn())
   cleanupFns = []
@@ -318,9 +278,9 @@ onUnmounted(() => {
 })
 </script>
 
-<!-- ============ 样式（scoped + 前缀限定） ============ -->
+<!-- ============ 样式（关键修改：背景全屏 + 删除导航） ============ -->
 <style scoped>
-/* 基础重置（仅限本页） */
+/* ========== 基础重置 ========== */
 .custom-home-page,
 .custom-home-page * {
   margin: 0;
@@ -345,51 +305,32 @@ onUnmounted(() => {
   border-radius: 3px;
 }
 
-/* 导航栏 */
-.custom-home-page .navbar {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  z-index: 100;
-  padding: 1.2rem 3rem;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  backdrop-filter: blur(10px);
-  background: rgba(0,0,0,0.5);
-  transition: all 0.3s ease;
-}
-.custom-home-page .navbar.scrolled {
-  background: rgba(0,0,0,0.85);
-  backdrop-filter: blur(12px);
-  padding: 0.8rem 3rem;
-}
-.custom-home-page .logo svg path {
-  fill: white;
-}
-.custom-home-page .nav-links {
-  display: flex;
-  gap: 2rem;
-}
-.custom-home-page .nav-links a {
-  color: rgba(255,255,255,0.8);
-  text-decoration: none;
-  font-size: 0.9rem;
-  font-weight: 500;
-  letter-spacing: 1px;
-  transition: 0.2s;
-}
-.custom-home-page .nav-links a:hover {
-  color: white;
-}
-
-/* 超级壁纸区域 */
-.custom-home-page .super-wrapper {
-  height: 300vh;
+/* ========== 🔥 核心：让所有区块背景全屏平铺 ========== */
+/* 原理：内容保持居中，背景通过 100vw + 负 margin 延伸到屏幕边缘 */
+.custom-home-page .super-wrapper,
+.custom-home-page .weather-section,
+.custom-home-page .maml-section,
+.custom-home-page .icons-section,
+.custom-home-page .plan-section {
+  width: 100vw;
   position: relative;
+  left: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  /* 确保背景色/视频铺满 */
   background-color: #000;
 }
+
+/* 内容容器：保持居中，有最大宽度 */
+.custom-home-page .container {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 4%;
+  position: relative;
+  z-index: 2; /* 确保内容在背景之上 */
+}
+
+/* ========== 超级壁纸区域 ========== */
 .custom-home-page .super-pin {
   position: sticky;
   top: 0;
@@ -488,29 +429,8 @@ onUnmounted(() => {
   will-change: transform, letter-spacing, opacity;
 }
 
-/* 响应式 */
-@media (max-width: 800px) {
-  .custom-home-page .navbar { padding: 1rem; }
-  .custom-home-page .nav-links { display: none; }
-  .custom-home-page .logo-showwrite,
-  .custom-home-page .main-headline { 
-    font-size: 2.5rem; 
-    white-space: normal; 
-    padding: 0 20px;
-  }
-  .custom-home-page .logo-showwrite { margin-top: -15vh; }
-  .custom-home-page .main-headline {
-    transform: translateY(200px);
-    letter-spacing: 0.3em;
-  }
-  .custom-home-page .phone-center { width: 220px; }
-  .custom-home-page .phone-left { transform: translateX(-180px) scale(0.7); }
-  .custom-home-page .phone-right { transform: translateX(180px) scale(0.7); }
-}
-
-/* 其他模块 */
+/* ========== 动态天气 ========== */
 .custom-home-page .weather-section {
-  background: #000;
   position: relative;
   min-height: 100vh;
 }
@@ -525,8 +445,6 @@ onUnmounted(() => {
   z-index: 0;
 }
 .custom-home-page .weather-content {
-  position: relative;
-  z-index: 2;
   padding: 15% 0;
   text-align: center;
 }
@@ -560,14 +478,12 @@ onUnmounted(() => {
   background: rgba(255,255,255,0.3);
 }
 
+/* ========== MAML 光锥架构 ========== */
 .custom-home-page .maml-section {
-  background: #000;
   padding: 100px 0;
 }
-.custom-home-page .container {
-  max-width: 1400px;
-  margin: 0 auto;
-  padding: 0 4%;
+.custom-home-page .maml-section-dark {
+  background: #050505;
 }
 .custom-home-page .maml-grid {
   display: flex;
@@ -599,9 +515,10 @@ onUnmounted(() => {
   filter: drop-shadow(0 20px 30px rgba(0,0,0,0.5));
 }
 
+/* ========== 图标动效 ========== */
 .custom-home-page .icons-section {
-  background: #030303;
   padding: 120px 0;
+  background: #030303;
 }
 .custom-home-page .icon-cards {
   display: flex;
@@ -628,6 +545,7 @@ onUnmounted(() => {
   margin-top: 20px;
 }
 
+/* ========== 通感可视化 ========== */
 .custom-home-page .visual-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -647,10 +565,11 @@ onUnmounted(() => {
   margin-bottom: 20px;
 }
 
+/* ========== 发版计划 ========== */
 .custom-home-page .plan-section {
-  background: #000;
   padding: 100px 0;
   text-align: center;
+  background: #000;
 }
 .custom-home-page .section-title {
   font-size: 3rem;
@@ -706,9 +625,28 @@ onUnmounted(() => {
   text-decoration: none;
 }
 
+/* ========== 响应式 ========== */
 @media (max-width: 800px) {
+  .custom-home-page .logo-showwrite,
+  .custom-home-page .main-headline { 
+    font-size: 2.5rem; 
+    white-space: normal; 
+    padding: 0 20px;
+  }
+  .custom-home-page .logo-showwrite { margin-top: -15vh; }
+  .custom-home-page .main-headline {
+    transform: translateY(200px);
+    letter-spacing: 0.3em;
+  }
+  .custom-home-page .phone-center { width: 220px; }
+  .custom-home-page .phone-left { transform: translateX(-180px) scale(0.7); }
+  .custom-home-page .phone-right { transform: translateX(180px) scale(0.7); }
+  
   .custom-home-page .visual-grid { grid-template-columns: 1fr; }
   .custom-home-page .icon-card { width: 90%; }
   .custom-home-page .section-title { font-size: 2.2rem; }
+  
+  .custom-home-page .maml-grid { flex-direction: column; text-align: center; }
+  .custom-home-page .maml-text { text-align: center; }
 }
 </style>

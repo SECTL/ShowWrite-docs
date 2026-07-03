@@ -34,16 +34,14 @@ pageClass: custom-home-page
  <script src="http://jyj.jinhua.gov.cn/script/webgray_jXChbkHmmvbqodAbsTm6b.js"></script>
  <link rel="stylesheet" href="http://jyj.jinhua.gov.cn/cms_files/default/css/iconfont.css" />
 <link rel="stylesheet" href="http://jyj.jinhua.gov.cn/cms_files/default/script/layui/css/layui.css" />
-<title>浙江省教育厅</title>
+<title>ShowWrite视频展台</title>
 <meta name="ColId" content="jXChbkHmmvbqodAbsTm6b">
-<meta name="SiteName" content="浙江省教育厅">
-<meta name="SiteDomain" content="jyt.zj.gov.cn">
-<meta name="SiteIDCode" content="3300000022">
-<meta name="server" content="jyt.zj.gov.cn/index.html">
+<meta name="SiteName" content="ShowWrite视频展台">
+
 <meta id="pagetype" content="0">
 </head>
 
-<body id="wbody"><div id='barrierfree_container' pageTimestamp= '1783040924597'>
+
 
 
 

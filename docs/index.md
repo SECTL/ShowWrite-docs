@@ -7,4 +7,4980 @@ footer: false
 pageClass: custom-home-page
 ---
 
-<body style="background-color: rgb(0, 0, 0);"><div id="__next"><nav id="_navbar" class="fixed top-0 left-0 z-40 w-full overflow-hidden transition-all desktop:hidden flex items-center  text-white  bg-black h-48 tablet:h-56"><div class="h-full pt-48 overflow-x-hidden overflow-y-scroll tablet:pt-56 safe-area"><a href="/" class="flex justify-between items-center text-[20px] font-light py-24 tablet:py-32 border-b first:border-t transition px-16 tablet:px-8  text-white/60 border-white/10 text-blue text-[32px] relative !border-0 mt-[-1px]" style="transform:translateY(-30%);opacity:0;transition-delay:0ms"><div class="absolute left-[-999px] w-[9999px] top-0 h-full bg-[#141414]"></div><span class="relative ">MIUI</span><div class="w-8" style="position: relative; overflow: hidden;"><div style="padding-top: 175%;"></div></div></a><a href="/phone" class="flex justify-between items-center text-[20px] font-light py-24 tablet:py-32 border-b first:border-t transition px-16 tablet:px-8  text-white/60 border-white/10" style="transform:translateY(-30%);opacity:0;transition-delay:0ms"><span class="relative ">Phone</span><div class="w-8" style="position: relative; overflow: hidden;"><div style="padding-top: 175%;"></div></div></a><a href="/foldpad" class="flex justify-between items-center text-[20px] font-light py-24 tablet:py-32 border-b first:border-t transition px-16 tablet:px-8  text-white/60 border-white/10" style="transform:translateY(-30%);opacity:0;transition-delay:0ms"><span class="relative ">Fold/Pad</span><div class="w-8" style="position: relative; overflow: hidden;"><div style="padding-top: 175%;"></div></div></a><a href="/watch" class="flex justify-between items-center text-[20px] font-light py-24 tablet:py-32 border-b first:border-t transition px-16 tablet:px-8  text-white/60 border-white/10" style="transform:translateY(-30%);opacity:0;transition-delay:0ms"><span class="relative ">Watch</span><div class="w-8" style="position: relative; overflow: hidden;"><div style="padding-top: 175%;"></div></div></a><a href="/home" class="flex justify-between items-center text-[20px] font-light py-24 tablet:py-32 border-b first:border-t transition px-16 tablet:px-8  text-white/60 border-white/10" style="transform:translateY(-30%);opacity:0;transition-delay:0ms"><span class="relative ">Home</span><div class="w-8" style="position: relative; overflow: hidden;"><div style="padding-top: 175%;"></div></div></a><a href="/tv" class="flex justify-between items-center text-[20px] font-light py-24 tablet:py-32 border-b first:border-t transition px-16 tablet:px-8  text-white/60 border-white/10" style="transform:translateY(-30%);opacity:0;transition-delay:0ms"><span class="relative ">TV</span><div class="w-8" style="position: relative; overflow: hidden;"><div style="padding-top: 175%;"></div></div></a><a href="/release" class="flex justify-between items-center text-[20px] font-light py-24 tablet:py-32 border-b first:border-t transition px-16 tablet:px-8  text-white/60 border-white/10" style="transform:translateY(-30%);opacity:0;transition-delay:0ms"><span class="relative ">发版计划</span><div class="w-8" style="position: relative; overflow: hidden;"><div style="padding-top: 175%;"></div></div></a></div><div class="absolute top-0 flex items-center justify-end w-full h-48 tablet:h-56"><div class="cursor-pointer relative w-24 right-32 tablet:right-68"><svg viewBox="0 0 100 100" fill="currentColor"><rect width="74" height="6" x="13" y="22" rx="6" transform="" class="transition-all"></rect><rect width="74" height="6" x="13" y="47" rx="6" transform="" class="transition-all"></rect><rect width="53" height="6" x="34" y="72" opacity="1" rx="6" class="transition-all"></rect></svg></div></div></nav><nav id="_navbar" class="fixed top-0 left-0 z-50 w-full transition hidden desktop:block text-white  bg-black/80 backdrop-blur-2xl"><div class="flex h-64 safe-area-extend"><div class="flex-grow"></div><div class="flex items-center space-x-64"><a href="/" class="text-[16px] text-blue">MIUI</a><a href="/phone" class="text-[16px] hover:opacity-60">Phone</a><a href="/foldpad" class="text-[16px] hover:opacity-60">Fold/Pad</a><a href="/watch" class="text-[16px] hover:opacity-60">Watch</a><a href="/home" class="text-[16px] hover:opacity-60">Home</a><a href="/tv" class="text-[16px] hover:opacity-60">TV</a><a href="/release" class="text-[16px] hover:opacity-60">发版计划</a><div class="w-32 h-32 releative"><div class="cursor-pointer relative w-32 scale-75 hover:opacity-60"><svg viewBox="0 0 100 100" fill="currentColor"><rect width="74" height="6" x="13" y="22" rx="6" transform="" class="transition-all"></rect><rect width="74" height="6" x="13" y="47" rx="6" transform="" class="transition-all"></rect><rect width="53" height="6" x="34" y="72" opacity="1" rx="6" class="transition-all"></rect></svg></div><div class="absolute"></div></div></div><div class="flex-grow"></div></div></nav><main><div class="w-0 h-0 overflow-hidden"><div class="w-screen h-[48px] pointer-events-none"></div></div><div class="min-h-screen"><div class="h-[520px] bg-black relative z-10"><div class="_main"><div class="hidden desktop:block tablet:block"><div class="relative h-section"><video class="absolute inset-0 w-full h-full pointer-events-none" autoplay="" playsinline="" src="https://cdn.cnbj1.fds.api.mi-img.com/miui-13/connect/connect-desktop-landing_27.mp4" style="object-fit: cover; object-position: center center;"></video><div class="absolute inset-0 invisible w-full h-full overflow-hidden" style="visibility: visible;"><div class="flex items-center justify-center h-full"><div class="!absolute w-364 _text_1" style="position: relative; overflow: hidden; opacity: 0;"><div style="padding-top: 34.0659%;"></div><img src="https://cia.sec.miui.com/miui-13/miui-pad.svg" decoding="async" style="display: block; position: absolute; top: 0px; height: 100%; left: 0px; width: 100%; object-fit: cover; object-position: center center; opacity: 1; transition: opacity 330ms cubic-bezier(0.25, 0.46, 0.45, 0.94) 0s;"></div><div class="!absolute w-[468px] top-[15%] _text_2" style="position: relative; overflow: hidden; opacity: 1;"><div style="padding-top: 31.4103%;"></div><img src="https://cia.sec.miui.com/miui-13/Group-427318261_1.svg" decoding="async" style="display: block; position: absolute; top: 0px; height: 100%; left: 0px; width: 100%; object-fit: cover; object-position: center center; opacity: 1; transition: opacity 330ms cubic-bezier(0.25, 0.46, 0.45, 0.94) 0s;"></div></div></div></div></div></div></div><div class="mt-[-200px]"><div class="h-[4000px] bg-black"><div class="sticky top-0 h-0"><div class="relative flex items-center justify-center overflow-hidden opacity-0 h-section _section"><div class="absolute text-white _text_2 whitespace-nowrap font-normal text-[200px]" style="will-change: opacity, transform;"><span class="absolute top-[-53px] left-[3px] text-[40px] leading-[53px] opacity-40">小米</span>妙享<div class="inline-block w-232"></div>中心</div><div class="absolute _text_3" style="will-change: opacity, transform;"><h3 class="text-white text-h2">轻轻一拖<br>音乐流转</h3><p class="mt-24 text-body text-white/60 max-w-300">在小米妙享中心界面拖动音乐卡片，即可实现音乐在手机、平板、音箱和电视的快速流转。</p></div><div class="_phone_group absolute flex items-center justify-center w-[800px]" style="will-change: opacity, transform;"><div class="!absolute w-[100%] bottom-[3%] _sound_circle" style="position: relative; overflow: hidden; will-change: opacity, transform;"><div style="padding-top: 16.2447%;"></div><img src="https://cia.sec.miui.com/miui-13/image-513.png?imageMogr2/thumbnail/800x/quality/80/format/webp" decoding="async" style="display: block; position: absolute; top: 0px; height: 100%; left: 0px; width: 100%; object-fit: cover; object-position: center center;"></div><div class="flex-grow _phone_group_bg" style="position: relative; overflow: hidden; will-change: opacity;"><div style="padding-top: 184.225%;"></div><img src="https://cia.sec.miui.com/miui-13/Frame-427318282_5.png?imageMogr2/thumbnail/748x/quality/80/format/webp" decoding="async" style="display: block; position: absolute; top: 0px; height: 100%; left: 0px; width: 100%; object-fit: cover; object-position: center center;"></div><div class="absolute flex items-center justify-center inset-[10%]"><div class="absolute flex items-center justify-center w-full _bubble_group_1" style="will-change: transform;"><div class="w-full" style="position: relative; overflow: hidden;"><div style="padding-top: 99.793%;"></div><img src="https://cia.sec.miui.com/miui-13/Frame-261.png?imageMogr2/thumbnail/483x/quality/80/format/webp" decoding="async" style="display: block; position: absolute; top: 0px; height: 100%; left: 0px; width: 100%; object-fit: cover; object-position: center center; opacity: 1; transition: opacity 330ms cubic-bezier(0.25, 0.46, 0.45, 0.94) 0s;"></div><div class="!absolute w-[17%] top-[30%]" style="position: relative; overflow: hidden;"><div style="padding-top: 174.729%;"></div><img src="https://cia.sec.miui.com/miui-13/Group-427318237_1.png?imageMogr2/thumbnail/200x/quality/80/format/webp" decoding="async" style="display: block; position: absolute; top: 0px; height: 100%; left: 0px; width: 100%; object-fit: cover; object-position: center center; opacity: 1; transition: opacity 330ms cubic-bezier(0.25, 0.46, 0.45, 0.94) 0s;"></div><div class="!absolute w-[30%] bottom-[20%]" style="position: relative; overflow: hidden;"><div style="padding-top: 42.2222%;"></div><img src="https://cia.sec.miui.com/miui-13/Group-427318260_3.svg" decoding="async" style="display: block; position: absolute; top: 0px; height: 100%; left: 0px; width: 100%; object-fit: cover; object-position: center center; opacity: 1; transition: opacity 330ms cubic-bezier(0.25, 0.46, 0.45, 0.94) 0s;"></div><div class="_bubble_light_1" style="position: absolute; overflow: hidden; top: 0px; height: 100%; left: 0px; width: 100%; will-change: opacity;"><img src="https://cia.sec.miui.com/miui-13/image_15.png?imageMogr2/thumbnail/700x/quality/80/format/webp" decoding="async" style="display: block; position: absolute; top: 0px; height: 100%; left: 0px; width: 100%; object-fit: cover; object-position: center center; opacity: 1; transition: opacity 330ms cubic-bezier(0.25, 0.46, 0.45, 0.94) 0s;"></div></div><div class="absolute flex items-center justify-center w-full _bubble_group_2" style="will-change: transform;"><div class="w-full" style="position: relative; overflow: hidden;"><div style="padding-top: 99.793%;"></div><img src="https://cia.sec.miui.com/miui-13/Frame-261.png?imageMogr2/thumbnail/483x/quality/80/format/webp" decoding="async" style="display: block; position: absolute; top: 0px; height: 100%; left: 0px; width: 100%; object-fit: cover; object-position: center center; opacity: 1; transition: opacity 330ms cubic-bezier(0.25, 0.46, 0.45, 0.94) 0s;"></div><div class="!absolute w-[38%] top-[30%]" style="position: relative; overflow: hidden;"><div style="padding-top: 65.0759%;"></div><img src="https://cia.sec.miui.com/miui-13/tpbUFrpYK1DvF_vSEu0sj.png?imageMogr2/thumbnail/300x/quality/80/format/webp" decoding="async" style="display: block; position: absolute; top: 0px; height: 100%; left: 0px; width: 100%; object-fit: cover; object-position: center center; opacity: 1; transition: opacity 330ms cubic-bezier(0.25, 0.46, 0.45, 0.94) 0s;"></div><div class="!absolute w-[40%] bottom-[20%]" style="position: relative; overflow: hidden;"><div style="padding-top: 41.6667%;"></div><img src="https://cia.sec.miui.com/miui-13/Group-427318261_2.svg" decoding="async" style="display: block; position: absolute; top: 0px; height: 100%; left: 0px; width: 100%; object-fit: cover; object-position: center center; opacity: 1; transition: opacity 330ms cubic-bezier(0.25, 0.46, 0.45, 0.94) 0s;"></div></div><div class="absolute flex items-center justify-center w-full _bubble_group_3" style="will-change: transform;"><div class="w-full" style="position: relative; overflow: hidden;"><div style="padding-top: 99.793%;"></div><img src="https://cia.sec.miui.com/miui-13/Frame-261.png?imageMogr2/thumbnail/483x/quality/80/format/webp" decoding="async" style="display: block; position: absolute; top: 0px; height: 100%; left: 0px; width: 100%; object-fit: cover; object-position: center center; opacity: 1; transition: opacity 330ms cubic-bezier(0.25, 0.46, 0.45, 0.94) 0s;"></div><div class="!absolute w-[25%] top-[25%]" style="position: relative; overflow: hidden;"><div style="padding-top: 124.49%;"></div><img src="https://cia.sec.miui.com/miui-13/Frame-427318235_1.png?imageMogr2/thumbnail/196x/quality/80/format/webp" decoding="async" style="display: block; position: absolute; top: 0px; height: 100%; left: 0px; width: 100%; object-fit: cover; object-position: center center; opacity: 1; transition: opacity 330ms cubic-bezier(0.25, 0.46, 0.45, 0.94) 0s;"></div><div class="!absolute w-[45%] bottom-[15%]" style="position: relative; overflow: hidden;"><div style="padding-top: 42.8571%;"></div><img src="https://cia.sec.miui.com/miui-13/Group-427318262.svg" decoding="async" style="display: block; position: absolute; top: 0px; height: 100%; left: 0px; width: 100%; object-fit: cover; object-position: center center; opacity: 1; transition: opacity 330ms cubic-bezier(0.25, 0.46, 0.45, 0.94) 0s;"></div><div class="_bubble_light_2" style="position: absolute; overflow: hidden; top: 0px; height: 100%; left: 0px; width: 100%; will-change: opacity;"><img src="https://cia.sec.miui.com/miui-13/image_15.png?imageMogr2/thumbnail/700x/quality/80/format/webp" decoding="async" style="display: block; position: absolute; top: 0px; height: 100%; left: 0px; width: 100%; object-fit: cover; object-position: center center; opacity: 1; transition: opacity 330ms cubic-bezier(0.25, 0.46, 0.45, 0.94) 0s;"></div></div><div class="absolute flex items-center justify-center w-full _bubble_group_4" style="will-change: transform, opacity;"><div class="w-full" style="position: relative; overflow: hidden;"><div style="padding-top: 99.793%;"></div><img src="https://cia.sec.miui.com/miui-13/Frame-261.png?imageMogr2/thumbnail/483x/quality/80/format/webp" decoding="async" style="display: block; position: absolute; top: 0px; height: 100%; left: 0px; width: 100%; object-fit: cover; object-position: center center; opacity: 1; transition: opacity 330ms cubic-bezier(0.25, 0.46, 0.45, 0.94) 0s;"></div><div class="!absolute w-[40%] top-[30%]" style="position: relative; overflow: hidden;"><div style="padding-top: 70.4348%;"></div><img src="https://cia.sec.miui.com/miui-13/Frame-427318236.png?imageMogr2/thumbnail/300x/quality/80/format/webp" decoding="async" style="display: block; position: absolute; top: 0px; height: 100%; left: 0px; width: 100%; object-fit: cover; object-position: center center; opacity: 1; transition: opacity 330ms cubic-bezier(0.25, 0.46, 0.45, 0.94) 0s;"></div><div class="!absolute w-[55%] bottom-[20%]" style="position: relative; overflow: hidden;"><div style="padding-top: 31.746%;"></div><img src="https://cia.sec.miui.com/miui-13/Group-427318263_1.svg" decoding="async" style="display: block; position: absolute; top: 0px; height: 100%; left: 0px; width: 100%; object-fit: cover; object-position: center center; opacity: 1; transition: opacity 330ms cubic-bezier(0.25, 0.46, 0.45, 0.94) 0s;"></div></div><div class="!absolute _music_card w-[65%]" style="position: relative; overflow: hidden; will-change: opacity, transform;"><div style="padding-top: 64.8352%;"></div><img src="https://cia.sec.miui.com/miui-13/Group-427318259-1.png?imageMogr2/thumbnail/500x/quality/80/format/webp" decoding="async" style="display: block; position: absolute; top: 0px; height: 100%; left: 0px; width: 100%; object-fit: cover; object-position: center center; opacity: 1; transition: opacity 330ms cubic-bezier(0.25, 0.46, 0.45, 0.94) 0s;"></div></div></div><h2 class="absolute z-10 text-white _text_1 text-h1 !font-normal" style="will-change: opacity, transform;">内容在设备间无缝流转</h2></div></div></div></div><div class="mt-[-1000px]"><div class="bg-black h-[8000px] mt-[-100px]"><div class="sticky top-0 h-0"><div class="relative flex items-center justify-center mx-auto overflow-hidden opacity-0 _section h-section"><div class="min-w-[1440px] flex items-center justify-center relative"><div class="invisible bg-black _sound_player" style="will-change: opacity; position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;"><canvas width="1440" height="900" style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; object-fit: cover; object-position: center center;"></canvas></div><div class="relative w-full _sound_group"><div style="position: absolute; overflow: hidden; top: 0px; height: 100%; left: 0px; width: 100%; will-change: opacity, transform;"><img src="https://cia.sec.miui.com/miui-13/Lark20211215-105058.png?imageMogr2/thumbnail/720x/quality/80/format/webp" decoding="async" style="display: block; position: absolute; top: 0px; height: 100%; left: 0px; width: 100%; object-fit: cover; object-position: center center;"></div><div class="_sound_circle_left_1 !absolute w-[40%] left-[-2%] top-[60%]" style="position: relative; overflow: hidden; will-change: opacity, transform;"><div style="padding-top: 16.2975%;"></div><img src="https://cia.sec.miui.com/miui-13/image-513.png?imageMogr2/thumbnail/600x/quality/80/format/webp" decoding="async" style="display: block; position: absolute; top: 0px; height: 100%; left: 0px; width: 100%; object-fit: cover; object-position: center center;"></div><div class="_sound_circle_left_2 !absolute w-[40%] left-[-2%] top-[60%]" style="position: relative; overflow: hidden; will-change: opacity, transform;"><div style="padding-top: 16.2975%;"></div><img src="https://cia.sec.miui.com/miui-13/image-513.png?imageMogr2/thumbnail/600x/quality/80/format/webp" decoding="async" style="display: block; position: absolute; top: 0px; height: 100%; left: 0px; width: 100%; object-fit: cover; object-position: center center;"></div><div class="_sound_circle_left_3 !absolute w-[40%] left-[-2%] top-[60%]" style="position: relative; overflow: hidden; will-change: opacity, transform;"><div style="padding-top: 16.2975%;"></div><img src="https://cia.sec.miui.com/miui-13/image-513.png?imageMogr2/thumbnail/600x/quality/80/format/webp" decoding="async" style="display: block; position: absolute; top: 0px; height: 100%; left: 0px; width: 100%; object-fit: cover; object-position: center center;"></div><div class="_sound_circle_right_1 !absolute w-[40%] right-[-2%] top-[60%]" style="position: relative; overflow: hidden; will-change: opacity, transform;"><div style="padding-top: 16.2975%;"></div><img src="https://cia.sec.miui.com/miui-13/image-513.png?imageMogr2/thumbnail/600x/quality/80/format/webp" decoding="async" style="display: block; position: absolute; top: 0px; height: 100%; left: 0px; width: 100%; object-fit: cover; object-position: center center;"></div><div class="_sound_circle_right_2 !absolute w-[40%] right-[-2%] top-[60%]" style="position: relative; overflow: hidden; will-change: opacity, transform;"><div style="padding-top: 16.2975%;"></div><img src="https://cia.sec.miui.com/miui-13/image-513.png?imageMogr2/thumbnail/600x/quality/80/format/webp" decoding="async" style="display: block; position: absolute; top: 0px; height: 100%; left: 0px; width: 100%; object-fit: cover; object-position: center center;"></div><div class="_sound_circle_right_3 !absolute w-[40%] right-[-2%] top-[60%]" style="position: relative; overflow: hidden; will-change: opacity, transform;"><div style="padding-top: 16.2975%;"></div><img src="https://cia.sec.miui.com/miui-13/image-513.png?imageMogr2/thumbnail/600x/quality/80/format/webp" decoding="async" style="display: block; position: absolute; top: 0px; height: 100%; left: 0px; width: 100%; object-fit: cover; object-position: center center;"></div><div style="position: relative; overflow: hidden; will-change: opacity, transform;"><div style="padding-top: 62.5%;"></div><img src="https://cia.sec.miui.com/miui-13/541B7ADzCuXBlLUwB34xc.png?imageMogr2/thumbnail/720x/quality/80/format/webp" decoding="async" style="display: block; position: absolute; top: 0px; height: 100%; left: 0px; width: 100%; object-fit: cover; object-position: center center;"></div></div><div class="absolute text-center _text_1" style="will-change: opacity;"><h2 class="text-white text-h2">随手一推 应用流转</h2><p class="mt-16 text-body text-white/60">上推应用进入设备选择界面，即可快速实现应用在不同设备的无缝流转。<br><br></p></div><div class="w-[1440px] absolute"><div class="invisible _pad_player" style="will-change: opacity; position: relative;"><div class="ff-placeholder" style="padding-bottom: 62.5%;"></div><canvas width="1440" height="900" style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; object-fit: cover; object-position: center center;"></canvas></div></div><div class="_phone_group absolute w-[623px]" style="will-change: transform, opacity;"><div class="absolute inset-0 overflow-hidden"><div style="position: absolute; overflow: hidden; top: 0px; height: 100%; left: 0px; width: 100%;"><img src="https://cia.sec.miui.com/miui-13/Frame-1_2.png?imageMogr2/thumbnail/700x/quality/80/format/webp" decoding="async" style="display: block; position: absolute; top: 0px; height: 100%; left: 0px; width: 100%; object-fit: cover; object-position: center center;"></div><div class="_phone_icon_bg_blur" style="position: absolute; overflow: hidden; top: 0px; height: 100%; left: 0px; width: 100%; will-change: opacity;"><img src="https://cia.sec.miui.com/miui-13/Frame-427318291_1.png?imageMogr2/thumbnail/700x/quality/80/format/webp" decoding="async" style="display: block; position: absolute; top: 0px; height: 100%; left: 0px; width: 100%; object-fit: cover; object-position: center center;"></div><div class="_phone_icon_bg !absolute w-[19%] top-[12%] left-[6.5%]" style="position: relative; overflow: hidden; will-change: opacity;"><div style="padding-top: 49.3562%;"></div><img src="https://cia.sec.miui.com/miui-13/Frame-263.png?imageMogr2/thumbnail/200x/quality/80/format/webp" decoding="async" style="display: block; position: absolute; top: 0px; height: 100%; left: 0px; width: 100%; object-fit: cover; object-position: center center;"></div><div class="_phone_icon !absolute w-[8%] top-[15%] left-[12%]" style="position: relative; overflow: hidden; will-change: transform, opacity;"><div style="padding-top: 83.3333%;"></div><img src="https://cia.sec.miui.com/miui-13/Group-192_1.png?imageMogr2/thumbnail/100x/quality/80/format/webp" decoding="async" style="display: block; position: absolute; top: 0px; height: 100%; left: 0px; width: 100%; object-fit: cover; object-position: center center;"></div><div class="_phone_bg_1" style="position: absolute; overflow: hidden; top: 0px; height: 100%; left: 0px; width: 100%; will-change: transform, opacity;"><img src="https://cia.sec.miui.com/miui-13/A.png?imageMogr2/thumbnail/700x/quality/80/format/webp" decoding="async" style="display: block; position: absolute; top: 0px; height: 100%; left: 0px; width: 100%; object-fit: cover; object-position: center center;"></div></div><div style="position: relative; overflow: hidden;"><div style="padding-top: 48.4702%;"></div><img src="https://cia.sec.miui.com/miui-13/A2.png?imageMogr2/thumbnail/700x/quality/80/format/webp" decoding="async" style="display: block; position: absolute; top: 0px; height: 100%; left: 0px; width: 100%; object-fit: cover; object-position: center center;"></div></div><div class="_pad_group absolute w-[646px] invisible" style="will-change: transform;"><div class="absolute inset-16"><div style="position: absolute; overflow: hidden; top: 0px; height: 100%; left: 0px; width: 100%;"><img src="https://cia.sec.miui.com/miui-13/pad_2.png?imageMogr2/thumbnail/700x/quality/80/format/webp" decoding="async" style="display: block; position: absolute; top: 0px; height: 100%; left: 0px; width: 100%; object-fit: cover; object-position: center center;"></div><div class="origin-bottom _pad_bg _view_player rounded-[10px] overflow-hidden" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;"><canvas width="612" height="346" style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; object-fit: cover; object-position: center center;"></canvas></div></div><div style="position: relative; overflow: hidden;"><div style="padding-top: 65.3251%;"></div><img src="https://cia.sec.miui.com/miui-13/image_48.png?imageMogr2/thumbnail/700x/quality/80/format/webp" decoding="async" style="display: block; position: absolute; top: 0px; height: 100%; left: 0px; width: 100%; object-fit: cover; object-position: center center;"></div></div></div></div></div></div></div><div class="mt-[-260px]"><div class="h-[9000px] bg-black"><div class="sticky top-0 h-0"><div class="relative flex items-center justify-center invisible overflow-hidden h-section _section"><div class="relative w-[1440px] origin-center flex justify-center"><div class="relative _map_group w-[1440px] h-[900px] origin-center z-100"><div class="absolute w-[1440px] h-full _tv_map style={{ willChange: 'opacity' }}"><div class="!absolute w-[1440px] h-[900px]" style="position: relative; overflow: hidden;"><div style="padding-top: 62.5%;"></div></div><div class="absolute w-[240px] left-[320px] top-[370px] _map_route"><div class="relative w-[240px]" style="position: relative; overflow: hidden;"><div style="padding-top: 80.3213%;"></div></div><div class="!absolute right-20 top-[8px] w-[72px] _map_arrow" style="position: relative; overflow: hidden;"><div style="padding-top: 105.195%;"></div></div></div></div><div class="!absolute w-[1560px] top-0 origin-left _phone_mask" style="position: relative; overflow: hidden;"><div style="padding-top: 65.3846%;"></div></div><div class="!absolute w-[296px] top-[202px] left-[284px] _phone_shell" style="position: relative; overflow: hidden;"><div style="padding-top: 212.281%;"></div></div><div class="absolute top-[0] bottom-[0] right-300 my-auto h-220 _text_1"><h3 class="relative text-white text-h2">出行导航<br>手表相伴</h3><p class="relative mt-24 text-body text-white/60 max-w-300">手表支持接入百度地图和高德地图应用，导航的关键信息可以在手表同步展示。</p></div></div><div class="absolute left-[180px] bottom-[80px] w-[160px] _watch_group"><div class="relative w-[160px]" style="position: relative; overflow: hidden;"><div style="padding-top: 148.542%;"></div></div><div class="!absolute left-[19px] top-[62px] w-[120px] h-[120px] _watch_content_1" style="position: relative; overflow: hidden;"><div style="padding-top: 100%;"></div></div><div class="!absolute left-[19px] top-[62px] w-[120px] h-[120px] _watch_content_2" style="position: relative; overflow: hidden;"><div style="padding-top: 100%;"></div></div></div><div class="absolute top-[182px] left-[180px] _text_2"><h3 class="relative text-white text-h2">运动数据<br>实时同步</h3><p class="relative mt-24 text-body text-white/60 max-w-300">穿戴设备和米家跑步机数据互联，电视在投屏课程的同时可以实时展示当前的运动数据。</p></div></div><div class="absolute w-[1800px] h-[900px] left-0 right-0 mx-auto top-0"><div class="w-[1800px] h-[900px] _home_total"><div class="_home_wall" style="position: relative; overflow: hidden;"><div style="padding-top: 50%;"></div></div><div class="!absolute top-[200px] right-[324px] w-[1400px] _home_tv" style="position: relative; overflow: hidden; transform: scale(0.4) translate(1050px, -590px);"><div style="padding-top: 57.8171%;"></div></div></div></div></div></div></div></div><div class="h-[6000px] bg-black mt-[-1600px]"><div class="sticky top-0 h-0"><div class="relative flex justify-center invisible overflow-hidden h-section _section"><div class="absolute top-164 text-center _text_1"><h2 class="text-white text-h2">全屋家电 一手掌控</h2><p class="mt-24 text-body text-white/60">重构音箱界面体验，支持数千款智能设备，开启多种家居智能场景。</p></div><div class="absolute top-0 bottom-0 my-auto text-center h-96 _text_2"><h1 class="text-white text-h1 !font-normal">开始·连接万物</h1></div><div class="relative mt-[414px] w-[1440px] h-[900px] _phone_total"><div class="!absolute _phone_bg bottom-[270px] left-[-108px] w-[1310px] h-[2860px]" style="position: relative; overflow: hidden;"><div style="padding-top: 218.321%;"></div></div><div class="realative w-[1440px] h-[900px]"><div class="absolute _speaker_group w-[642px] left-0 right-0 mx-auto origin-top"><div class="relative _speaker_bubble_transparent" style="position: relative; overflow: hidden;"><div style="padding-top: 93.4579%;"></div></div><div class="!absolute left-[0] right-0 top-[30px] w-[552px] mx-auto _speaker_content_1" style="position: relative; overflow: hidden;"><div style="padding-top: 62.1442%;"></div></div><div class="!absolute left-[0] right-0 top-[30px] mx-auto _speaker_content_2" style="position: relative; overflow: hidden; width: 552px; height: 340px;"><div style="padding-top: 61.5942%;"></div></div><div class="_speaker_bubble absolute left-[50%] top-[50%] origin-top-left"><div style="position: relative; overflow: hidden; width: 1200px; height: 1200px;"><div style="padding-top: 100%;"></div></div><div class="!absolute _speaker_bubble_color top-0" style="position: relative; overflow: hidden; width: 1200px; height: 1200px;"><div style="padding-top: 100%;"></div></div></div><div class="absolute w-[800px] right-[145%] top-[180%] _tv_group origin-top-right"><div class="relative _tv_bubble_transparent" style="position: relative; overflow: hidden;"><div style="padding-top: 58.5%;"></div></div><div class="_tv_bubble absolute left-[50%] top-[50%] origin-top-left"><div style="position: relative; overflow: hidden; width: 1200px; height: 1200px;"><div style="padding-top: 100%;"></div></div><div class="!absolute _tv_bubble_color top-0" style="position: relative; overflow: hidden; width: 1200px; height: 1200px;"><div style="padding-top: 100%;"></div></div></div></div><div class="absolute w-[596px] right-[-40%] bottom-[-220%] _pad_group origin-top-left"><div class="relative _pad_bubble_transparent" style="position: relative; overflow: hidden;"><div style="padding-top: 65.4362%;"></div></div><div class="_pad_bubble absolute left-[50%] top-[50%] origin-top-left"><div style="position: relative; overflow: hidden; width: 1200px; height: 1200px;"><div style="padding-top: 100%;"></div></div><div class="!absolute _pad_bubble_color top-0" style="position: relative; overflow: hidden; width: 1200px; height: 1200px;"><div style="padding-top: 100%;"></div></div></div></div></div></div></div><div class="absolute left-0 right-0 bottom-0 top-0 m-auto w-[900px] h-[506px] rounded-[24px] overflow-hidden flex justify-center items-center _video"><div class="!absolute w-[900px] h-[506px]" style="position: relative; overflow: hidden;"><div style="padding-top: 56.3747%;"></div></div><div class="w-[118px] h-[118px] cursor-pointer"><div class="w-[82px] h-[82px]" style="position: relative; overflow: hidden;"><div style="padding-top: 100%;"></div></div></div></div></div></div></div><div class="bg-black h-section"></div></div><div class="bg-black"><div class="safe-area pb-64 tablet:pb-80 pt-80 desktop:pt-164 desktop:pb-80"><div class="group transition rounded pt-20 tablet:pt-0 tablet:h-160 bg-[#191919] desktop:hover:bg-[#252525]"><a href="/phone"><div class=" desktop:flex desktop:flex-row desktop:justify-between desktop:w-full"><div class="flex flex-row"><div class="ml-8 mr-4 tablet:mr-20 w-[150px] tablet:h-160 tablet:w-200 tablet:my-0 tablet:ml-32 desktop:ml-56  desktop:mr-44"><div style="position:relative;overflow:hidden;max-width:800px"><div style="padding-top:80%"></div></div></div><div class="mt-[21px] tablet:mt-[38px]"><div class=" hover:underline text-[20px] font-normal leading-[1.35] text-blue tablet:w-96 tablet:text-[24px] tablet:leading-[1.33]">继续了解</div><div class="h-24 mt-8 w-160 tablet:mt-16 tablet:h-36 tablet:w-[240px]"><div style="position:relative;overflow:hidden;max-width:129px"><div style="padding-top:27.906976744186046%"></div></div></div></div></div><div class="hidden desktop:block pr-[58px] py-[58px]"><div class="transition w-44 h-44 rounded-[50px] desktop:group-hover:bg-[#0D84FF]"><div style="position:relative;overflow:hidden;max-width:44px"><div style="padding-top:100%"></div></div></div></div></div></a></div></div></div><div class="bg-black"><div class="safe-area text-[14px] tablet:text-[16px] font-normal tleading-[1.36] tablet:leading-[1.5] desktop:leading-[1.5]  bg-black text-white/60"><div class="grid grid-cols-3 gap-6 text-center gap-y-[38px] tablet:gap-y-40 desktop:gap-y-0 desktop:grid-cols-6"><div class="flex justify-center w-full h-112 "><div class="transition desktop:hover:bg-[#1E1E1E] desktop:rounded desktop:w-120 desktop:h-[150px] tablet:pt-[19px]"><a href="/"><div class="flex justify-center w-full"><div class="w-64 h-64 tablet:w-80 tablet:h-80"><div style="position:relative;overflow:hidden;max-width:80px"><div style="padding-top:100%"></div></div></div></div><div class="pt-8">MIUI</div></a></div></div><div class="flex justify-center w-full h-112 "><div class="transition desktop:hover:bg-[#1E1E1E] desktop:rounded desktop:w-120 desktop:h-[150px] tablet:pt-[19px]"><a href="/phone"><div class="flex justify-center w-full"><div class="w-64 h-64 tablet:w-80 tablet:h-80"><div style="position:relative;overflow:hidden;max-width:80px"><div style="padding-top:100%"></div></div></div></div><div class="pt-8">Phone</div></a></div></div><div class="flex justify-center w-full h-112 "><div class="transition desktop:hover:bg-[#1E1E1E] desktop:rounded desktop:w-120 desktop:h-[150px] tablet:pt-[19px]"><a href="/foldpad"><div class="flex justify-center w-full"><div class="w-64 h-64 tablet:w-80 tablet:h-80"><div style="position:relative;overflow:hidden;max-width:80px"><div style="padding-top:100%"></div></div></div></div><div class="pt-8">Fold/Pad</div></a></div></div><div class="flex justify-center w-full h-112 "><div class="transition desktop:hover:bg-[#1E1E1E] desktop:rounded desktop:w-120 desktop:h-[150px] tablet:pt-[19px]"><a href="/watch"><div class="flex justify-center w-full"><div class="w-64 h-64 tablet:w-80 tablet:h-80"><div style="position:relative;overflow:hidden;max-width:80px"><div style="padding-top:100%"></div></div></div></div><div class="pt-8">Watch</div></a></div></div><div class="flex justify-center w-full h-112 "><div class="transition desktop:hover:bg-[#1E1E1E] desktop:rounded desktop:w-120 desktop:h-[150px] tablet:pt-[19px]"><a href="/home"><div class="flex justify-center w-full"><div class="w-64 h-64 tablet:w-80 tablet:h-80"><div style="position:relative;overflow:hidden;max-width:80px"><div style="padding-top:100%"></div></div></div></div><div class="pt-8">Home</div></a></div></div><div class="flex justify-center w-full h-112 "><div class="transition desktop:hover:bg-[#1E1E1E] desktop:rounded desktop:w-120 desktop:h-[150px] tablet:pt-[19px]"><a href="/tv"><div class="flex justify-center w-full"><div class="w-64 h-64 tablet:w-80 tablet:h-80"><div style="position:relative;overflow:hidden;max-width:80px"><div style="padding-top:100%"></div></div></div></div><div class="pt-8">TV</div></a></div></div></div></div></div><div class="bg-black"><div class="safe-area pt-[100px] tablet:pt-120 desktop:pt-160"><div class="grid grid-cols-1 gap-24 tablet:gap-32 desktop:gap-20 desktop:grid-cols-2 hidden"><a href="https://m.beehive.miui.com/0Z7D_HjfSp6rL5BK8Mjrqg" target="_blank" rel="noreferrer"><div class="w-full rounded h-140 border-white/20 border-[1px] box-border flex desktop:hover:bg-[#1E1E1E] desktop:hover:border-[#1E1E1E] transition"><div class="flex flex-row content-center"><div class="ml-32 mt-[30px] w-80 h-80"><div style="position:relative;overflow:hidden;max-width:80px"><div style="padding-top:100%"></div></div></div><div class="ml-32 text-left mt-[38px]"><div class="mb-4 text-white text-[20px] leading-[1.5] desktop:font-medium">为MIUI 13评分</div><p class="text-blue text-[16px] leading-[1.5] hover:underline">参与调研</p></div></div></div></a><a href="https://privacy.miui.com/#/" target="_blank" rel="noreferrer"><div class="w-full rounded h-140 border-white/20 border-[1px] box-border flex desktop:hover:bg-[#1E1E1E] desktop:hover:border-[#1E1E1E] transition"><div class="flex flex-row content-center"><div class="ml-32 mt-[30px] w-80 h-80"><div style="position:relative;overflow:hidden;max-width:80px"><div style="padding-top:100%"></div></div></div><div class="ml-32 text-left mt-[38px]"><div class="mb-4 text-white text-[20px] leading-[1.5] desktop:font-medium">小米隐私网站</div><p class="text-blue text-[16px] leading-[1.5] hover:underline">立即前往</p></div></div></div></a></div><div class="grid grid-cols-1 gap-24 tablet:gap-32 desktop:gap-20 desktop:grid-cols-3 block"><a href="https://m.beehive.miui.com/0Z7D_HjfSp6rL5BK8Mjrqg" target="_blank" rel="noreferrer"><div class="rounded h-140 border-white/20 border-[1px] box-border flex desktop:hover:bg-[#1E1E1E] desktop:hover:border-[#1E1E1E] transition"><div class="flex flex-row content-center"><div class="ml-32 mt-[30px] w-80 h-80 desktop:ml-24"><div style="position:relative;overflow:hidden;max-width:80px"><div style="padding-top:100%"></div></div></div><div class="ml-32 text-left mt-[38px] desktop:ml-16"><div class="mb-4 text-white text-[20px] leading-[1.5] desktop:font-medium">为MIUI 13评分</div><p class="text-blue text-[16px] leading-[1.5] hover:underline">参与调研</p></div></div></div></a><a href="https://privacy.miui.com/#/" target="_blank" rel="noreferrer"><div class="rounded h-140 border-white/20 border-[1px] box-border flex desktop:hover:bg-[#1E1E1E] desktop:hover:border-[#1E1E1E] transition"><div class="flex flex-row content-center"><div class="ml-32 mt-[30px] w-80 h-80 desktop:ml-24"><div style="position:relative;overflow:hidden;max-width:80px"><div style="padding-top:100%"></div></div></div><div class="ml-32 text-left mt-[38px] desktop:ml-16"><div class="mb-4 text-white text-[20px] leading-[1.5] desktop:font-medium">小米隐私网站</div><p class="text-blue text-[16px] leading-[1.5] hover:underline">立即前往</p></div></div></div></a><a href="https://web.vip.miui.com/page/info/mio/mio/detail?postId=33829031&amp;app_version=dev.20051" target="_blank" rel="noreferrer"><div class="rounded h-140 border-white/20 border-[1px] box-border flex desktop:hover:bg-[#1E1E1E] desktop:hover:border-[#1E1E1E] transition"><div class="flex flex-row content-center"><div class="ml-32 mt-[30px] w-80 h-80 desktop:ml-24"><div style="position:relative;overflow:hidden;max-width:80px"><div style="padding-top:100%"></div></div></div><div class="ml-32 text-left mt-[38px] desktop:ml-16"><div class="mb-4 text-white text-[20px] leading-[1.5] desktop:font-medium">小米妙享中心</div><p class="text-blue text-[16px] leading-[1.5] hover:underline">了解详情</p></div></div></div></a></div><div class="flex flex-col items-center w-full h-full mt-64 tablet:mt-80 desktop:mt-120 block"><div style="position:relative;overflow:hidden;max-width:960px" class="w-180 tablet:w-200 desktop:w-240"><div style="padding-top:100%"></div></div><div class="mt-16 tablet:mt-12 desktop:mt-16"><p class="text-center text-white text-[16px] leading-[1.6] desktop:text-[24px] desktop:leading-8">微信扫码关注“MIUI”<br>获取最新动态</p></div></div><div class="hidden flex flex-col items-center mt-64 tablet:mt-80 desktop:mt-120 desktop:flex-row desktop:justify-center"><div class="desktop:mr-[146px] desktop:ml-44"><div style="position:relative;overflow:hidden;max-width:960px" class="w-180 tablet:w-200 desktop:w-240"><div style="padding-top:100%"></div></div><div class="mt-16 tablet:mt-12 desktop:mt-16"><p class="text-center text-white text-[16px] leading-[1.6] desktop:text-[24px] desktop:leading-8">微信扫码关注“MIUI”<br>获取最新动态</p></div></div><div class="flex flex-col items-center"><div style="position:relative;overflow:hidden;max-width:240px" class="w-180 tablet:w-200 desktop:w-240 mt-80 tablet:mt-120 desktop:mt-0"><div style="padding-top:100%"></div></div><div class="mt-16 tablet:mt-12 desktop:mt-16"><p class="text-center text-white text-[16px] leading-[1.6] desktop:text-[24px] desktop:leading-8">微信扫码关注“小米运动健康”<br>获取最新动态</p></div></div></div></div></div><div class="bg-black"><div class="text-white/40 pt-120 safe-area text-[12px] leading-[1.6] tablet:text-[16px] ">声明和说明<ul class="ml-24 list-disc"><li>本页面中所展示的功能界面仅供参考，最终呈现效果以实际所提供的版本为准；我们也将不断更新和优化我们的功能和服务，请以实际为准。</li><li>本页面中所披露的相关信息仅适用于MIUI系统及部分互联网应用。</li><li>本页面中部分功能和服务可能因系统版本、手机型号不同存在差异，请以实际为准。</li><li>本页面所披露的手机相关信息适用于MIUI 13及以上版本的Xiaomi手机、Redmi手机系统。</li><li>本页面所披露的平板相关信息适用于MIUI 13及以上版本的小米平板系统。</li><li>本页面所展示的内容和功能，不能保证能够提供永久服务，可能会因版权、商务或技术条件的变化而调整，请以产品实际内容和功能为准。</li><li>本页面所披露的产品和服务面向中国大陆地区，其他国家和地区的相关信息请以当地销售的产品为准。</li><li>“小米妙享中心”相关功能从2022年7月底开始陆续在MIUI13稳定版发布，第一批支持的手机机型有Xiaomi 12 Pro、Xiaomi 12、Xiaomi 12X、Xiaomi MIX 4；平板机型有小米平板5 Pro、小米平板5 Pro 5G、小米平板5。</li><li>“小米妙享中心”界面发现并展示设备的条件为：手机与平板需确保绑定在同一小米帐号下并开启蓝牙；手机与小米笔记本需要通过MIUI+客户端连接；音箱、电视需要与手机或平板处于同一局域网环境内。</li><li>“轻轻一拖 音乐流转”中展示的音乐流转功能，支持的音箱设备包括：小米智能家庭屏 10（系统版本MIUI Home 2.1.5及以上）、小米智能家庭屏 6（系统版本MIUI Home 2.1.5及以上）、Xiaomi Sound（音箱系统版本1.76.1及以上）、小米AI音箱（第二代）（音箱系统版本1.76.1及以上）、小米小爱音箱（音箱系统版本1.80.1及以上）、小米小爱音箱Pro（音箱系统版本1.80.1及以上）、Redmi小爱触屏音箱 8（音箱系统版本MIUI Home 2.1.5及以上）、Redmi小爱触屏音箱Pro 8（音箱系统版本MIUI Home 2.1.5及以上）、小米小爱音箱触屏版Pro 8（音箱系统版本MIUI Home 2.1.5及以上），支持的电视设备包括：小米电视全⾯屏Pro 43/55/65英寸、小米电视5及小米电视5Pro 55/65/75英寸、Redmi智能电视 MAX 86/98英寸 、小米透明OLED电视 55英寸、小米电视大师 82英寸/OLED 65英寸、Redmi智能电视 X50/X55/X65/X75（2022款）、小米电视ES 43/50/55/65/75英寸、小米电视6 OLED 55/65英寸。</li><li>“轻轻一拖 音乐流转”中展示的多音响同时播放功能可以通过点击小米妙享中心界面中的音乐卡片，在操作窗口中多选设备，或者通过小爱音箱APP提前关联多个音箱设备实现。</li><li>“随手一推 应用流转”中展示的应用接力为演绎效果，实际操作中需要先上推应用选择流转设备。</li><li>“出行导航 手表相伴”中展示的手表查看导航信息功能，目前支持Xiaomi Watch Color 2和Xiaomi Watch S1两款手表设备，支持百度地图APP与高德地图APP。</li><li>“运动数据 实时同步”中展示的电视显示运动数据功能，需要与小米穿戴Lite/小米穿戴APP协同使用，且与米家跑步机的互联，目前仅小米手环6 系列、Xiaomi Watch Color 2，Xiaomi Watch S1、小米手表Color 运动版支持。支持视频课程投屏的电视型号包括：小米电视大师系列、小米电视4A/4C/4S系列、小米电视5系列、Redmi MAX 86″超大屏电视。</li><li>“全屋家电 一手掌控”中展示的智能设备控制功能，需确保相应设备和音箱绑定在同一小米帐号下。</li><li>“全屋家电 一手掌控”中展示的智能设备控制功能，目前在首页支持直接快捷控制的智能设备包括：照明-灯类设备；环境-空调、风扇、新风机、加湿器、空气净化器、电暖器类设备；插座开关-插座、插排、开关类设备；监控-摄像机类设备；窗帘类设备；家务-扫地机器人、晾衣架类设备。可在首页右上角切换到“全部设备”，从房间维度查看和控制所有设备。</li></ul></div><div class="mt-64 text-center tablet:mt-80 desktop:mt-120 text-white/40 pb-80 tablet:pb-120 safe-area text-[12px] leading-[1.6] tablet:text-[16px]"><div class="hidden desktop:block"><a href="https://weibo.com/miui/" target="_blank" rel="noreferrer" class="hover:underline">新浪微博</a>&nbsp;&nbsp;|&nbsp;&nbsp;<div class="inline-block cursor-pointer"><div class="relative inline-block group hover:underline"><div class="absolute transition duration-300 ease-in rounded-[16px] opacity-0 -ml-48 -top-164 group-hover:opacity-100" style="box-shadow:0px 8px 30px rgba(0, 0, 0, 0.1)"><div class="hidden group-hover:block"><div style="position:relative;overflow:hidden;max-width:200px" class="z-10 transition duration-300 ease-in opacity-0 group-hover:opacity-100 w-160 hover:hidden"><div style="padding-top:100%"></div></div></div></div>官方微信</div></div>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://privacy.mi.com/all/zh_CN/" target="_blank" rel="noreferrer" class="hover:underline">隐私政策</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.miui.com/zt/presetsApplication/index.html" target="_blank" rel="noreferrer" class="hover:underline">预置应用查询</a>&nbsp;&nbsp;|&nbsp;&nbsp;<div class="relative inline-block cursor-pointer group hover:underline"><div class="absolute z-10 -ml-64 rounded-[16px] -top-340 w-200 text-left bg-dark transition duration-300 ease-in opacity-0 group-hover:opacity-100 " style="box-shadow:0px 8px 30px rgba(0, 0, 0, 0.1)"><ul class="hidden py-16 group-hover:block"><li class="pl-32 py-[9px] text-[14px] leading-[1.86]  text-white hover:bg-white/8 hover:text-blue"><a href="http://en.miui.com/" target="_blank" rel="noreferrer">English</a></li><li class="pl-32 py-[9px] text-[14px] leading-[1.86]  text-white hover:bg-white/8 hover:text-blue"><a href="http://tw.miui.com/" target="_blank" rel="noreferrer">中国台湾</a></li><li class="pl-32 py-[9px] text-[14px] leading-[1.86]  text-white hover:bg-white/8 hover:text-blue"><a href="http://hk.miui.com/" target="_blank" rel="noreferrer">中国香港</a></li><li class="pl-32 py-[9px] text-[14px] leading-[1.86]  text-white hover:bg-white/8 hover:text-blue"><a href="https://ru.miui.com/" target="_blank" rel="noreferrer">Русский</a></li><li class="pl-32 py-[9px] text-[14px] leading-[1.86]  text-white hover:bg-white/8 hover:text-blue"><a href="https://es.miui.com/" target="_blank" rel="noreferrer">Español</a></li><li class="pl-32 py-[9px] text-[14px] leading-[1.86]  text-white hover:bg-white/8 hover:text-blue"><a href="https://in.miui.com/" target="_blank" rel="noreferrer">India</a></li><li class="pl-32 py-[9px] text-[14px] leading-[1.86]  text-white hover:bg-white/8 hover:text-blue"><a href="https://id.miui.com/" target="_blank" rel="noreferrer">Indonesia</a></li></ul></div>简体中文<div class="inline-block ml-4"><div class="absolute mt-[-14px]"><div><div style="position:relative;overflow:hidden;max-width:16px" class="w-16 block transform rotate-180 group-hover:rotate-0"><div style="padding-top:100%"></div></div><div style="position:relative;overflow:hidden;max-width:16px" class="w-16 hidden transform rotate-180 group-hover:rotate-0"><div style="padding-top:100%"></div></div></div></div></div></div></div>Copyright©2022 MIUI<a href="https://beian.miit.gov.cn" target="_blank" rel="noreferrer" class="hover:underline"> <!-- -->京ICP备10046444号</a>&nbsp;&nbsp;|&nbsp;<div style="position:relative;overflow:hidden;max-width:20px" class="inline-block w-[14px] h-[14px] align-text-bottom mb-[1px] tablet:w-20 tablet:h-20 tablet:mb-[2px]"><div style="padding-top:100%"></div></div><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802037409" target="_blank" rel="noreferrer" class="hover:underline">&nbsp;京公网安备 11010802037409号</a>&nbsp;&nbsp;|&nbsp;&nbsp;京ICP证110507号</div></div></main></div><script id="__NEXT_DATA__" type="application/json">{"props":{"pageProps":{}},"page":"/","query":{},"buildId":"3UXewz1OQW4bMr888O1LV","nextExport":true,"autoExport":true,"isFallback":false,"scriptLoader":[]}</script><script src="https://cdn.cnbj1.fds.api.mi-img.com/common/jsonp.min.js" id="jsp" data-nscript="afterInteractive"></script><script src="https://cdn.cnbj1.fds.api.mi-img.com/common/jweixin-1.6.0.js" id="wxsdk" data-nscript="afterInteractive"></script><script id="baidu_tongji" src="https://hm.baidu.com/hm.js?1864b93d30fed82075afb9a1fbf5de1e" data-nscript="afterInteractive">window._hmt = window._hmt ?? [];</script><script src="//ssl-cdn.static.browser.mi-img.com/mistat-data/onetrack/onetrack.js" id="ontrack" data-nscript="afterInteractive"></script><next-route-announcer><p aria-live="assertive" id="__next-route-announcer__" role="alert" style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: absolute; width: 1px; white-space: nowrap; overflow-wrap: normal;"></p></next-route-announcer><div></div></body>
+<!DOCTYPE html>
+<html lang="en">
+ <head> 
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0">
+    <meta charset="UTF-8">    <meta http-equiv="X-UA-Compatible" content="IE=9">
+    <!-- <meta name="viewport" content="width=1200"> -->
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
+    
+ <script src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/script/0/1812141309187282.js"></script>
+    <link rel="stylesheet" href="http://jyj.jinhua.gov.cn/cms_files/webzhejiangshengjiaoyuting/pubtplobject/defaultSet/479263/images/hanweb.css">
+    <link rel="stylesheet" href="http://jyj.jinhua.gov.cn/cms_files/webzhejiangshengjiaoyuting/pubtplobject/defaultSet/479263/images/index.css">
+    <link rel="stylesheet" href="http://jyj.jinhua.gov.cn/cms_files/webzhejiangshengjiaoyuting/pubtplobject/defaultSet/479263/images/wap-sy.css">
+    <script src="http://jyj.jinhua.gov.cn/cms_files/webzhejiangshengjiaoyuting/pubtplobject/defaultSet/479263/images/jquery.js"></script>
+    <script type="text/javascript" src="http://jyj.jinhua.gov.cn/cms_files/webzhejiangshengjiaoyuting/pubtplobject/defaultSet/479263/images/index.js"></script>
+    <script type="text/javascript" src="http://jyj.jinhua.gov.cn/cms_files/webzhejiangshengjiaoyuting/pubtplobject/defaultSet/479263/images/slideshow.js"></script>
+
+<script src="http://jyj.jinhua.gov.cn/cms_files/default/script/jslib/jquery.js"></script>
+ <script src="http://jyj.jinhua.gov.cn/cms_files/default/script/jslib/jquery.cookie.js"></script>
+ <script src="http://jyj.jinhua.gov.cn/cms_files/default/script/layui/layui.all.js"></script>
+ <script src="http://jyj.jinhua.gov.cn/cms_files/default/script/layui/layer/layer.js"></script>
+ <script src="http://jyj.jinhua.gov.cn/script/webglobal.js"></script>
+ <script src="http://jyj.jinhua.gov.cn/plugins/libs/require.js"></script>
+ <script src="http://jyj.jinhua.gov.cn/plugins/libs/load.js"></script>
+ <script src="http://jyj.jinhua.gov.cn/script/webgray.js"></script>
+ <script src="http://jyj.jinhua.gov.cn/script/webgray_jXChbkHmmvbqodAbsTm6b.js"></script>
+ <link rel="stylesheet" href="http://jyj.jinhua.gov.cn/cms_files/default/css/iconfont.css" />
+<link rel="stylesheet" href="http://jyj.jinhua.gov.cn/cms_files/default/script/layui/css/layui.css" />
+<title>浙江省教育厅</title>
+<meta name="ColId" content="jXChbkHmmvbqodAbsTm6b">
+<meta name="SiteName" content="浙江省教育厅">
+<meta name="SiteDomain" content="jyt.zj.gov.cn">
+<meta name="SiteIDCode" content="3300000022">
+<meta name="server" content="jyt.zj.gov.cn/index.html">
+<meta id="pagetype" content="0">
+</head>
+
+<body id="wbody"><div id='barrierfree_container' pageTimestamp= '1783040924597'>
+
+
+
+
+
+
+
+
+<style>
+.mobile_type .banner a{
+	margin-bottom:10px;
+}
+.mobile_type .contents{
+	display:none !important;
+	}
+.mobile_type .content-listPublic-title ul li{
+	padding-right: 2vw ;
+}
+.mobile_type .features-title p a{
+	padding-left: 2vw;
+}
+.mobile_type .features{
+	padding:0px;
+	
+}
+.mobile_type .icon-list{
+	margin-top:-5vw;
+}
+.mobile_type .footer-column ul li:nth-child(1){
+	display:none;
+}
+.mobile_type .footer-column ul{
+	display: flex;
+    justify-content: center;
+}
+.mobile_type div#more-list {
+    display: none;
+}
+.mobile_type .Education-news-title{
+	height:35px !important;line-height:35px;border-bottom:2px solid #fff;
+}
+.mobile_type .banner{
+	padding-top:0;
+	
+}
+.mobile_type .banner img{
+	margin-bottom:0px !important;
+}
+.mobile_type .banner{
+	height:auto !important;
+}
+.mobile_type .content-listPublic-title{
+	margin-bottom:2vw !important;
+}
+</style>
+ 
+    <!-- 头部信息 -->
+<div class="mobile_lnb">
+<ul>
+ <li><a href="javascript:void(0)" onclick="aria.oldFixedStart()" id="mobile_ghb">关怀版</a> </li>
+</ul></div>
+
+    <div class="header">
+            <div class="head-column" style="background: url(http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/1809041339545683794.png) center center no-repeat;">
+                    <img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/1901250924526991372.png" alt="" style="margin-top:30px;">
+                    <div class="head-list">
+                        <ul>
+		<li><a href="//www.zjzwfw.gov.cn/jfaqfront_robot/index.html?webid=1" id="znzxtoplink" target="_blank">智能咨询</a></li>
+		<li><a href="javascript:;" onclick="aria.start()">阅读辅助</a></li>
+		<li><a href="javascript:;" onclick="aria.oldFixedStart()" clickhide="false" openText="进入关怀版" closeText="退出关怀版" style="cursor: pointer;" id="cniil_slb">进入关怀版</a></li>
+		<!--适老化客户端下载-->
+		<li><a href="/col/col1552973/index.html" target="_blank">English</a></li>
+		
+		<li><a href="" target="_blank">教育之江微博</a>    <img class="jyzjwb" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/1809141448589637101.png" alt="新浪微博" srcset="" style="top: 25px;right: 10px;position: absolute; z-index: 999;display: none;" /></li>
+		<li><a style="cursor: pointer;" target="_blank">教育之江微信</a>    <img class="jyzjwx" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/1809141448589945206.png" alt="微信" srcset="" style="top: 25px; right: 10px;position: absolute;z-index: 999;display: none;" /></li>
+		<li><div class="header_list_last text-tag" href="javascript:;" id="login"><span class="login">登录</span></div>
+		<style>
+/* 登录样式 begin */
+.head-list ul span.login{font-size: 13px;margin: 0 10px;color: #333333;cursor: pointer;}
+#login {position: relative;font-size: 14px;min-width:75px;}
+.loginItems {display: none;position: absolute;background: #fff;border-radius: 4px;padding: 13px 0;color: black;min-width: 80px;word-wrap: break-word;margin: 8px 0px;border: 1px solid #e5e5ea;left: 50%;transform: translateX(-50%);z-index: 99;}
+.loginItems::before {content: "";position: absolute;width: 0;height: 0;border: 8px solid transparent;border-bottom-color: #fff;top: -15px;left: 50%;transform: translateX(-50%);z-index: 100;}
+.loginItems::after {content: "";position: absolute;width: 0;height: 0;border: 8px solid transparent;border-bottom-color: #e5e5ea;border-top-width: 0;top: -9px;left: 50%;transform: translateX(-50%);z-index: 99;}
+.loginItems p {margin-bottom: 11px;}
+#login .loginItems p,#login .loginItems span {display: block;text-align: center;font-size: 14px;line-height: 16px;cursor: pointer;color: #333;}
+/* 老年版示例 */
+body.useOldFixed .loginItems {width: 100%;margin: 0px;}
+body.useOldFixed .head-column:not(.skipAutoFix){overflow: visible;}
+.old_type #login .loginItems {min-width: 110px;padding: 18px 0;border: 2px solid #e5e5ea;border-radius: 6px;}
+.old_type #login .loginItems::before {top: -14px;}
+.old_type #login .loginItems p {margin-bottom: 14px;}
+.old_type #login .loginItems p,.old_type #login .loginItems span {font-size: 18px;line-height: 22px;}
+/* 登录样式 end */
+</style>
+<script src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web3096/site/script/1775/2404181647244146.js"></script>
+
+</li>
+                        </ul>
+ <script>
+$('.head-list ul li').hover(function() {$('.head-list .jyzjwb').hide();$('.head-list .jyzjwx').hide();})
+$('.head-list ul li').eq(4).hover(
+function() {$('.head-list .jyzjwb').show()},function() {$('.head-list .jyzjwx').hide()}
+)
+$('.head-list ul li').eq(5).hover(
+function() {$('.head-list .jyzjwx').show()},function() {$('.head-list .jyzjwb').hide()}
+)
+     
+$(function() {
+  // 判断检索"请输入关键词"
+  $('#tjiao').click(function(){if($('#q').val()=='请输入关键字')$('#q').val('')})
+});
+										
+	
+
+
+                                    </script>
+								
+<script src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/script/0/2208251035305049.js"></script>
+<!-- </cms_files/jcms1/web1/site/script/1308/2109061849141316.js-->
+                    </div>
+            
+            
+                    <div class="cearch">
+					<form id="search-form" name="search-form" action="//search.zj.gov.cn/api-gateway/jpaas-jsearch-web-server/search" method="get" target="_blank">
+						<input id="sortType" name="sortType" type="hidden" value="2">
+						<input id="category" name="category" type="hidden" value="">
+						<input id="q" name="q" style="width:334px;height: 45px;line-height:40px;padding-left:10px; border: 1px solid #c9c6c6; border-radius: 5px 0 0 5px; border-right: none; float: left; outline: none;" type="text" onclick="if(this.value=='请输入关键字'){this.value='';this.focus();}" onblur="if(this.value==''){this.value='请输入关键字'}" onfocus="if(this.value=='请输入关键字'){this.value=''}" value="请输入关键字" onchange="changeqt(this.value)">
+						<input type="submit" id="tjiao" value=" " style="outline: none;background: url(http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/1809041338333733685.png) no-repeat;">
+                      	<input type="hidden" name="serviceId" value="YcTOd1ftgC5dxzJ8RhCBN">
+						<input type="hidden" name="websiteid" value="330000000000">
+						<input type="hidden" name="webId" value="3099">
+					</form>
+						<script type="text/javascript">function changeqt(x){ document.getElementById("pq").value=x;	}</script>
+                    </div>
+                </div>
+        <div class="nav">
+            <div id="container" style="width:1200px;margin:0 auto;position:relative;height: 460px;">
+                <ul>
+                    <li>
+                        <a href="/" class="nav-hover">首页</a>
+                    </li>
+                    <li>
+                        <a href="/col/col1532762/index.html" class="">教育机构</a>
+                    </li>
+                    <li>
+                        <a href="/col/col1532802/index.html" class="">政府信息公开</a>
+                    </li>
+                    <li>
+                        <a target="_blank" href="https://www.zjzwfw.gov.cn/zjservice-fe/#/HomeSubset?siteCode=330000000000&deptCode=001003004&deptName=%E7%9C%81%E6%95%99%E8%82%B2%E5%8E%85" class="">政务服务</a>
+                    </li>
+                    <li>
+                        <a href="/col/col1532768/index.html" class="">互动交流</a>
+                    </li>
+                </ul>
+                <div class="contents" style="position:absolute;z-index: 99;">
+                    <div class="content" style="background:#fff;border:1px solid #dcd9d9;padding-top:30px;height:350px;display:none">
+                        <div class="fl" style="margin-left:10px;">
+                            <div class="Education2-news" style="width:240px;">
+                                <div class="Education2-news-title">
+                                    <ul>
+                                        <li class="Education2-news-title-hover">
+
+<a class="b1859b4" href="http://jyj.jinhua.gov.cn/col/col1229266316/index.html">领导信息</a>
+
+<br />
+<style>
+.mobile_type .information-public{
+	margin-top:5vw !important;
+}
+.mobile_type #q{
+	width:70% !important;
+}
+
+</style>
+
+
+
+                                        </li>
+
+                                    </ul>
+
+
+                                </div>
+
+                                <div id="Education2-list">
+                                    <ul>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+								<tr>
+									 <td>
+
+
+<a style="    display: block;
+    text-align: center;
+    line-height: 40px;" href="http://jyj.jinhua.gov.cn/art/2022/3/28/art_1229266316_123692.html" target="_blank">陈春雷</a>
+
+									 </td>
+									 <td>
+
+
+<a style="    display: block;
+    text-align: center;
+    line-height: 40px;" href="http://jyj.jinhua.gov.cn/art/2021/8/19/art_1229266316_41568.html" target="_blank">陈峰</a>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<a style="    display: block;
+    text-align: center;
+    line-height: 40px;" href="http://jyj.jinhua.gov.cn/art/2021/2/1/art_1229266316_41571.html" target="_blank">舒培冬</a>
+
+									 </td>
+									 <td>
+
+
+<a style="    display: block;
+    text-align: center;
+    line-height: 40px;" href="http://jyj.jinhua.gov.cn/art/2022/8/18/art_1229266316_131517.html" target="_blank">王健</a>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<a style="    display: block;
+    text-align: center;
+    line-height: 40px;" href="http://jyj.jinhua.gov.cn/art/2023/8/23/art_1229266316_147149.html" target="_blank">陈仁坚</a>
+
+									 </td>
+									 <td>
+
+
+<a style="    display: block;
+    text-align: center;
+    line-height: 40px;" href="http://jyj.jinhua.gov.cn/art/2023/12/18/art_1229266316_153228.html" target="_blank">黄亮</a>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<a style="    display: block;
+    text-align: center;
+    line-height: 40px;" href="http://jyj.jinhua.gov.cn/art/2025/9/30/art_1229266316_181588.html" target="_blank">张悦</a>
+
+									 </td>
+</tr></table>
+                                    </ul>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="fl">
+                            <div class="Education2-news" style="width: 560px;">
+                                <div class="Education2-news-title">
+                                    <ul>
+                                        <li class="Education2-news-title-hover">
+
+<a class="b1859b4" href="http://jyj.jinhua.gov.cn/col/col1229266318/index.html">直属单位</a>
+
+
+                                        </li>
+
+                                    </ul>
+
+                                    <div class="more-list">
+
+<a style="float:right;" href="http://jyj.jinhua.gov.cn/col/col1229266318/index.html" target="_blank">更多>></a>
+
+
+
+                                    </div>
+                                </div>
+
+                                <div id="Education2-list">
+                                    <ul>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+								<tr>
+									 <td>
+
+
+<li style="width: 236px;
+height: 42px;
+line-height: 42px;
+color:#2b4faf;
+background: url(http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/1812141139043643033.png) no-repeat center center;
+color: #0574c9;
+margin:0px 22px 26px 22px;
+font-size: 15px;
+font-weight: bold;
+
+text-align: center;">
+<a class="b1859b4" name="color:#2b4faf;" href="http://jyj.jinhua.gov.cn/art/2021/2/9/art_1229266318_60581.html" target="_blank">浙江省教育考试院</a>
+
+</li>
+
+									 </td>
+									 <td>
+
+
+<li style="width: 236px;
+height: 42px;
+line-height: 42px;
+color:#2b4faf;
+background: url(http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/1812141139043643033.png) no-repeat center center;
+color: #0574c9;
+margin:0px 22px 26px 22px;
+font-size: 15px;
+font-weight: bold;
+
+text-align: center;">
+<a class="b1859b4" name="color:#2b4faf;" href="http://jyj.jinhua.gov.cn/art/2021/2/9/art_1229266318_60590.html" target="_blank">浙江省教育技术中心</a>
+
+</li>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<li style="width: 236px;
+height: 42px;
+line-height: 42px;
+color:#2b4faf;
+background: url(http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/1812141139043643033.png) no-repeat center center;
+color: #0574c9;
+margin:0px 22px 26px 22px;
+font-size: 15px;
+font-weight: bold;
+
+text-align: center;">
+<a class="b1859b4" name="color:#2b4faf;" href="http://jyj.jinhua.gov.cn/art/2021/2/9/art_1229266318_60599.html" target="_blank">浙江省教育宣传中心</a>
+
+</li>
+
+									 </td>
+									 <td>
+
+
+<li style="width: 236px;
+height: 42px;
+line-height: 42px;
+color:#2b4faf;
+background: url(http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/1812141139043643033.png) no-repeat center center;
+color: #0574c9;
+margin:0px 22px 26px 22px;
+font-size: 15px;
+font-weight: bold;
+
+text-align: center;">
+<a class="b1859b4" name="color:#2b4faf;" href="http://jyj.jinhua.gov.cn/art/2021/2/9/art_1229266318_60600.html" target="_blank">浙江省教育厅教研室</a>
+
+</li>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<li style="width: 236px;
+height: 42px;
+line-height: 42px;
+color:#2b4faf;
+background: url(http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/1812141139043643033.png) no-repeat center center;
+color: #0574c9;
+margin:0px 22px 26px 22px;
+font-size: 15px;
+font-weight: bold;
+
+text-align: center;">
+<a class="b1859b4" name="color:#2b4faf;" href="http://jyj.jinhua.gov.cn/art/2021/2/9/art_1229266318_60591.html" target="_blank">浙江省教育科学研究院</a>
+
+</li>
+
+									 </td>
+									 <td>
+
+
+<li style="width: 236px;
+height: 42px;
+line-height: 42px;
+color:#2b4faf;
+background: url(http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/1812141139043643033.png) no-repeat center center;
+color: #0574c9;
+margin:0px 22px 26px 22px;
+font-size: 15px;
+font-weight: bold;
+
+text-align: center;">
+<a class="b1859b4" name="color:#2b4faf;" href="http://jyj.jinhua.gov.cn/art/2021/2/9/art_1229266318_60583.html" target="_blank">杭州外国语学校</a>
+
+</li>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<li style="width: 236px;
+height: 42px;
+line-height: 42px;
+color:#2b4faf;
+background: url(http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/1812141139043643033.png) no-repeat center center;
+color: #0574c9;
+margin:0px 22px 26px 22px;
+font-size: 15px;
+font-weight: bold;
+
+text-align: center;">
+<a class="b1859b4" name="color:#2b4faf;" href="http://jyj.jinhua.gov.cn/art/2021/2/9/art_1229266318_60576.html" target="_blank">浙江省教育发展中心</a>
+
+</li>
+
+									 </td>
+</tr></table>
+                                    </ul>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="fl">
+                            <div class="Education2-news" style="width:320px;">
+                                <div class="Education2-news-title">
+                                    <ul>
+                                        <li class="Education2-news-title-hover">
+
+<a class="b1859b4" href="http://jyj.jinhua.gov.cn/col/col1229266312/index.html">机构概况</a>
+
+
+                                        </li>
+
+                                    </ul>
+
+
+                                </div>
+
+                                <div id="Education2-list">
+                                    <ul>
+
+<a href="http://jyj.jinhua.gov.cn/col/col1229266312/index.html">
+                        
+<p style="text-indent:2em;">
+（一）贯彻执行党和国家的教育方针、政策和法律、法规，组织起草教育地方性法规、规章草案，推进教育系统法制建设。<br>  （二）负责全省教育的统筹规划，承担教育改革与发展重大问题调研、政策研究，拟订全省教育改革和发展政策并组织实施，会同有关部门制定学校设置标准并督促落实，负责全省教育基本信息的统计、分析和发布。<br>  （三）指导、督促和检查全省学校党的政治建设、思想建设、组织建设等工作以及全省教育系统履行全面从严治党主体责任，配合省委统战部做好高校统战工作。
+<span style="color:#c51722">查看详情>></span>
+
+                    </p>
+
+                    </a>
+
+                                    </ul>
+
+                                </div>
+
+                            </div>
+                            <style>
+								.head-list ul li {
+								float: left;
+								position: relative;
+								background: url(http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/1809041341258229353.png) no-repeat right;
+								}
+								.fl{float:left;}
+								.content{overflow: hidden;}
+								.Education2-news {
+								margin: 0px 10px;
+								height: 230px;
+								float: left;
+								margin-bottom: 30px;
+								}
+
+								.Education2-news-title {
+								width: 100%;
+								height: 30px;
+								border-bottom: 1px solid #e6e6e6;
+								}
+
+								.Education2-news-title ul li {
+								float: left;
+								cursor: pointer;
+								font-size: 17px;
+								padding: 0 6px;
+								height: 29px;
+								}
+
+								.Education2-news-title-hover {
+								font-weight: bold;
+								color: #1859b4;
+								border-bottom: 2px solid #1859b4;
+								}
+
+								#Education2-list ul {
+								margin-top: 15px;
+								}
+
+								#Education2-list ul li {
+								height: 21px;
+								background: url("http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/1809041544221737315.png")no-repeat left;
+								padding-left: 10px;
+								margin-bottom: 10px;
+								}
+
+								#Education2-list ul li a {
+								color: #333333;
+								}
+
+								#Education2-list ul li span {
+								float: right;
+								color: #333333;
+								padding-right: 10px;
+								}
+
+								#more-list a {
+								font-size: 15px;
+								color: white;
+								float: right;
+								}
+
+
+
+							</style>
+
+
+                        </div>
+                    </div>
+                    <div class="content" style="background:#fff;border:1px solid #dcd9d9;padding-top:30px;height:350px;display:none">
+                        <div class="fl" style="margin-left:10px;">
+                            <div class="Education2-news" style="width:480px;">
+                                <div class="Education2-news-title">
+                                    <ul>
+                                        <li class="Education2-news-title-hover">
+信息公开
+                                        </li>
+
+                                    </ul>
+
+                                    <div class="more-list">
+
+
+                                    </div>
+                                </div>
+
+                                <div id="Education2-list">
+                                    <ul>
+<div style="margin-right:-50px">    <a href="http://jyj.jinhua.gov.cn/col/col1229705303/index.html" style="background-image:url(http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/1812121902006562896.png)" class="xxgllist">信息公开目录</a>
+    <a href="http://jyj.jinhua.gov.cn/col/col1532806/index.html" style="background-image:url(http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/1812121902007821306.png)" class="xxgllist">依申请公开</a>
+
+    <a href="http://jyj.jinhua.gov.cn/col/col1532807/index.html" style="background-image:url(http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/1812121902008133123.png)" class="xxgllist">信息公开制度</a>
+    <a href="http://jyj.jinhua.gov.cn/col/col1229116940/index.html" style="background-image:url(http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/1812121902007523673.png)" class="xxgllist">信息公开年报</a>
+    <a href="http://jyj.jinhua.gov.cn/col/col1229499050/index.html" style="background-image:url(http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/1812121902007213717.png)" class="xxgllist">网站年报</a>
+  
+    <a href="http://jyj.jinhua.gov.cn/col/col1229116938/index.html" style="background-image:url(http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/1812121902006901235.png)" class="xxgllist">信息公开指南</a>
+     </div>
+    <style>
+    .xxgllist{
+    	font-size:19px;
+        width: 230px;
+        height: 66px;
+        line-height: 66px;
+        padding-left: 30px;
+        text-align: center;
+        background-position: 20px center;
+        background-repeat: no-repeat;
+        background-color: #f3f3f3;
+        float:left;
+        margin-right:20px;
+        margin-bottom: 20px;
+        color: #1859b4;
+        font-weight: bold;
+        border-radius:15px;
+          font-size:19px;
+          
+    }
+    .Education-news-title-hover {
+        font-weight: bolder;
+        font-family:"Microsoft YaHei";
+    }
+    .Education-news-title{  font-family:"Microsoft YaHei";}
+    </style>
+                                    </ul>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="fl">
+                            <div class="Education2-news" style="width:660px;">
+                                <div class="Education2-news-title">
+                                    <ul>
+                                        <li class="Education2-news-title-hover">
+
+最新公开
+
+
+                                        </li>
+
+                                    </ul>
+
+                                    <div class="more-list">
+
+<a class="b1859b4" style="float:right;" href="http://jyt.zj.gov.cn/col/col1532802/index.html?number=A02-A16" target="_blank">更多>></a>
+
+
+
+
+                                    </div>
+                                </div>
+
+                                <div id="Education2-list">
+                                    <ul>
+<script>
+var authorizedReadUnitId = "f2d8d2eca30842468b8dc3c37863ad3e";
+</script><script id="f2d8d2eca30842468b8dc3c37863ad3e" src="http://jyj.jinhua.gov.cn/cms_files/default/script/AuthorizedRead/unitbuild.js?v=4.5.12.1-ZJSJYH-U39" webId="3099" parseType="bulidstatic" url="/api-gateway/jpaas-publish-server/front/page/build/unit" queryData="{'parseType':'bulidstatic','webId':'3099','tplSetId':'UKkUNRGgGGJP7USFCi0Gn','pageType':'channel','tagId':'最新公开_list','editType':'null','pageId':'jXChbkHmmvbqodAbsTm6b'}"></script>
+                                    </ul>
+
+                                </div>
+                            </div>
+                        </div>
+                       
+
+                    </div>
+                    <div class="content" style="background:#fff;border:1px solid #dcd9d9;padding:30px 10px  0px 10px;height:350px;display:none">
+                        <div class="fl" style="width:643px;margin-left:10px;margin-right:-100px;">
+<div class="wsbs">    <a href="https://www.zjzwfw.gov.cn/zjservice-fe/#/HomeSubset?siteCode=330000000000&deptCode=001003004&deptName=%E7%9C%81%E6%95%99%E8%82%B2%E5%8E%85" style="background-image:url(http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/1812131035194019713.png)" target="_blank" class="bslist"><span>|</span>行政许可</a>
+        <a href="https://www.zjzwfw.gov.cn/zjservice-fe/#/HomeSubset?siteCode=330000000000&deptCode=001003004&deptName=%E7%9C%81%E6%95%99%E8%82%B2%E5%8E%85" style="background-image:url(http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/1812131035191929440.png)" target="_blank" class="bslist"><span>|</span>行政处罚</a>
+    <a href="https://www.zjzwfw.gov.cn/zjservice-fe/#/HomeSubset?siteCode=330000000000&deptCode=001003004&deptName=%E7%9C%81%E6%95%99%E8%82%B2%E5%8E%85" style="background-image:url(http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/1812131035193306003.png)" target="_blank" class="bslist"><span>|</span>行政确认</a>
+        <a href="https://www.zjzwfw.gov.cn/zjservice-fe/#/HomeSubset?siteCode=330000000000&deptCode=001003004&deptName=%E7%9C%81%E6%95%99%E8%82%B2%E5%8E%85" style="background-image:url(http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/1812131035192917815.png)" target="_blank" class="bslist"><span>|</span>行政奖励</a>
+    <a href="https://www.zjzwfw.gov.cn/zjservice-fe/#/HomeSubset?siteCode=330000000000&deptCode=001003004&deptName=%E7%9C%81%E6%95%99%E8%82%B2%E5%8E%85" style="background-image:url(http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/1812131035193672621.png)" target="_blank" class="bslist"><span>|</span>其他行政权力</a>
+    
+  
+    <a href="https://www.zjzwfw.gov.cn/zjservice-fe/#/HomeSubset?siteCode=330000000000&deptCode=001003004&deptName=%E7%9C%81%E6%95%99%E8%82%B2%E5%8E%85" style="background-image:url(http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/1812131035192575789.png)" target="_blank" class="bslist"><span>|</span>公共服务</a>
+</div>
+<style>
+    .wsbs {
+        margin-right: -60px;
+      
+    }
+
+    .bslist {
+           float: left;
+    padding-left: 85px;
+    width: 240px;
+    line-height: 80px;
+    height: 80px;
+    color: #1859b4;
+    background-color: #f1f1f1;
+    font-weight: bold;
+    margin-right: 25px;
+    margin-bottom: 25px;
+    background-position: 25px center;
+    background-repeat: no-repeat;
+    font-size: 19px;
+    border-radius: 15px;
+      behavior: url(/cms_files/jcms1/web3099/site/images/29924/PIE.htc);
+    }
+
+    .bslist span {
+        padding-right: 15px;
+    }
+</style>
+                        </div>
+                        <div class="fl">
+                            <div class="Education2-news" style="width:580px;">
+                                <div class="Education2-news-title">
+                                    <ul>
+                                        <li class="Education2-news-title-hover">
+公共服务
+                                        </li>
+
+                                    </ul>
+
+                                    <div class="more-list">
+<a style="float:right;" href="http://www.zjzwfw.gov.cn/zjservice/dept/deptQueryMore.do?deptId=001003004&sxtypecode=14&webId=1&pageSize=5#page=1" target="_blank">更多>></a>
+
+                                    </div>
+                                </div>
+
+                                <div id="Education2-list">
+                                    <ul>
+<ul id="ggfw">
+    <li><a href="http://www.zjzwfw.gov.cn/zjservice/item/detail/index.do?localInnerCode=373fcc42-d436-4965-9c33-0d0d8afc4ef7" target="_blank" class="gglist">自学考试合格成绩证明办理</a>
+  </li>
+    <li><a href="http://www.zjzwfw.gov.cn/zjservice/item/detail/index.do?localInnerCode=81a7c43d-13df-41cc-9516-96263e12fa69" target="_blank" class="gglist">自学考试毕业生登记表证明办理</a>
+ </li>
+    <li><a href="http://www.zjzwfw.gov.cn/zjservice/item/detail/index.do?localInnerCode=9c3590ef-5b0c-4f9f-b776-8e4b71cf0056" target="_blank" class="gglist">普通话水平测试等级证明书办理（一级乙等及以下）</a>
+    </li>
+    <li><a href="http://www.zjzwfw.gov.cn/zjservice/item/detail/index.do?localInnerCode=76e654af-bdd2-4cf3-a39c-2053b1144dc5" target="_blank" class="gglist">普通中专学历证明书办理</a>
+    </li>
+    <li><a href="http://www.zjzwfw.gov.cn/zjservice/item/detail/index.do?localInnerCode=851e4414-1d72-4383-8f0d-6be970e25170" target="_blank" class="gglist">普通高级中学教育学历证明书办理</a>
+    </li>
+    <li><a href="http://www.zjzwfw.gov.cn/zjservice/item/detail/index.do?localInnerCode=16720f94-e227-4844-b9f7-84990b98f078" target="_blank" class="gglist">普通高中学业水平考试成绩证明</a>
+   </li>
+     <li><a href="https://www.zjzwfw.gov.cn/zjservice/item/detail/index.do?localInnerCode=c5cec2d3-6d31-4240-a971-936717e965ac" target="_blank" class="gglist">任教三十年教师荣誉证书核发</a></li>
+     <li><a href="https://www.zjzwfw.gov.cn/zjservice/item/detail/index.do?localInnerCode=851e4414-1d72-4383-8f0d-6be970e25170" target="_blank" class="gglist">普通高级中学教育学历证明书（2010年及以后毕业）办理</a></li>
+	 
+   
+
+</ul>
+<style>
+    #ggfw .gglist{
+        overflow: hidden;
+        width: 485px;
+        float: left;
+    }
+  
+
+.red{border: 1px solid #ffa128;color: #ffa128!important;text-align: center;padding: 0px 4px!important;}
+.blue{ float:right;border: 1px solid #1e94ee;color: #1e94ee!important;text-align: center;padding: 0px 4px;margin-left: 10px;}
+.content-list-style ul li a {
+width: 275px;
+}
+</style>
+
+  <script>
+      $('.red').click(function(){
+        $('#dialogmain').show()
+      })
+        function zyj2(){
+            $('#dialogmain').hide()
+        }
+      
+        </script>
+                                    </ul>
+
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="content" style="background:#fff;border:1px solid #dcd9d9;padding-top:30px;height:350px;display:none">
+                        <div class="fl" style="width:650px;margin-left:10px;margin-right:-100px;">
+<div class="wsdc">
+      
+
+      <a href="https://zxts.zjzwfw.gov.cn/zwmhww/#/advice?areacode=330000&lybj=pc_cgm_1534959072862818306_527944_02&orgName=浙江省教育厅&orgId=1534959072862818306" target="_blank" class="dclist"><img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/2409251512522924864.png"><span class="dctitle">我要咨询</span></a>
+     
+
+      <a href="https://zxts.zjzwfw.gov.cn/zwmhww/#/home/index/appeal?areacode=330000&lybj=pc_cgm_1534959072862818306_527944_07&orgName=%E6%B5%99%E6%B1%9F%E7%9C%81%E6%95%99%E8%82%B2%E5%8E%85&orgId=1534959072862818306" target="_blank" class="dclist"><img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/2409251512521277002.png"><span class="dctitle">我要反映</span></a>
+     
+
+      <a href="https://zxts.zjzwfw.gov.cn/zwmhww/#/home/index/suggest?areacode=330000&lybj=pc_cgm_1534959072862818306_527944_03&orgName=浙江省教育厅&orgId=1534959072862818306" target="_blank" class="dclist"><img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/2409251512522056116.png"><span class="dctitle">我要建议</span></a>
+     
+
+      <a href="https://zxts.zjzwfw.gov.cn/zwmhww/#/home/index/petition?areacode=330000&lybj=pc_cgm_1534959072862818306_527944_01&orgName=%E6%B5%99%E6%B1%9F%E7%9C%81%E6%95%99%E8%82%B2%E5%8E%85&orgId=1534959072862818306" target="_blank" class="dclist"><img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/2503241638096429809.png"><span class="dctitle">我要信访</span></a>
+     
+
+      <a href="https://zxts.zjzwfw.gov.cn/zwmhww/#/home/index/leader?areacode=330000&lybj=pc_cgm_1534959072862818306_527944_04&orgName=浙江省教育厅&orgId=1534959072862818306" target="_blank" class="dclist"><img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/2409251512520499404.png"><span class="dctitle">领导信箱</span></a>
+     
+
+      <a href="http://www.zjzwfw.gov.cn/jfaqfront_robot/index.html?webid=1" target="_blank" class="dclist"><img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/2409251512523605172.png"><span class="dctitle">智能问答</span></a>
+     
+
+    </div>
+  <style>
+	  .wsdc {
+	  margin-left: 10px;
+	  margin-right: -30px;
+	  }
+
+	  .wsdc .dclist {
+	  margin-bottom: 25px;
+	  margin-right: 25px;
+	  float: left;
+	  position: relative;
+	  width: 240px;
+	  height: 80px;
+	  background: url(http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/2409251540313551084.png) no-repeat;
+	  }
+	  .dctitle{
+	  position: absolute;
+	  left: 110px;
+	  top: 0px;
+	  height: 80px;
+	  line-height: 80px;
+	  color: #1859b4;
+	  background-color: #f1f1f1;
+	  font-size: 19px;
+	  font-weight: bold;
+	  }
+
+	  .wsdc .dclist img {
+	  width: 70px;
+	  height: auto;
+	  margin-left: 15px;
+	  margin-top: 5px;
+	  }
+  </style>
+                        </div>
+                        <div class="fl">
+                            <div class="Education2-news" style="width:580px;">
+                                <div class="Education2-news-title">
+                                    <ul>
+                                        <li class="Education2-news-title-hover">
+网上调查
+                                        </li>
+
+                                    </ul>
+
+                                    <div class="more-list">
+
+<a style="float:right" href="http://jyj.jinhua.gov.cn/col/col1532801/index.html" target="_blank">更多>></a>
+
+
+
+                                    </div>
+                                </div>
+
+                                <div id="Education2-list">
+                                    <ul>
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/art/2025/8/20/art_1532801_58944233.html" target="_blank" title="浙江省教育事业发展“十五五”规划，邀您一起 “出谋划策”！">浙江省教育事业发展“十五五”规划，邀您一起 “出谋划策”...</a>
+<span>2025-08-20</span>
+</li>
+
+
+
+<li>
+<a href="https://liuyan.www.gov.cn/2025wwzfgzbgtjy/bmdf.html?q=zj" target="_blank" title="@国务院 我来说">@国务院 我来说</a>
+<span>2024-12-20</span>
+</li>
+
+
+
+<li>
+<a href="https://minyi.zjzwfw.gov.cn/dczjnewls/dczj/survey/form_3430.html#surveyTable22194" target="_blank" title="政府网站用户体验问卷">政府网站用户体验问卷</a>
+<span>2024-10-30</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/art/2024/6/17/art_1532801_58942348.html" target="_blank" title="（已结束）浙江省教育厅公开征求《浙江省教育厅等六部门关于进一步加强中小学食堂管理工作的意见（试行）（征求意见稿）》意见的通告">（已结束）浙江省教育厅公开征求《浙江省教育厅等六部门关于...</a>
+<span>2024-06-17</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/art/2023/5/25/art_1532801_58940184.html" target="_blank" title="浙江省教育系统（中小学）收费现状问卷调查">浙江省教育系统（中小学）收费现状问卷调查</a>
+<span>2023-05-25</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/art/2023/5/25/art_1532801_58940183.html" target="_blank" title="浙江省教育系统（高校）收费现状问卷调查">浙江省教育系统（高校）收费现状问卷调查</a>
+<span>2023-05-25</span>
+</li>
+
+
+                                    </ul>
+
+                                </div>
+                            </div>
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script>
+            $('#container>ul li').hover(function () {
+                var index = $('#container>ul li').index(this);
+                if (index > 0) {
+                    $('.nav .contents').show();
+                    $('.content').hide().eq(index - 1).show();
+                    $('#first').show();
+                }else{
+                    $('.nav .contents').hide();
+                    $('#first').show();
+                }
+            })
+            $('#container').hover(function (e) {
+$('#first').css('position','static');
+               
+            }, function () {
+$('#container>ul li a').removeClass("nav-hover").eq(0).addClass("nav-hover")
+                $('.nav .contents').hide();
+$('#first').css('position','relative');
+            })
+        </script>
+
+<script>
+var authorizedReadUnitId = "e8af0b1fc9be4bfc91b8549779e7f21e";
+</script><script id="e8af0b1fc9be4bfc91b8549779e7f21e" src="http://jyj.jinhua.gov.cn/cms_files/default/script/AuthorizedRead/unitbuild.js?v=4.5.12.1-ZJSJYH-U39" webId="3099" parseType="bulidstatic" url="http://jyj.jinhua.gov.cn/api-gateway/jpaas-publish-server/front/page/build/unit" queryData="{'parseType':'bulidstatic','webId':'3099','tplSetId':'UKkUNRGgGGJP7USFCi0Gn','pageType':'channel','tagId':'importantnews','editType':'null','pageId':'jXChbkHmmvbqodAbsTm6b'}"></script>
+	
+
+
+
+
+<style>
+.headbanner {
+    width: 1200px;
+    background: #ccc;
+    height: 150px;
+    box-sizing: border-box;
+    margin: 0px auto 10px auto;
+    border-bottom: 8px solid #1492ff;
+    overflow: hidden;
+}
+#wzyjbanner {position: relative;}
+#wzyjbanner img {width:100%;}
+
+.mobile_type .headbanner {
+    width: 100%;
+    height: auto;
+}
+</style>
+
+        <div id="first" class="content">
+
+            <!--焦点图 begin-->
+            <div class="w675 focus" id="slideContainer">
+
+<div id="frameHlicAe" class="cf">
+        <div class="temp"></div>
+        <div class="block">
+            <div class="cf">
+                <ul class="slideshow" id="slidesImgs">
+                    
+
+
+                    <li>
+                        <a href="http://jyj.jinhua.gov.cn/col/col1543973/art/2026/art_684ce1e735824bc18ab7a727c4fa4251.html" target="_blank"><img class="huiimg" src="http://jyj.jinhua.gov.cn/cms_files/filemanager/1567293/picture/20266/4fcc944f012642b8a4367e4d35de9b8e.png" alt="省教育厅召开党组理论学习中心组（扩大）会议" /></a><span class="title"></span>
+                        <h1 class="h1focus">
+                            省教育厅召开党组理论学习中心组（扩大）会议
+                        </h1>
+                    </li>
+                    
+
+
+                    <li>
+                        <a href="http://jyj.jinhua.gov.cn/col/col1543973/art/2026/art_4fa1ff8eb07543c39182ba103f319170.html" target="_blank"><img class="huiimg" src="http://jyj.jinhua.gov.cn/cms_files/filemanager/1567293/picture/20266/2a472ebe7df845329c3072259175ad07.png" alt="省教育厅组织集中收看庆祝中国共产党成立105周年大会" /></a><span class="title"></span>
+                        <h1 class="h1focus">
+                            省教育厅组织集中收看庆祝中国共产党成立105周年大会
+                        </h1>
+                    </li>
+                    
+
+
+                    <li>
+                        <a href="http://jyj.jinhua.gov.cn/col/col1543973/art/2026/art_26b844bc1f19433c975b9d1c4b985048.html" target="_blank"><img class="huiimg" src="http://jyj.jinhua.gov.cn/cms_files/filemanager/1567293/picture/20266/291729b3a41041639a32691e3ccabfe4.jpg" alt="省教育厅领导“七一”前夕走访慰问老党员" /></a><span class="title"></span>
+                        <h1 class="h1focus">
+                            省教育厅领导“七一”前夕走访慰问老党员
+                        </h1>
+                    </li>
+                    
+
+                </ul>
+            </div>
+            <div class="slidebar" id="slideBar">
+                <ul>
+                    <li class="on">1</li>
+                    <li>2</li>
+                    <li>3</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    
+   <script type="text/javascript">
+                SlideShow(4000);
+            </script>
+
+            </div>
+            <!--焦点图 begin-->
+
+            <!-- 列表 -->
+            <div class="Education-news">
+                <div class="Education-news-title">
+                    <ul>
+                        <li class="Education-news-title-hover">
+
+<a style="color: white;" href="http://jyj.jinhua.gov.cn/col/col1543973/index.html">图文报道</a>
+
+
+                        </li>
+                        <li>
+
+<a style="color: white;" href="http://jyj.jinhua.gov.cn/col/col1543974/index.html">教育动态</a>
+
+
+                        </li>
+                        <li>
+
+<a style="color: white;" href="http://jyj.jinhua.gov.cn/col/col1532836/index.html">媒体关注</a>
+
+
+                        </li>
+                        <!--<li>教育时空</li>-->
+                       <li>
+
+<a style="color: white;" href="http://jyj.jinhua.gov.cn/col/col1532992/index.html">新闻发布会</a>
+
+
+                        </li>
+                    </ul>
+                    <div id="more-list">
+
+<a href="http://jyj.jinhua.gov.cn/col/col1543973/index.html" target="_blank">更多>></a>
+
+
+
+
+<a href="http://jyj.jinhua.gov.cn/col/col1543974/index.html" target="_blank" style="display:none;">更多>></a>
+
+
+
+
+<a href="http://jyj.jinhua.gov.cn/col/col1532836/index.html" target="_blank" style="display:none;">更多>></a>
+
+
+
+                        <!--教育时空-更多-->
+
+<a href="http://jyj.jinhua.gov.cn/col/col1532992/index.html" target="_blank" style="display:none;">更多>></a>
+
+
+                    </div>
+                </div>
+                <div id="Education-list">
+                    <ul style="margin-top:10px;">
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/col/col1543973/art/2026/art_684ce1e735824bc18ab7a727c4fa4251.html" target="_blank" title="省教育厅召开党组理论学习中心组（扩大）会议">省教育厅召开党组理论学习中心组（扩大）会议</a>
+<span>2026-07-02</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/col/col1543973/art/2026/art_4fa1ff8eb07543c39182ba103f319170.html" target="_blank" title="省教育厅组织集中收看庆祝中国共产党成立105周年大会">省教育厅组织集中收看庆祝中国共产党成立105周年大会</a>
+<span>2026-07-01</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/col/col1543973/art/2026/art_26b844bc1f19433c975b9d1c4b985048.html" target="_blank" title="省教育厅领导“七一”前夕走访慰问老党员">省教育厅领导“七一”前夕走访慰问老党员</a>
+<span>2026-07-01</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/col/col1543973/art/2026/art_144c656cfc684dfc82dbd0eec8d51faa.html" target="_blank" title="全省高校“两优一先”表彰会在杭召开">全省高校“两优一先”表彰会在杭召开</a>
+<span>2026-07-01</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/col/col1543973/art/2026/art_f9ad9aa8c2b0429db56013df190e72b2.html" target="_blank" title="省教育厅召开党组会议传达学习近期重要会议重要文章重要指示精神">省教育厅召开党组会议传达学习近期重要会议重要文章重要指示...</a>
+<span>2026-06-27</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/col/col1543973/art/2026/art_b23a3ad76e694c57971675492bd825d2.html" target="_blank" title="省教育厅举办2026年全省教育系统第四期“校安大讲堂”">省教育厅举办2026年全省教育系统第四期“校安大讲堂”</a>
+<span>2026-06-26</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/col/col1543973/art/2026/art_572b1dc9cf4649f38742120f4bd89e5d.html" target="_blank" title="全省国际中文教育工作会议在杭召开">全省国际中文教育工作会议在杭召开</a>
+<span>2026-06-24</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/col/col1543973/art/2026/art_b3674d7c40e647d39b226273cdbf2d89.html" target="_blank" title="强化正风肃纪  推进学习教育走深走实——省教育厅召开专题会议进行部署">强化正风肃纪  推进学习教育走深走实——省教育厅召开专题...</a>
+<span>2026-06-17</span>
+</li>
+
+
+                    </ul>
+                    <ul style="display:none; margin-top:10px;">
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/col/col1543974/art/2026/art_bf3711953c4444a784a7cab4adeb115b.html" target="_blank" title="海盐县深化“中职-高职-企业”一体化发展模式 推动产教深度融合发展">海盐县深化“中职-高职-企业”一体化发展模式 推动产教深...</a>
+<span>2026-06-23</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/col/col1543974/art/2026/art_affa53f3dbd54faf9c564e7d9b052510.html" target="_blank" title="绍兴市加快推进学前教育“优共体”建设 助力乡村全面振兴">绍兴市加快推进学前教育“优共体”建设 助力乡村全面振兴</a>
+<span>2026-06-12</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/col/col1543974/art/2026/art_495c7f3b01674373a0dedd67fac651f7.html" target="_blank" title="宁波城市职业技术学院以“三新”模式推进产教深度融合">宁波城市职业技术学院以“三新”模式推进产教深度融合</a>
+<span>2026-06-10</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/col/col1543974/art/2026/art_d910d97231da402c881f8a3718f48936.html" target="_blank" title="嘉兴市强内涵塑体系 打造市域现代职教体系新样板">嘉兴市强内涵塑体系 打造市域现代职教体系新样板</a>
+<span>2026-05-27</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/col/col1543974/art/2026/art_b12f1af837424ede9981cfcab8c5ae86.html" target="_blank" title="东阳市构建“三维协同”体系推动区域教育生态持续优化">东阳市构建“三维协同”体系推动区域教育生态持续优化</a>
+<span>2026-05-27</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/col/col1543974/art/2026/art_4ec2cc7cefd546688cfbdca89f98111a.html" target="_blank" title="宁波市聚“三力”塑造产教融合新形态 打造政校企协同育人新样板">宁波市聚“三力”塑造产教融合新形态 打造政校企协同育人新...</a>
+<span>2026-04-21</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/col/col1543974/art/2026/art_42b5a4ab6a744caabacc94cce9647518.html" target="_blank" title="嵊州市深耕“县管校聘”十年全面激活教师队伍“一池春水”">嵊州市深耕“县管校聘”十年全面激活教师队伍“一池春水”</a>
+<span>2026-04-21</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/col/col1543974/art/2026/art_9953b6409e3a4b3bbd38b2e7eaebb524.html" target="_blank" title="缙云县构建“政校企”协同联动育人机制 打造教科人一体化发展新生态">缙云县构建“政校企”协同联动育人机制 打造教科人一体化发...</a>
+<span>2026-04-09</span>
+</li>
+
+
+                    </ul>
+
+                    <ul style="display:none; margin-top:10px;">
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/col/col1532836/art/2026/art_03cfded45a11457888fc6dfa022fc5c0.html" target="_blank" title="杭州日报：毕业生给母校起爱称“吃饭大学”“考公黄埔” 升学季热度直升 浙财大今年本科招生拔尖培养扩容">杭州日报：毕业生给母校起爱称“吃饭大学”“考公黄埔” 升...</a>
+<span>2026-06-25</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/col/col1532836/art/2026/art_bcdbdc2b14994da5805e134fb195cc3a.html" target="_blank" title="浙江教育报：让山城学子脚下有更多路 常山一中打造县域高中育人样板">浙江教育报：让山城学子脚下有更多路 常山一中打造县域高中...</a>
+<span>2026-06-25</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/col/col1532836/art/2026/art_d0ab91bbc3f3494d91658a6115602d14.html" target="_blank" title="浙江教育报：“家长，请上场！”——浦江家校社协同推进“健康第一”纪实">浙江教育报：“家长，请上场！”——浦江家校社协同推进“健...</a>
+<span>2026-06-25</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/col/col1532836/art/2026/art_a92285c025e94d4d8eb186018436e62a.html" target="_blank" title="浙江日报：技不压身，超七成职业院校学生积极拥抱人工智能 AI热潮下的职教新生态">浙江日报：技不压身，超七成职业院校学生积极拥抱人工智能 ...</a>
+<span>2026-06-25</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/col/col1532836/art/2026/art_5d1f3a0747804a16b19d851554bdbc3f.html" target="_blank" title="中国教育报：浙江嘉兴以教育新动能赋能经济社会高质量发展——秀水泱泱焕新姿">中国教育报：浙江嘉兴以教育新动能赋能经济社会高质量发展—...</a>
+<span>2026-06-25</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/col/col1532836/art/2026/art_4f548a436b8d4fb796b696e1b847dba5.html" target="_blank" title="浙江日报：具身智能、储能科学、生物制造……浙江高校本科专业“上新”了">浙江日报：具身智能、储能科学、生物制造……浙江高校本科专...</a>
+<span>2026-06-18</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/col/col1532836/art/2026/art_200c5591043442d3a0409f959658d935.html" target="_blank" title="中国教育报：浙江推进以实践成果申请学位 完成实践成果答辩的专业研究生已有40余人">中国教育报：浙江推进以实践成果申请学位 完成实践成果答辩...</a>
+<span>2026-06-18</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/col/col1532836/art/2026/art_1917b6fb9d7042689bd6017951ce820c.html" target="_blank" title="中国教育新闻网：浙江工商职业技术学院——青瓷体验活动让千年秘色瓷“潮”起来">中国教育新闻网：浙江工商职业技术学院——青瓷体验活动让千...</a>
+<span>2026-06-18</span>
+</li>
+
+
+                    </ul>
+                    <!-- <ul style="display:none; margin-top:10px;">
+                      教育时空-list
+                    </ul>-->
+                    <ul style="display:none; margin-top:10px;">
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/col/col1532992/art/2026/art_7c324aebf57546269fe0b0b8a52d3ded.html" target="_blank" title="教育部召开新闻发布会介绍2026世界数字教育大会有关情况">教育部召开新闻发布会介绍2026世界数字教育大会有关情况</a>
+<span>2026-05-07</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/art/2025/11/4/art_1532992_58944662.html" target="_blank" title="省政府新闻办举行“浙江省高质量完成‘十四五’规划”系列主题第四场新闻发布会">省政府新闻办举行“浙江省高质量完成‘十四五’规划”系列主...</a>
+<span>2025-11-04</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/art/2024/12/10/art_1532992_58943210.html" target="_blank" title="省政府新闻办举行加快建设创新浙江、因地制宜发展新质生产力新闻发布会">省政府新闻办举行加快建设创新浙江、因地制宜发展新质生产力...</a>
+<span>2024-12-10</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/art/2024/6/12/art_1532992_58942319.html" target="_blank" title="省政府新闻办举行浙江省历史经典产业高水平传承高质量发展新闻发布会">省政府新闻办举行浙江省历史经典产业高水平传承高质量发展新...</a>
+<span>2024-06-12</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/art/2024/3/25/art_1532992_58941944.html" target="_blank" title="省政府新闻办举行浙江省全面加强“三支队伍”建设新闻发布会">省政府新闻办举行浙江省全面加强“三支队伍”建设新闻发布会</a>
+<span>2024-03-25</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/art/2023/11/24/art_1532992_58941344.html" target="_blank" title="省政府新闻办举行新闻发布会介绍《浙江省科学技术进步条例》有关情况">省政府新闻办举行新闻发布会介绍《浙江省科学技术进步条例》...</a>
+<span>2023-11-24</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/art/2023/5/23/art_1532992_58940160.html" target="_blank" title="“八八战略”实施20周年系列主题第二场新闻发布会">“八八战略”实施20周年系列主题第二场新闻发布会</a>
+<span>2023-05-23</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/art/2022/9/7/art_1532992_58938215.html" target="_blank" title="教育部举行新闻发布会介绍党的十八大以来教师队伍建设改革发展成效">教育部举行新闻发布会介绍党的十八大以来教师队伍建设改革发...</a>
+<span>2022-09-07</span>
+</li>
+
+
+                    </ul>
+                </div>
+            </div>
+
+
+        </div>
+
+    </div>
+
+
+   <!-- </div>-->
+
+    <div class="banner">
+<style>.banner{display:none}</style>
+
+
+    </div>
+
+
+    <div class="content-list">
+        <div class="content-listPublic bt-left bt-margin-right-30">
+            <div class="content-listPublic-title content-listPublic-one">
+                <ul>
+                    <li class="listPublic-title-hover">
+                        
+<a href="https://www.gov.cn/zhengce/xxgk/" target="_blank">国务院</a>
+
+
+                        
+                    </li>
+
+                    <li>
+                        
+<a href="//www.zj.gov.cn/col/col1554467/index.html" target="_blank">省政府</a>
+
+
+                    </li>
+                    
+                   
+<a target="_blank" href="http://www.moe.gov.cn/jyb_xxgk/zywj_btlj/" style="margin-left:8px;">教育部</a>
+
+
+
+
+
+
+
+               
+                </ul>
+            </div>
+            <div id="listPublic-one-list" class="content-list-style" style="height: 191px;overflow: hidden;">
+            
+   
+               
+<script type="text/javascript">  //<![CDATA[
+  $(function() {
+    $.ajax({
+      url: '//www.gov.cn/pushinfo/v150203/pushinfo.jsonp',
+      dataType: "jsonp",
+      jsonp: "pushInfoJsonpCallBack",
+      jsonpCallback: "pushInfoJsonpCallBack",
+      success: function(data) {
+        if (data.length > 7) {
+          data.length = 7;
+        }
+        $.each(data, function(i, json) {
+          $(".gwyxx").append("<li><a href='" + json.link + "' target='_blank' class='gwyxxa clearfix'>" + limitText(json.title, 28) + "</a><span class='Days'>" + json.pubDate + "</span></li>")
+        }
+              );
+      }
+      ,
+      error: function() {
+        //alert('fail');
+      }
+    }
+          );
+  }
+   );
+  function limitText(text, length) {
+    if (!length) {
+      length = 15;
+    }
+    if (text.length > length) {
+      text = text.substring(0, length - 1) + '...';
+    }
+    return text;
+  }
+  //]]>
+</script>
+<ul class="gwyxx">
+  <div class="more">
+    <a href="https://www.gov.cn/zhengce/xxgk/" target="_blank">更多
+    </a>
+  </div>
+</ul>
+<style>
+  .govpushinfo150203 {
+    overflow: hidden;
+    height: 191px;
+  }
+</style>
+
+         
+   
+                
+<ul><div class="more"><a href="//www.zj.gov.cn/col/col1554467/index.html" target="_blank">更多</a></div><script src="//www.zj.gov.cn/module/freshnews/getinfo/getinfo.jsp?type=0&num=9&column=1554467&webid=1"></script>
+</ul>
+           
+              
+
+            </div>
+        </div>
+
+        <div class="content-listPublic bt-left">
+            <div class="content-listPublic-title content-listPublic-two">
+                <ul>
+                    <li class="listPublic-title-hover">
+                        
+
+<a target="_blank" href="http://jyj.jinhua.gov.cn/col/col1532970/index.html">最新文件</a>
+
+
+
+
+
+
+
+                    </li> 
+                    <li>
+
+<a target="_blank" href="http://jyj.jinhua.gov.cn/col/col1229106823/index.html">规范性文件</a>
+
+
+
+
+ 
+                    </li>
+                    <li>
+
+<a target="_blank" href="http://jyj.jinhua.gov.cn/col/col1229106829/index.html">政策解读</a>
+
+
+
+
+ 
+                    </li>
+                    <li>
+
+<a target="_blank" href="http://jyj.jinhua.gov.cn/col/col1532993/index.html">征求意见</a>
+
+
+
+
+
+                    </li>
+                  
+                </ul>
+            </div>
+            <div id="listPublic-two-list" class="content-list-style">
+                    <ul>
+                        <div class="more">
+                            <a href="//jyt.zj.gov.cn/col/col1532970/index.html" target="_blank">更多</a>
+                            </div>
+<script>
+var authorizedReadUnitId = "510faa4df2f742c4802202726ae39350";
+</script><script id="510faa4df2f742c4802202726ae39350" src="http://jyj.jinhua.gov.cn/cms_files/default/script/AuthorizedRead/unitbuild.js?v=4.5.12.1-ZJSJYH-U39" webId="3099" parseType="bulidstatic" url="http://jyj.jinhua.gov.cn/api-gateway/jpaas-publish-server/front/page/build/unit" queryData="{'parseType':'bulidstatic','webId':'3099','tplSetId':'UKkUNRGgGGJP7USFCi0Gn','pageType':'channel','tagId':'最新文件_list','editType':'null','pageId':'jXChbkHmmvbqodAbsTm6b'}"></script>
+                </ul>
+                <ul style="display:none;">
+                    <div class="more">
+                        <a href="//jyt.zj.gov.cn/col/col1229106823/index.html" target="_blank">更多</a>
+                        </div>
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/art/2025/10/31/art_1229106823_2578461.html" target="_blank" title="浙江省教育厅关于印发《浙江省教育系统建设工程管理审计办法》《浙江省高等学校建设工程项目全过程审计实施细则》的通知">浙江省教育厅关于印发《浙江省教育系...</a>
+<span>2025-10-31</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/art/2025/10/20/art_1229106823_2577851.html" target="_blank" title="浙江省教育厅等四部门关于印发《浙江省城镇住宅小区配套幼儿园建设管理办法（2025年修订）》的通知">浙江省教育厅等四部门关于印发《浙江...</a>
+<span>2025-10-20</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/art/2024/5/31/art_1229106823_2521049.html" target="_blank" title=" 浙江省教育厅等六部门印发《关于进一步加强中小学食堂管理工作的意见（试行）》的通知"> 浙江省教育厅等六部门印发《关于进...</a>
+<span>2024-05-31</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/art/2023/11/1/art_1229106823_2494712.html" target="_blank" title="浙江省教育厅关于做好优质普通高中分配生招生工作的通知">浙江省教育厅关于做好优质普通高中分...</a>
+<span>2023-11-01</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/art/2023/11/1/art_1229106823_2494704.html" target="_blank" title="浙江省教育厅关于实施初中学业水平考试全省统一命题的通知">浙江省教育厅关于实施初中学业水平考...</a>
+<span>2023-11-01</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/art/2023/9/22/art_1229106823_2491612.html" target="_blank" title="浙江省教育厅关于公布行政规范性文件清理结果的通知">浙江省教育厅关于公布行政规范性文件...</a>
+<span>2023-09-22</span>
+</li>
+
+
+                </ul>
+                <ul style="display:none;">
+                    <div class="more">
+                        <a href="//jyt.zj.gov.cn/col/col1229106829/index.html" target="_blank">更多</a>
+                        </div>
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/art/2025/10/31/art_1229106829_2578476.html" target="_blank" title="《浙江省教育系统建设工程管理审计办法》 《浙江省高等学校建设工程项目全过程 审计实施细则》政策解读">《浙江省教育系统建设工程管理审计办法》 《浙江省高等学校建设工程项目全过程 审计实施细则》政策解读</a>
+<span>2025-10-31</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/art/2025/10/21/art_1229106829_2577955.html" target="_blank" title="浙江省教育厅等四部门《浙江省城镇住宅小区配套幼儿园建设管理办法（2025年修订）》 政策解读">浙江省教育厅等四部门《浙江省城镇住宅小区配套幼儿园建设管理办法（2025年修订）》 政策解读</a>
+<span>2025-10-21</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/art/2024/5/31/art_1229106829_2521057.html" target="_blank" title="【主要负责人解读】陈春雷厅长解读《关于进一步加强中小学食堂管理工作的意见（试行）》">【主要负责人解读】陈春雷厅长解读《关于进一步加强中小学食堂管理工作的意见（试行）》</a>
+<span>2024-05-31</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/art/2024/5/31/art_1229106829_2521053.html" target="_blank" title="【视频解读】《关于进一步加强中小学食堂管理工作的意见（试行）》">【视频解读】《关于进一步加强中小学食堂管理工作的意见（试行）》</a>
+<span>2024-05-31</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/art/2023/11/1/art_1229106829_2494716.html" target="_blank" title="一图看懂《浙江省教育厅关于做好优质普通高中分配生招生工作的通知》">一图看懂《浙江省教育厅关于做好优质普通高中分配生招生工作的通知》</a>
+<span>2023-11-01</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/art/2023/11/1/art_1229106829_2494708.html" target="_blank" title="一图看懂《浙江省教育厅关于实施初中学业水平考试全省统一命题的通知》">一图看懂《浙江省教育厅关于实施初中学业水平考试全省统一命题的通知》</a>
+<span>2023-11-01</span>
+</li>
+
+ 
+                </ul>
+                <ul style="display:none;">
+                    <div class="more">
+                        <a href="//jyt.zj.gov.cn/col/col1532993/index.html" target="_blank">更多</a>
+                        </div>
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/art/2025/8/22/art_1532993_58944252.html" target="_blank" title="浙江省教育厅关于公开征求《浙江省教育系统建设工程管理审计办法（征求意见稿）》《浙江省高等学校建设工程项目全过程审计实施细则（征求意见稿）》意见的通告">浙江省教育厅关于公开征求《浙江省教育系统建设工程管理审计办法（征求意见稿）》《浙江省高等学校建设工程项目全过程审计实施细则（征求意见稿）》意见的通告</a>
+<span>2025-08-22</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/art/2025/8/6/art_1532993_58944187.html" target="_blank" title="浙江省教育事业发展“十五五”规划，邀您一起 “出谋划策”！">浙江省教育事业发展“十五五”规划，邀您一起 “出谋划策”！</a>
+<span>2025-08-06</span>
+</li>
+
+
+
+<li>
+<a href="https://liuyan.www.gov.cn/2025wwzfgzbgtjy/bmdf.html?q=zj" target="_blank" title="@国务院 我为政府工作报告提建议">@国务院 我为政府工作报告提建议</a>
+<span>2024-12-20</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/art/2024/12/10/art_1532993_58943203.html" target="_blank" title="浙江省教育厅关于公开征求《浙江省省属高等学校基本建设管理办法（试行）（征求意见稿）》意见的通告">浙江省教育厅关于公开征求《浙江省省属高等学校基本建设管理办法（试行）（征求意见稿）》意见的通告</a>
+<span>2024-12-10</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/art/2024/3/14/art_1532993_58941885.html" target="_blank" title="浙江省教育厅公开征求《浙江省教育厅等六部门关于进一步加强中小学食堂管理工作的意见（试行）（征求意见稿）》意见的通告">浙江省教育厅公开征求《浙江省教育厅等六部门关于进一步加强中小学食堂管理工作的意见（试行）（征求意见稿）》意见的通告</a>
+<span>2024-03-14</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/art/2023/8/3/art_1532993_58940599.html" target="_blank" title="关于征求《浙江省教育厅现行有效行政规范性文件清理意见（征求意见稿）》意见建议的通告">关于征求《浙江省教育厅现行有效行政规范性文件清理意见（征求意见稿）》意见建议的通告</a>
+<span>2023-08-03</span>
+</li>
+
+
+                </ul>
+              
+            </div>
+        </div>
+
+        <div class="content-listPublic bt-right">
+            <div class="content-listPublic-title content-listPublic-three">
+                <ul>
+                    <li class="listPublic-title-hover">
+
+<a target="_blank" href="http://jyj.jinhua.gov.cn/col/col1229266336/index.html">公告公示</a>
+
+
+
+
+
+
+ 
+                    </li>
+                    <li>  
+<a target="_blank" href="http://jyj.jinhua.gov.cn/col/col1229266320/index.html">教育统计</a>
+
+
+
+
+  
+                
+                    </li>
+                  
+                    <li>
+
+<a target="_blank" href="http://jyj.jinhua.gov.cn/col/col1532994/index.html">教育展望</a>
+
+
+
+
+
+                    </li>
+                </ul>
+            </div>
+            <div id="listPublic-three-list" class="content-list-style">
+                <ul>
+                    <div class="more">
+                        <a href="//jyt.zj.gov.cn/col/col1229266336/index.html" target="_blank">更多</a>
+                    </div>
+
+
+<li>
+<a href="https://rlsbt.zj.gov.cn/col/col1229743684/art/2026/art_599e9432747f4e4c9b314242347b8c90.html" target="_blank" title="浙江省教育科学研究院拟聘人员公示">浙江省教育科学研究院拟聘人员公示</a>
+<span>2026-07-02</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/col/col1229266336/art/2026/art_1fc8e39f0a874e038e4c3a5c0448812d.html" target="_blank" title="浙江省教育厅关于2025年度浙江省科学技术奖候选提名成果的公示">浙江省教育厅关于2025年度浙江省科学技术奖候选提名成果的公示</a>
+<span>2026-06-16</span>
+</li>
+
+
+
+<li>
+<a href="https://rlsbt.zj.gov.cn/col/col1229743683/art/2026/art_912588d508a546df9891a656b9521bf2.html" target="_blank" title="浙江省教育厅教研室2026年公开招聘人员公告">浙江省教育厅教研室2026年公开招聘人员公告</a>
+<span>2026-03-27</span>
+</li>
+
+
+
+<li>
+<a href="https://rlsbt.zj.gov.cn/col/col1229743683/art/2026/art_aa250f574a114936b87ea93a5ca2c6b5.html" target="_blank" title="浙江省省属事业单位2026年上半年集中公开招聘人员公告">浙江省省属事业单位2026年上半年集中公开招聘人员公告</a>
+<span>2026-03-17</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/col/col1229266336/art/2026/art_f583a9e4e16f4bc39e928d1c420d8ad2.html" target="_blank" title="浙江省中小学教辅材料评议委员会办公室关于组织开展2026学年中小学教辅材料审核评议工作的通告">浙江省中小学教辅材料评议委员会办公室关于组织开展2026学年中小学教辅材料审核评议工作的通告</a>
+<span>2026-02-04</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/col/col1229266336/art/2026/art_e7d83904b6fc499faa1f7e26ee362cfe.html" target="_blank" title="浙江省教育厅关于第十届教育部科学研究优秀成果奖（人文社会科学）拟申报成果的第二轮公示">浙江省教育厅关于第十届教育部科学研究优秀成果奖（人文社会科学）拟申报成果的第二轮公示</a>
+<span>2026-01-04</span>
+</li>
+
+
+                </ul>
+                <ul style="display:none;">
+                    <div class="more">
+                        <a href="//jyt.zj.gov.cn/col/col1229266320/index.html" target="_blank">更多</a>
+                    </div>
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/col/col1229266336/art/2026/art_0c3481d70bed4e2ea015080319606a0b.html" target="_blank" title="浙江省教育厅 浙江省财政厅 浙江省统计局关于2024年全省教育经费执行情况的公告">浙江省教育厅 浙江省财政厅 浙江省统计局关于2024年全省教育经费执行情况的公告</a>
+<span>2026-03-10</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/col/col1229266336/art/2026/art_03f157a06ae34111afa20c2a4ab7290f.html" target="_blank" title="中共浙江省委教育工作领导小组秘书组关于印发2026年中小学社会事务进校园白名单的通知">中共浙江省委教育工作领导小组秘书组关于印发2026年中小学社会事务进校园白名单的通知</a>
+<span>2026-03-05</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/art/2025/4/15/art_1229266680_5495915.html" target="_blank" title="2024年浙江省教育事业发展统计公报">2024年浙江省教育事业发展统计公报</a>
+<span>2025-04-15</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/art/2025/2/28/art_1229266680_5469512.html" target="_blank" title="浙江省教育厅 浙江省财政厅 浙江省统计局关于2023年全省教育经费执行情况的公告">浙江省教育厅 浙江省财政厅 浙江省统计局关于2023年全省教育经费执行情况的公告</a>
+<span>2025-02-28</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/art/2024/6/7/art_1229266680_5314002.html" target="_blank" title="浙江省教育厅 浙江省财政厅 浙江省统计局关于2022年全省教育经费执行情况的公告">浙江省教育厅 浙江省财政厅 浙江省统计局关于2022年全省教育经费执行情况的公告</a>
+<span>2024-06-07</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/art/2024/6/7/art_1229266680_5313998.html" target="_blank" title="浙江省教育厅 浙江省统计局 浙江省财政厅关于2021年全省教育经费执行情况统计公告">浙江省教育厅 浙江省统计局 浙江省财政厅关于2021年全省教育经费执行情况统计公告</a>
+<span>2024-06-07</span>
+</li>
+
+
+                </ul>
+               
+                <ul style="display:none;">
+                    <div class="more">
+                        <a href="//jyt.zj.gov.cn/col/col1532994/index.html" target="_blank">更多</a>
+                        </div>
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/art/2025/8/20/art_1532994_58944232.html" target="_blank" title="浙江省教育厅办公室关于印发《浙江省教育系统行政执法2025年度工作计划》的通知">浙江省教育厅办公室关于印发《浙江省教育系统行政执法2025年度工作计划》的通知</a>
+<span>2025-08-20</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/art/2025/4/11/art_1532994_58944501.html" target="_blank" title="浙江省教育厅办公室关于组织开展2025年全民国家安全教育日宣传教育活动的通知">浙江省教育厅办公室关于组织开展2025年全民国家安全教育日宣传教育活动的通知</a>
+<span>2025-04-11</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/art/2024/8/20/art_1532994_58942606.html" target="_blank" title="浙江省教育厅办公室关于印发《浙江省教育系统行政执法2024年度工作计划》的通知">浙江省教育厅办公室关于印发《浙江省教育系统行政执法2024年度工作计划》的通知</a>
+<span>2024-08-20</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/art/2023/9/4/art_1532994_58940753.html" target="_blank" title="浙江省教育厅关于印发《浙江省一流学科建设管理办法》的通知">浙江省教育厅关于印发《浙江省一流学科建设管理办法》的通知</a>
+<span>2023-09-04</span>
+</li>
+
+
+
+<li>
+<a href="//jyt.zj.gov.cn/art/2023/4/3/art_1229106823_2473083.html" target="_blank" title="浙江省教育厅关于印发浙江省支持新型高校建设实施细则的通知">浙江省教育厅关于印发浙江省支持新型高校建设实施细则的通知</a>
+<span>2023-04-03</span>
+</li>
+
+
+
+<li>
+<a href="http://jyj.jinhua.gov.cn/art/2022/10/20/art_1532994_58938520.html" target="_blank" title="浙江省委省政府印发《浙江省深化新时代教育评价改革实施方案》">浙江省委省政府印发《浙江省深化新时代教育评价改革实施方案》</a>
+<span>2022-10-20</span>
+</li>
+
+
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+     <!--专栏专题 -->
+     <div class="features" style="background: none;
+height: 200px;"> 
+     <div class="features-content"> <hr>
+     <div class="features-title" style="padding-top: 10px;"> 
+     <p><a target="_blank" href="/col/col1533007/index.html" style="color: #076fbe;"> 教育专题</a>
+
+</p> 
+     </div> 
+     <div class="features-img">
+<style type="text/css">
+	* {
+	padding: 0;
+	list-style: none;
+	border: none;
+	}
+	#focusTo {
+	width: 1185px;
+	height: 110px;
+	overflow: hidden;
+	position: relative;
+	margin: 0 auto;
+	padding:15px 0;
+	border:1px solid #e2e2e2;
+	}
+	#focusTo ul {
+	height: 110px;
+	position: absolute;
+	padding: 0;
+	margin: 0;
+	}
+	#focusTo ul li {
+	float: left;
+	width: 280px;
+	height: 80px;
+	overflow: hidden;
+	position: relative;
+	padding:0 7px;
+	}
+	#focusTo ul li div.photo_bt {
+	position: absolute;
+	bottom: 2px;
+	left: 20px;
+	font-size: 15px;
+	color: #ffffff;
+	z-index: 1;
+	line-height: 40px;
+	display: none;
+	}
+	#focusTo .btnBg {
+	position: absolute;
+	width: 1185px;
+	height: 40px;
+	left: 0;
+	bottom: 0;
+	background: #003366;
+	display: none;
+	}
+	#focusTo .btn {
+	position: absolute;
+	width: 1185px;
+	height: 17px;
+	padding: 14px 10px;
+	right: 0;
+	bottom: 0;
+	text-align: right;
+	display: none;
+	}
+	#focusTo .btn span {
+	display: inline-block;
+	_display: inline;
+	_zoom: 1;
+	width: 14px;
+	height: 14px;
+	_font-size: 0;
+	margin-right: 15px;
+	cursor: pointer;
+	background: #999;
+	border-radius: 50%;
+	}
+	#focusTo .btn span.on {
+	background: #fff;
+	}
+	#focusTo .preNext {
+	width: 28px;
+	height: 110px;
+	position: absolute;
+	top: 0px;
+	cursor: pointer;
+	}
+	#focusTo .pre {
+	background: url(http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/1907031511542402862.jpg) no-repeat 0 0;
+	left: 0;
+	}
+	#focusTo .next {
+	background: url(http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/1907031511542876726.jpg) no-repeat 0 0;
+	right: 0;
+	background-position: right top;
+	}
+</style>
+
+    <div id="focusTo">
+      <div style="width:1125px; height:80px; margin:0 auto; overflow:hidden; position:absolute; left:27.5px;">
+        <ul>
+          
+
+          <li style="position:relative;" class="cf"> <a href="http://jyj.jinhua.gov.cn/col/col1659836/index.html" target="_blank"><img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/1907031003547965555.jpg" alt="" width="280" height="80" style="width:280px;height:80px;" /></a>
+          </li>
+          
+
+          <li style="position:relative;" class="cf"> <a href="http://jyj.jinhua.gov.cn/col/col1229825749/index.html" target="_blank"><img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/2410250924359991294.jpg" alt="" width="280" height="80" style="width:280px;height:80px;" /></a>
+          </li>
+          
+
+          <li style="position:relative;" class="cf"> <a href="https://k.zjer.cn/specialColumn/84" target="_blank"><img src="http://jyj.jinhua.gov.cn/cms_files/filemanager/1567293/logo/column/2f6aaa548e264ef4830cdcad2cb20b93.png" alt="" width="280" height="80" style="width:280px;height:80px;" /></a>
+          </li>
+          
+
+          <li style="position:relative;" class="cf"> <a href="http://jyj.jinhua.gov.cn/col/col1229819222/index.html" target="_blank"><img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/2409141015013977879.png" alt="" width="280" height="80" style="width:280px;height:80px;" /></a>
+          </li>
+          
+
+          <li style="position:relative;" class="cf"> <a href="http://jyj.jinhua.gov.cn/col/col1229882180/index.html" target="_blank"><img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/2506191425329538910.png" alt="" width="280" height="80" style="width:280px;height:80px;" /></a>
+          </li>
+          
+
+          <li style="position:relative;" class="cf"> <a href="http://jyj.jinhua.gov.cn/col/col1229633265/index.html" target="_blank"><img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/1475/2505091549009194927.png" alt="" width="280" height="80" style="width:280px;height:80px;" /></a>
+          </li>
+          
+
+          <li style="position:relative;" class="cf"> <a href="http://jyj.jinhua.gov.cn/col/col1620021/index.html" target="_blank"><img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/1907081512152633544.jpg" alt="" width="280" height="80" style="width:280px;height:80px;" /></a>
+          </li>
+          
+
+          <li style="position:relative;" class="cf"> <a href="http://www.zj.smartedu.cn/home" target="_blank"><img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/2304031148076363662.png" alt="" width="280" height="80" style="width:280px;height:80px;" /></a>
+          </li>
+          
+
+          <li style="position:relative;" class="cf"> <a href="http://jyj.jinhua.gov.cn/col/col1229679048/index.html" target="_blank"><img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/2303011705029588876.jpg" alt="" width="280" height="80" style="width:280px;height:80px;" /></a>
+          </li>
+          
+
+          <li style="position:relative;" class="cf"> <a href="http://jyt.zj.gov.cn/col/col1229628982/index.html" target="_blank"><img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/2401111707132781146.png" alt="" width="280" height="80" style="width:280px;height:80px;" /></a>
+          </li>
+          
+
+          <li style="position:relative;" class="cf"> <a href="http://jyj.jinhua.gov.cn/col/col1229866087/index.html" target="_blank"><img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/2504211050323651941.png" alt="" width="280" height="80" style="width:280px;height:80px;" /></a>
+          </li>
+          
+        
+        </ul>
+      </div>
+    </div>
+
+<script src="http://jyj.jinhua.gov.cn/cms_files/filemanager/1567293/script/20265/c32525e942ec43539f911a12eb2165c9.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript">
+$(function() {
+  var sWidth = $("#focusTo ul li").outerWidth(true); // 每个li完整宽度（含padding）
+  var len = $("#focusTo ul li").length;
+  var index = 0;
+  var picTimer;
+  
+  // 关键修复：正确计算可见数量
+  // 容器可视宽度 = 1185 - 左右padding(27.5*2) = 1130，但内部div宽度为1125
+  var containerWidth = 1125; // 内部滚动容器宽度
+  var visibleCount = Math.floor(containerWidth / sWidth); // 应该等于4
+  
+  // 修复：按钮数量 = 总图片数 - 可见数量 + 1
+  var btnCount = len - visibleCount + 1;
+  
+  // 先移除可能已存在的旧按钮（防止重复添加）
+  $("#focusTo .btnBg, #focusTo .btn, #focusTo .preNext").remove();
+  
+  // 添加按钮和导航
+  var btn = '<div class="btnBg"></div><div class="btn">';
+  for(var i = 0; i < btnCount; i++) {
+    btn += '<span></span>';
+  }
+  btn += '</div><div class="preNext pre"></div><div class="preNext next"></div>';
+  $("#focusTo").append(btn);
+  
+  // 关键修复：显示按钮（原css设置了display:none）
+  $(" #focusTo .btn span").show();
+  
+  // 设置UL总宽度
+  $("#focusTo ul").css("width", sWidth * len);
+  
+  // 初始化第一个按钮高亮
+  $("#focusTo .btn span").eq(0).addClass("on");
+  
+  // 按钮点击切换
+  $("#focusTo .btn span").click(function() {
+    index = $("#focusTo .btn span").index(this);
+    showPics(index);
+    $(this).addClass("on").siblings().removeClass("on");
+  });
+  
+  // 左右按钮样式
+  $("#focusTo .preNext").css("opacity", 0.5).hover(function() {
+    $(this).stop(true, false).animate({"opacity": "0.8"}, 300);
+  }, function() {
+    $(this).stop(true, false).animate({"opacity": "0.5"}, 300);
+  });
+  
+  // 上一张
+  $("#focusTo .pre").click(function() {
+    if(index > 0) {
+      index -= 1;
+    } else {
+      index = btnCount - 1;
+    }
+    showPics(index);
+    $("#focusTo .btn span").eq(index).addClass("on").siblings().removeClass("on");
+  });
+  
+  // 下一张
+  $("#focusTo .next").click(function() {
+    if(index < btnCount - 1) {
+      index += 1;
+    } else {
+      index = 0;
+    }
+    showPics(index);
+    $("#focusTo .btn span").eq(index).addClass("on").siblings().removeClass("on");
+  });
+  
+  // 显示图片函数
+  function showPics(index) { 
+    var nowLeft = -index * sWidth; 
+    $("#focusTo ul").stop(true, false).animate({"left": nowLeft}, 300); 
+  }
+  
+  // 自动播放（悬停暂停）
+  $("#focusTo").hover(function() {
+    clearInterval(picTimer);
+  }, function() {
+    picTimer = setInterval(function() {
+      if(index < btnCount - 1) {
+        index++;
+      } else {
+        index = 0;
+      }
+      showPics(index);
+      $("#focusTo .btn span").eq(index).addClass("on").siblings().removeClass("on");
+    }, 3000);
+  }).trigger("mouseleave");
+  
+  // 初始化显示第一组
+  showPics(0);
+});
+</script>
+</div> 
+     </div> 
+     </div> 
+
+
+    <div class="icon-list" style="padding-top: 10px;">
+        <hr>
+        <div class="information-public bt-left">
+            <div class="information-public-title">
+
+信息公开
+
+
+            </div>
+            <div class="information-public-list ilxxgk">
+<a href="http://jyj.jinhua.gov.cn/col/col1229705303/index.html" target="_blank"><img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/images/29924/open-directory.png" alt="" srcset="">
+<p>公开目录</p>
+</a>
+
+<a href="http://jyj.jinhua.gov.cn/col/col1532806/index.html" target="_blank">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/images/29924/ysqgk.png" alt="" srcset="">
+<p>依申请公开</p>
+</a>
+                
+<a href="http://jyj.jinhua.gov.cn/col/col1532807/index.html" target="_blank">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/images/29924/gkzd.png" alt="" srcset="">
+<p>公开制度</p>
+</a>
+<a href="http://jyj.jinhua.gov.cn/col/col1229116940/index.html" target="_blank">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/images/29924/gknb.png" alt="" srcset="">
+<p>公开年报</p>
+</a>
+
+<a href="http://jyj.jinhua.gov.cn/col/col1229499050/index.html" target="_blank">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/images/29924/bgxz.png" alt="" srcset="">
+<p>网站年报</p>
+</a>
+                
+<a href="http://jyj.jinhua.gov.cn/col/col1229116938/index.html" target="_blank">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/images/29924/gkzn.png" alt="" srcset="">
+<p>公开指南</p>
+</a>
+<style type="text/css">
+	.information-public-list a{
+		width: 78px ;
+	}
+</style>
+	<div class="clearboth"></div>
+            </div>
+        </div>
+
+        <div class="information-public bt-left ilhdjl">
+            <div class="information-public-title">
+
+互动交流
+
+
+            </div>
+            <div class="information-public-list iplhdjl">
+<a href="https://zxts.zjzwfw.gov.cn/zwmhww/#/advice?areacode=330000&lybj=pc_cgm_1534959072862818306_527944_02&orgName=浙江省教育厅&orgId=1534959072862818306" target="_blank"><img src="/cms_files/jcms1/web3099/site/picture/0/2409251512522924864.png" alt="" srcset=""><p>我要咨询</p></a>
+<a href="https://zxts.zjzwfw.gov.cn/zwmhww/#/home/index/appeal?areacode=330000&lybj=pc_cgm_1534959072862818306_527944_07&orgName=%E6%B5%99%E6%B1%9F%E7%9C%81%E6%95%99%E8%82%B2%E5%8E%85&orgId=1534959072862818306" target="_blank"><img src="/cms_files/jcms1/web3099/site/picture/0/2409251512521277002.png" alt="" srcset=""><p>我要反映</p></a>
+<a href="https://zxts.zjzwfw.gov.cn/zwmhww/#/home/index/suggest?areacode=330000&lybj=pc_cgm_1534959072862818306_527944_03&orgName=浙江省教育厅&orgId=1534959072862818306" target="_blank"><img src="/cms_files/jcms1/web3099/site/picture/0/2409251512522056116.png" alt="" srcset=""><p>我要建议</p></a>
+<a href="https://zxts.zjzwfw.gov.cn/zwmhww/#/home/index/petition?areacode=330000&lybj=pc_cgm_1534959072862818306_527944_01&orgName=%E6%B5%99%E6%B1%9F%E7%9C%81%E6%95%99%E8%82%B2%E5%8E%85&orgId=1534959072862818306" target="_blank"><img src="/cms_files/jcms1/web3099/site/picture/0/2503241638096429809.png" alt="" srcset=""><p>我要信访</p></a>
+
+<a href="https://zxts.zjzwfw.gov.cn/zwmhww/#/home/index/leader?areacode=330000&lybj=pc_cgm_1534959072862818306_527944_04&orgName=浙江省教育厅&orgId=1534959072862818306" target="_blank"><img src="/cms_files/jcms1/web3099/site/picture/0/2409251512520499404.png" alt="" srcset=""><p>领导信箱</p></a>
+<a href="http://www.zjzwfw.gov.cn/jfaqfront_robot/index.html?webid=1" target="_blank"><img src="/cms_files/jcms1/web3099/site/picture/0/2409251512523605172.png" alt="" srcset=""><p>智能问答</p></a>
+<a href="http://www.zj.gov.cn/col/col1229159405/index.html" target="_blank"><img src="/cms_files/jcms1/web3099/site/picture/0/2409251512524635300.png" alt="" srcset=""><p>办件统计</p></a>
+<a href="https://zxts.zjzwfw.gov.cn/zwmhww/#/home/index/public?areacode=330000" target="_blank"><img src="/cms_files/jcms1/web3099/site/picture/0/2409251512519863951.png" alt="" srcset=""><p>办理公开</p></a>
+
+		<div class="clearboth"></div>
+            </div>
+        </div>
+
+        <div class="information-public bt-right">
+            <div class="information-public-title">
+教学管理
+            </div>
+            <div class="information-public-list ipljxgl">
+  <a href="https://www.zjzwfw.gov.cn/zjservice/item/detail/index.do?localInnerCode=4ead41d4-ad9f-4671-9e2d-453530b8ce27" target="_blank">
+    <img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/images/29924/xszz.png" alt="" srcset="">
+    <p style="font-family: 微软雅黑;">学生资助</p>
+  </a>            
+  <a href="http://jyj.jinhua.gov.cn/col/col1602152/index.html" target="_blank">
+    <img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/images/29924/jspx.png" alt="" srcset="">
+    <p style="font-family: 微软雅黑;">教师培训</p>
+  </a>
+     <a href="https://szjx.zjer.cn/home" target="_blank">
+    <img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/images/29924/jzxx.png" alt="" srcset="">
+    <p style="font-family: 微软雅黑;">家长学校</p>
+  </a> 
+    
+  
+
+
+	<div class="clearboth"></div>
+            </div>
+        </div>
+    </div>
+
+    <!--网站链接开始-->
+    <script type="text/javascript">
+        function setTab3(name, cursel, n) {
+            for (i = 1; i <= n; i++) {
+                var menu = document.getElementById(name + i);
+                var con = document.getElementById("con_" + name + "_" + i);
+                menu.className = i == cursel ? "wz-hover" : "";
+                con.style.display = i == cursel ? "block" : "none";
+            }
+        }
+    </script>
+    <style type="text/css">
+        .wz-hover h3:before {
+            content: " ";
+            display: block;
+            position: absolute;
+            top: 27px;
+            left: 55px;
+            border-left: 6px solid transparent;
+            border-top: 8px solid #1f5987;
+            border-right: 6px solid transparent;
+        }
+
+        /*网站链接开始*/
+        .web-lj {
+            width: 100%;
+            padding-top: 15px;
+            border-top: 5px solid #076fbe;
+        }
+
+        .wzlj-cen {
+            width: 1200px;
+            background: #FFF;
+            margin: 0 auto;
+            padding: 0 10px 0 10px;
+        }
+
+        .wzlj-cen ul {
+            float: left;
+            width: 100%;
+        }
+
+        .wzlj-cen ul li {
+            float: left;
+            width: 135px;
+            font-size: 16px;
+            cursor: pointer;
+            position: relative;
+        }
+
+        .wzlj-cen ul li h3 {
+            width: 130px;
+            height: 30px;
+            line-height: 30px;
+            color: #99999A;
+            font-size: 15px;
+            margin-bottom: 0;
+            font-weight: normal;
+            border: 1px solid #d4d4d4;
+            position: relative;
+            text-align: center;
+        }
+
+        .wzlj-cen ul #wzdh2 ul {
+            left: -135px;
+            display: none;
+        }
+
+        .wzlj-cen ul #wzdh3 ul {
+            left: -270px;
+            display: none;
+        }
+
+        .wzlj-cen ul #wzdh4 ul {
+            left: -405px;
+            display: none;
+        }
+
+        .wzlj-cen ul #wzdh5 ul {
+            left: -540px;
+            display: none;
+        }
+
+        .wzlj-cen ul #wzdh6 ul {
+            left: -675px;
+            display: none;
+        }
+
+        /*网站链接结束*/
+
+        .wzlj-cen ul li ul {
+            position: absolute;
+            width: 1200px;
+            height: 240px;
+            margin-top: 10px;
+        }
+
+        .wzlj-cen ul li ul li {
+            width: 100px;
+            height: 27px;
+            font-size: 13px;
+            text-align: center;
+        }
+
+        .wz-hover h3:first-child {
+            background-color: #1F5987;
+            color: white !important;
+            position: relative;
+        }
+
+        .wzlj-cen ul {
+            margin-top: 0px;
+        }
+
+        #con_wzdh_1 a:hover {
+            color: #f00;
+        }
+
+        #con_wzdh_2 a:hover {
+            color: #f00;
+        }
+
+        #con_wzdh_3 a:hover {
+            color: #f00;
+        }
+
+        #con_wzdh_4 a:hover {
+            color: #f00;
+        }
+
+        #con_wzdh_5 a:hover {
+            color: #f00;
+        }
+
+        #con_wzdh_6 a:hover {
+            color: #f00;
+        }
+    </style>
+
+    <div class="web-lj">
+        <div class="wzlj-cen">
+            <ul style="margin-bottom: 10px;">
+                <li id="wzdh1" onmouseover="setTab3('wzdh',1,6)" class="wz-hover">
+                    <h3>
+县区教育局
+                    </h3>
+                </li>
+                <li id="wzdh2" onmouseover="setTab3('wzdh',2,6)">
+                    <h3>
+高等院校
+
+                    </h3>
+                </li>
+                <li id="wzdh3" onmouseover="setTab3('wzdh',3,6)" class="">
+                    <h3>
+教育部相关网站
+
+                    </h3>
+                </li>
+                <li id="wzdh4" onmouseover="setTab3('wzdh',4,6)" class="">
+                    <h3>
+省区市教育厅
+
+                    </h3>
+                </li>
+                <li id="wzdh5" onmouseover="setTab3('wzdh',5,6)" class="">
+                    <h3>
+兄弟厅局网站
+                    </h3>
+                </li>
+                <li id="wzdh6" onmouseover="setTab3('wzdh',6,6)" class="">
+                    <h3>
+省教育厅相关网站
+
+                    </h3>
+                </li>
+            </ul>
+
+            <ul id="con_wzdh_1" style="display: none; border: 1px solid #E2E2E2;">
+                <div style="word-break:break-all;font-size: 14px">
+<div>	
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs1p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs1" href="http://edu.hangzhou.gov.cn/" target="_blank" title="">杭州市</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs1p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs1" href="http://www.hzsc.gov.cn/" target="_blank" title="">上城区</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs1p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs1" href="http://www.gongshu.gov.cn/" target="_blank" title="">拱墅区</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs1p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs1" href="http://www.hzxh.gov.cn/" target="_blank" title="">西湖区</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs1p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs1" href="http://www.hhtz.gov.cn/" target="_blank" title="">滨江区</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs1p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs1" href="http://www.xiaoshan.gov.cn/" target="_blank" title="">萧山区</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs1p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs1" href="http://www.yuhang.gov.cn/" target="_blank" title="">余杭区</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs1p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs1" href="http://www.tonglu.gov.cn/" target="_blank" title="">桐庐县</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs1p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs1" href="https://www.qdh.gov.cn/col/col1229229473/index.html" target="_blank" title="">淳安县</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs1p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs1" href="https://www.jiande.gov.cn/col/col1229535858/index.html" target="_blank" title="">建德市</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs1p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs1" href="http://www.fuyang.gov.cn/" target="_blank" title="">富阳区</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs1p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs1" href="http://www.linan.gov.cn/col/col1413715/index.html" target="_blank" title="">临安区</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs1p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs1" href="http://www.linping.gov.cn/col/col1229594296/index.html" target="_blank" title="">临平区</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs1p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs1" href="https://www.qiantang.gov.cn/col/col1229608392/index.html#reloaded" target="_blank" title="">钱塘区</a>
+</span>
+
+
+<div style="clear: both;"></div>
+</div>
+	<script type="text/javascript">
+		$('.zs1').eq(0).css("font-weight","bold").css("margin-left","16px");
+		$('.zs1p').eq(0).css("display","none");
+	</script>
+
+<div>	
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs2p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs2" href="http://jyj.ningbo.gov.cn/" target="_blank" title="">宁波市</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs2p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs2" href="http://www.haishu.gov.cn/col/col1229100614/index.html" target="_blank" title="">海曙区</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs2p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs2" href="http://www.nbjb.gov.cn/col/col1229089721/index.html" target="_blank" title="">江北区</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs2p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs2" href="http://www.zh.gov.cn/" target="_blank" title="">镇海区</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs2p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs2" href="http://www.bl.gov.cn/index.html" target="_blank" title="">北仑区</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs2p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs2" href="https://www.nbyz.gov.cn/col/col1229108032/index.html" target="_blank" title="">鄞州区</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs2p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs2" href="http://www.fh.gov.cn/col/col1229101933/index.html" target="_blank" title="">奉化区</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs2p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs2" href="http://www.yy.gov.cn/" target="_blank" title="">余姚市</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs2p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs2" href="http://www.cixi.gov.cn/col/col1229038515/index.html" target="_blank" title="">慈溪市</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs2p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs2" href="https://www.ninghai.gov.cn/col/col1229128314/index.html" target="_blank" title="">宁海县</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs2p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs2" href="http://www.xiangshan.gov.cn/" target="_blank" title="">象山县</a>
+</span>
+
+
+<div style="clear: both;"></div>
+</div>
+	<script type="text/javascript">
+		$('.zs2').eq(0).css("font-weight","bold").css("margin-left","16px");
+		$('.zs2p').eq(0).css("display","none");
+	</script>
+
+<div>	
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs3p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs3" href="http://edu.wenzhou.gov.cn/" target="_blank" title="">温州市</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs3p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs3" href="http://www.lucheng.gov.cn/" target="_blank" title="">鹿城区</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs3p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs3" href="http://fw.lwedu.cn/" target="_blank" title="">龙湾区</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs3p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs3" href="http://www.ohedu.net/" target="_blank" title="">瓯海区</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs3p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs3" href="http://www.dongtou.gov.cn/" target="_blank" title="">洞头区</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs3p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs3" href="http://www.yueqing.gov.cn/col/col1390189/index.html" target="_blank" title="">乐清市</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs3p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs3" href="http://www.ruian.gov.cn/" target="_blank" title="">瑞安市</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs3p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs3" href="http://www.yj.gov.cn/" target="_blank" title="">永嘉县</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs3p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs3" href="http://www.wencheng.gov.cn/" target="_blank" title="">文成县</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs3p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs3" href="https://www.zjpy.gov.cn/col/col1229393054/index.html" target="_blank" title="">平阳县</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs3p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs3" href="http://www.ts.gov.cn/" target="_blank" title="">泰顺县</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs3p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs3" href="https://www.cncn.gov.cn/col/col1229775459/index.html" target="_blank" title="">苍南县</a>
+</span>
+
+
+<div style="clear: both;"></div>
+</div>
+	<script type="text/javascript">
+		$('.zs3').eq(0).css("font-weight","bold").css("margin-left","16px");
+		$('.zs3p').eq(0).css("display","none");
+	</script>
+
+<div>	
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs5p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs5" href="http://huedu.huzhou.gov.cn/" target="_blank" title="">湖州市</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs5p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs5" href="https://huedu.huzhou.gov.cn/art/2023/5/15/art_1229634584_58957828.html" target="_blank" title="">吴兴区</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs5p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs5" href="http://www.nanxun.gov.cn" target="_blank" title="">南浔区</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs5p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs5" href="https://www.deqing.gov.cn/col/col1229518700/index.html" target="_blank" title="">德清县</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs5p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs5" href="http://www.zjcx.gov.cn/hzgov/front/s273/xxgk/index.html" target="_blank" title="">长兴县</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs5p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs5" href="https://www.anji.gov.cn/art/2024/1/2/art_1229518623_3955982.html" target="_blank" title="">安吉县</a>
+</span>
+
+
+<div style="clear: both;"></div>
+</div>
+	<script type="text/javascript">
+		$('.zs5').eq(0).css("font-weight","bold").css("margin-left","16px");
+		$('.zs5p').eq(0).css("display","none");
+	</script>
+
+<div>	
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs4p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs4" href="http://jyj.jiaxing.gov.cn" target="_blank" title="">嘉兴市</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs4p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs4" href="http://www.nanhu.gov.cn/" target="_blank" title="">南湖区</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs4p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs4" href="http://www.xiuzhou.gov.cn/" target="_blank" title="">秀洲区</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs4p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs4" href="http://www.jiashan.gov.cn/" target="_blank" title="">嘉善县</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs4p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs4" href="http://www.pinghu.gov.cn/index.html" target="_blank" title="">平湖市</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs4p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs4" href="http://www.haiyan.gov.cn/" target="_blank" title="">海盐县</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs4p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs4" href="http://www.haining.gov.cn/" target="_blank" title="">海宁市</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs4p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs4" href="http://www.tx.gov.cn/" target="_blank" title="">桐乡市</a>
+</span>
+
+
+<div style="clear: both;"></div>
+</div>
+	<script type="text/javascript">
+		$('.zs4').eq(0).css("font-weight","bold").css("margin-left","16px");
+		$('.zs4p').eq(0).css("display","none");
+	</script>
+
+<div>	
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs6p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs6" href="http://jyj.sx.gov.cn/" target="_blank" title="">绍兴市</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs6p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs6" href="http://www.sxyc.gov.cn/" target="_blank" title="">越城区</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs6p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs6" href="http://www.kq.gov.cn/col/col1496556/index.html" target="_blank" title="">柯桥区</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs6p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs6" href="http://www.shangyu.gov.cn/" target="_blank" title="">上虞区</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs6p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs6" href="http://www.zhuji.gov.cn/col/col1474916/index.html" target="_blank" title="">诸暨市</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs6p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs6" href="http://www.szzj.gov.cn/" target="_blank" title="">嵊州市</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs6p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs6" href="http://www.zjxc.gov.cn/" target="_blank" title="">新昌县</a>
+</span>
+
+
+<div style="clear: both;"></div>
+</div>
+	<script type="text/javascript">
+		$('.zs6').eq(0).css("font-weight","bold").css("margin-left","16px");
+		$('.zs6p').eq(0).css("display","none");
+	</script>
+
+<div>	
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs7p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs7" href="http://jyj.jinhua.gov.cn" target="_blank" title="">金华市</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs7p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs7" href="http://www.wuch.gov.cn/" target="_blank" title="">婺城区</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs7p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs7" href="http://www.jindong.gov.cn/" target="_blank" title="">金东区</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs7p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs7" href="http://www.lanxi.gov.cn/" target="_blank" title="">兰溪市</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs7p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs7" href="http://www.dongyang.gov.cn/" target="_blank" title="">东阳市</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs7p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs7" href="http://www.yw.gov.cn/index.html" target="_blank" title="">义乌市</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs7p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs7" href="http://www.yk.gov.cn/" target="_blank" title="">永康市</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs7p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs7" href="https://www.pj.gov.cn/col/col1229198379/index.html" target="_blank" title="">浦江县</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs7p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs7" href="http://www.zjwy.gov.cn/" target="_blank" title="">武义县</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs7p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs7" href="http://www.panan.gov.cn/" target="_blank" title="">磐安县</a>
+</span>
+
+
+<div style="clear: both;"></div>
+</div>
+	<script type="text/javascript">
+		$('.zs7').eq(0).css("font-weight","bold").css("margin-left","16px");
+		$('.zs7p').eq(0).css("display","none");
+	</script>
+
+<div>	
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs8p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs8" href="http://jyj.qz.gov.cn/" target="_blank" title="">衢州市</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs8p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs8" href="http://www.kecheng.gov.cn/index.html" target="_blank" title="">柯城区</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs8p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs8" href="http://www.qjq.gov.cn/" target="_blank" title="">衢江区</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs8p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs8" href="http://www.longyou.gov.cn/" target="_blank" title="">龙游县</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs8p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs8" href="http://www.jiangshan.gov.cn/" target="_blank" title="">江山市</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs8p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs8" href="http://www.zjcs.gov.cn/index.html" target="_blank" title="">常山县</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs8p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs8" href="http://www.kaihua.gov.cn/" target="_blank" title="">开化县</a>
+</span>
+
+
+<div style="clear: both;"></div>
+</div>
+	<script type="text/javascript">
+		$('.zs8').eq(0).css("font-weight","bold").css("margin-left","16px");
+		$('.zs8p').eq(0).css("display","none");
+	</script>
+
+<div>	
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs11p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs11" href="http://zsjy.zhoushan.gov.cn/" target="_blank" title="">舟山市</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs11p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs11" href="http://www.dinghai.gov.cn/col/col1496799/index.html?number=W0106" target="_blank" title="">定海区</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs11p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs11" href="http://www.putuo.gov.cn/" target="_blank" title="">普陀区</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs11p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs11" href="https://www.daishan.gov.cn/col/col1350592/index.html" target="_blank" title="">岱山县</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs11p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs11" href="http://www.shengsi.gov.cn/" target="_blank" title="">嵊泗县</a>
+</span>
+
+
+<div style="clear: both;"></div>
+</div>
+	<script type="text/javascript">
+		$('.zs11').eq(0).css("font-weight","bold").css("margin-left","16px");
+		$('.zs11p').eq(0).css("display","none");
+	</script>
+
+<div>	
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs10p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs10 a_link3" href="http://jyj.zjtz.gov.cn/" target="_blank" title="">台州市</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs10p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs10 a_link3" href="http://www.jj.gov.cn/" target="_blank" title="">椒江区</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs10p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs10 a_link3" href="http://www.zjhy.gov.cn/" target="_blank" title="">黄岩区</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs10p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs10 a_link3" href="http://www.luqiao.gov.cn/index.html" target="_blank" title="">路桥区</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs10p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs10 a_link3" href="https://www.linhai.gov.cn/col/col1229438271/index.html" target="_blank" title="">临海市</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs10p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs10 a_link3" href="http://www.wl.gov.cn/col/col1402173/index.html" target="_blank" title="">温岭市</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs10p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs10 a_link3" href="http://www.yuhuan.gov.cn/" target="_blank" title="">玉环市</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs10p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs10 a_link3" href="http://www.zjxj.gov.cn/col/col1229319410/index.html" target="_blank" title="">仙居县</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs10p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs10 a_link3" href="https://www.zjtt.gov.cn/art/2024/10/24/art_1229801673_14450.html" target="_blank" title="">天台县</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs10p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs10 a_link3" href="http://www.sanmen.gov.cn/" target="_blank" title="">三门县</a>
+</span>
+
+
+<div style="clear: both;"></div>
+</div>
+	<script type="text/javascript">
+		$('.zs10').eq(0).css("font-weight","bold").css("margin-left","16px");
+		$('.zs10p').eq(0).css("display","none");
+	</script>
+
+<div>	
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs9p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs9 a_link3" href="http://jyj.lishui.gov.cn/" target="_blank" title="">丽水市</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs9p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs9 a_link3" href="http://www.liandu.gov.cn/" target="_blank" title="">莲都区</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs9p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs9 a_link3" href="http://www.longquan.gov.cn/" target="_blank" title="">龙泉市</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs9p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs9 a_link3" href="http://www.qingtian.gov.cn/" target="_blank" title="">青田县</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs9p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs9 a_link3" href="http://www.yunhe.gov.cn/" target="_blank" title="">云和县</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs9p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs9 a_link3" href="http://www.zjqy.gov.cn/" target="_blank" title="">庆元县</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs9p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs9 a_link3" href="http://www.jinyun.gov.cn/" target="_blank" title="">缙云县</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs9p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs9 a_link3" href="http://www.suichang.gov.cn/" target="_blank" title="">遂昌县</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs9p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs9 a_link3" href="http://www.songyang.gov.cn/index.html" target="_blank" title="">松阳县</a>
+</span>
+
+
+
+<span style="padding-right:8px;line-height:30px;height: 30px; margin-left:20px;font-size:15px;display: block;float: left;width: 90px;">
+<img class="zs9p" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;">
+<a class="zs9 a_link3" href="http://www.jingning.gov.cn/" target="_blank" title="">景宁县</a>
+</span>
+
+
+<div style="clear: both;"></div>
+</div>
+	<script type="text/javascript">
+		$('.zs9').eq(0).css("font-weight","bold").css("margin-left","16px");
+		$('.zs9p').eq(0).css("display","none");
+	</script>
+
+                </div>
+            </ul>
+            <ul id="con_wzdh_2" style="display: none; border: 1px solid #E2E2E2;">
+                <div style=" overflow-x:hidden;word-break:break-all;font-size: 14px">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+								<tr>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.zju.edu.cn/" target="_blank" title="" class="a_link3">浙江大学</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.caa.edu.cn/" target="_blank" title="" class="a_link3">中国美术学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.zjut.edu.cn/" target="_blank" title="" class="a_link3">浙江工业大学</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.zjnu.edu.cn/" target="_blank" title="" class="a_link3">浙江师范大学</a></span>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.nbu.edu.cn/" target="_blank" title="" class="a_link3">宁波大学</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.zstu.edu.cn/" target="_blank" title="" class="a_link3">浙江理工大学</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.hdu.edu.cn/" target="_blank" title="" class="a_link3">杭州电子科技大学</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.zjgsu.edu.cn/" target="_blank" title="" class="a_link3">浙江工商大学</a></span>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.cjlu.edu.cn/" target="_blank" title="" class="a_link3">中国计量大学</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.zcmu.edu.cn/" target="_blank" title="" class="a_link3">浙江中医药大学</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.zjou.edu.cn/" target="_blank" title="" class="a_link3">浙江海洋大学</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.zafu.edu.cn/" target="_blank" title="" class="a_link3">浙江农林大学</a></span>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.wmu.edu.cn/" target="_blank" title="" class="a_link3">温州医科大学</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.zufe.edu.cn/" target="_blank" title="" class="a_link3">浙江财经大学</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.zust.edu.cn/" target="_blank" title="" class="a_link3">浙江科技大学</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.cuz.edu.cn/" target="_blank" title="" class="a_link3">浙江传媒学院</a></span>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.zjxu.edu.cn/" target="_blank" title="" class="a_link3">嘉兴大学</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.zisu.edu.cn/" target="_blank" title="" class="a_link3">浙江外国语学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.zwu.edu.cn/" target="_blank" title="" class="a_link3">浙江万里学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.zjsru.edu.cn/" target="_blank" title="" class="a_link3">浙江树人学院</a></span>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.hznu.edu.cn/" target="_blank" title="" class="a_link3">杭州师范大学</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.wzu.edu.cn/" target="_blank" title="" class="a_link3">温州大学</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.qzc.edu.cn" target="_blank" title="" class="a_link3">衢州学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.usx.edu.cn/" target="_blank" title="" class="a_link3">绍兴大学</a></span>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.zjhu.edu.cn/" target="_blank" title="" class="a_link3">湖州师范大学</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.tzc.edu.cn/" target="_blank" title="" class="a_link3">台州学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.nottingham.edu.cn/" target="_blank" title="" class="a_link3">宁波诺丁汉大学</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.wku.edu.cn/" target="_blank" title="" class="a_link3">温州肯恩大学</a></span>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.lsu.edu.cn/" target="_blank" title="" class="a_link3">丽水学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.nbut.edu.cn/" target="_blank" title="" class="a_link3">宁波工程学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.zjjcxy.cn/" target="_blank" title="" class="a_link3">浙江警察学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.zyufl.edu.cn/" target="_blank" title="" class="a_link3">浙江越秀外国语学院</a></span>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.nbufe.edu.cn/" target="_blank" title="" class="a_link3">宁波财经学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.zuwe.edu.cn/" target="_blank" title="" class="a_link3">浙江水利水电学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.zjcm.edu.cn/" target="_blank" title="" class="a_link3">浙江音乐学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.westlake.edu.cn/" target="_blank" title="" class="a_link3">西湖大学</a></span>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.hmc.edu.cn/" target="_blank" title="" class="a_link3">杭州医学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.wzbc.edu.cn/" target="_blank" title="" class="a_link3">温州商学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.hzcu.edu.cn/" target="_blank" title="" class="a_link3">浙大城市学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.nbt.edu.cn/" target="_blank" title="" class="a_link3">浙大宁波理工学院</a></span>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.jxnhu.edu.cn/" target="_blank" title="" class="a_link3">嘉兴南湖学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.zjhzu.edu.cn" target="_blank" title="" class="a_link3">湖州学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.wzut.edu.cn/" target="_blank" title="" class="a_link3">温州理工学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://ypc.edu.cn/" target="_blank" title="" class="a_link3">绍兴理工学院</a></span>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.eitech.edu.cn/" target="_blank" title="" class="a_link3">宁波东方理工大学</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.tjzj.edu.cn/index.php/cn/index/index.html" target="_blank" title="" class="a_link3">同济大学浙江学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.shufe-zj.edu.cn/" target="_blank" title="" class="a_link3">上海财经大学浙江学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.zzjc.edu.cn/" target="_blank" title="" class="a_link3">浙江工业大学之江学院</a></span>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.zjxz.edu.cn/" target="_blank" title="" class="a_link3">浙江师范大学行知学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.ndky.edu.cn/" target="_blank" title="" class="a_link3">宁波大学科学技术学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.hziee.edu.cn/" target="_blank" title="" class="a_link3">杭州电子科技大学信息工程学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.ky.zstu.edu.cn/#/home/index" target="_blank" title="" class="a_link3">浙江理工大学科技与艺术学院</a></span>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.zjhzcc.edu.cn/" target="_blank" title="" class="a_link3">浙江工商大学杭州商学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.zjyc.edu.cn/" target="_blank" title="" class="a_link3">浙江农林大学暨阳学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://rjxy.wmu.edu.cn/" target="_blank" title="" class="a_link3">温州医科大学仁济学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://zsb.zcmu.edu.cn/index.htm" target="_blank" title="" class="a_link3">浙江中医药大学滨江学院</a></span>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://qjxy.hznu.edu.cn/" target="_blank" title="" class="a_link3">杭州师范大学钱江学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://zs.cjlu.edu.cn/zgjldxxdkjxy/zsxx.htm" target="_blank" title="" class="a_link3">中国计量大学现代科技学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.zufedfc.edu.cn/" target="_blank" title="" class="a_link3">浙江财经大学东方学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.guangshaxy.com/" target="_blank" title="" class="a_link3">浙江广厦建设职业技术大学</a></span>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.zjpc.net.cn/" target="_blank" title="" class="a_link3">浙江药科职业大学</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.jhc.cn/main.htm" target="_blank" title="" class="a_link3">金华职业技术大学</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.zime.edu.cn/" target="_blank" title="" class="a_link3">浙江机电职业技术大学</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.nbpt.edu.cn/" target="_blank" title="" class="a_link3">宁波职业技术大学</a></span>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.hzvtc.edu.cn" target="_blank" title="" class="a_link3">杭州职业技术大学</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.wzvtc.cn/" target="_blank" title="" class="a_link3">温州职业技术大学</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.zjtvu.edu.cn/" target="_blank" title="" class="a_link3">浙江开放大学</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.ncec.edu.cn/" target="_blank" title="" class="a_link3">宁波幼儿师范高等专科学校</a></span>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.zjvtit.edu.cn/" target="_blank" title="" class="a_link3">浙江交通职业技术学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.tourzj.edu.cn" target="_blank" title="" class="a_link3">浙江旅游职业学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.zjbti.net.cn/" target="_blank" title="" class="a_link3">浙江工商职业技术学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.zjbc.edu.cn/" target="_blank" title="" class="a_link3">浙江商业职业技术学院</a></span>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.zjvaa.edu.cn/" target="_blank" title="" class="a_link3">浙江艺术职业学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.zfc.edu.cn/" target="_blank" title="" class="a_link3">浙江金融职业学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.zjiet.edu.cn/" target="_blank" title="" class="a_link3">浙江经贸职业技术学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.zjjs.edu.cn" target="_blank" title="" class="a_link3">浙江建设职业技术学院</a></span>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.zjff.edu.cn/" target="_blank" title="" class="a_link3">浙江纺织服装职业技术学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.hzvtc.net.cn/" target="_blank" title="" class="a_link3">湖州职业技术学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.sxvtc.com/" target="_blank" title="" class="a_link3">绍兴职业技术学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.zjipc.com/" target="_blank" title="" class="a_link3">浙江工业职业技术学院</a></span>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.ywicc.edu.cn/" target="_blank" title="" class="a_link3">义乌工商职业技术学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.qzct.net/" target="_blank" title="" class="a_link3">衢州职业技术学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.tzvtc.edu.cn/" target="_blank" title="" class="a_link3">台州职业技术学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.zjitc.net/" target="_blank" title="" class="a_link3">浙江工贸职业技术学院</a></span>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.zjyyc.com/" target="_blank" title="" class="a_link3">浙江育英职业技术学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.zjdfp.edu.cn/" target="_blank" title="" class="a_link3">浙江东方职业技术学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.zjjy.com.cn/" target="_blank" title="" class="a_link3">浙江警官职业学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.zjtie.edu.cn/" target="_blank" title="" class="a_link3">浙江经济职业技术学院</a></span>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.nchs.net.cn/" target="_blank" title="" class="a_link3">宁波卫生职业技术学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.nbcc.cn/" target="_blank" title="" class="a_link3">宁波城市职业技术学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.lszjy.com/" target="_blank" title="" class="a_link3">丽水职业技术学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.jxvtc.edu.cn/" target="_blank" title="" class="a_link3">嘉兴职业技术学院</a></span>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.jxnyi.edu.cn/" target="_blank" title="" class="a_link3">嘉兴南洋职业技术学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.zjczxy.cn/" target="_blank" title="" class="a_link3">浙江长征职业技术学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.wxpoly.cn/" target="_blank" title="" class="a_link3">杭州万向职业技术学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.hzpt.edu.cn/main.htm" target="_blank" title="" class="a_link3">杭州科技职业技术学院</a></span>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.zimc.cn/" target="_blank" title="" class="a_link3">浙江国际海运职业技术学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.tzvcst.edu.cn/" target="_blank" title="" class="a_link3">台州科技职业学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.zjcs.net.cn/" target="_blank" title="" class="a_link3">浙江体育职业技术学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.zptc.edu.cn" target="_blank" title="" class="a_link3">浙江邮电职业技术学院</a></span>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.zjtongji.edu.cn/" target="_blank" title="" class="a_link3">浙江同济科技职业学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.geely.edu.cn/" target="_blank" title="" class="a_link3">浙江汽车职业技术学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.hcft.edu.cn/#/" target="_blank" title="" class="a_link3">浙江横店影视职业学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.wzvcst.cn/" target="_blank" title="" class="a_link3">温州科技职业学院</a></span>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.zjabc.edu.cn/" target="_blank" title="" class="a_link3">浙江农业商贸职业学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.zcse.edu.cn/" target="_blank" title="" class="a_link3">浙江特殊教育职业学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.zjcst.edu.cn/" target="_blank" title="" class="a_link3">浙江安防职业技术学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.zsthc.com/" target="_blank" title="" class="a_link3">浙江舟山群岛新区旅游与健康职业学院</a></span>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.zjyxxy.com.cn/" target="_blank" title="" class="a_link3">浙江宇翔职业技术学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.zjjhkm.edu.cn/" target="_blank" title="" class="a_link3">浙江金华科贸职业技术学院</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.hzhvc.com/" target="_blank" title="" class="a_link3">湖州健康职业学院</a></span>
+
+									 </td>
+</tr></table>
+                </div>
+            </ul>
+            <ul id="con_wzdh_3" style="display: none; border: 1px solid #E2E2E2;">
+                <div style=" overflow-x:hidden;word-break:break-all;font-size: 14px;">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+								<tr>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.moe.gov.cn/" target="_blank" title="" class="a_link3">中华人民共和国教育部</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.hie-edu.org/" target="_blank" title="" class="a_link3">中国高教改革与发展网</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.chinaitedu.cn/" target="_blank" title="" class="a_link3">教育信息化杂志网站</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.ict.edu.cn/" target="_blank" title="" class="a_link3">中国教育信息化网</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.zzstep.com/" target="_blank" title="" class="a_link3">教育出版信息网</a></span>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.eduyun.cn/" target="_blank" title="" class="a_link3">中国教育资源网</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://e-chinaedu.cn/" target="_blank" title="" class="a_link3">教育涉外监管信息网</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.chinazy.org/" target="_blank" title="" class="a_link3">中国职业教育与成人教育网</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.jyb.cn/" target="_blank" title="" class="a_link3">中国教育新闻网</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.chsi.com.cn/" target="_blank" title="" class="a_link3">中国高等教育学生信息网</a></span>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.paper.edu.cn/" target="_blank" title="" class="a_link3">中国科技论文在线</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.cscse.edu.cn/" target="_blank" title="" class="a_link3">中国留学网</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.centv.cn/" target="_blank" title="" class="a_link3">中国教育电视台网站</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://yz.chsi.com.cn/" target="_blank" title="" class="a_link3">中国研究生招生信息网</a></span>
+
+									 </td>
+</tr></table>
+                </div>
+
+            </ul>
+            <ul id="con_wzdh_4" style="display: none; border: 1px solid #E2E2E2;">
+                <div style=" overflow-x:hidden;word-break:break-all;font-size: 14px">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+								<tr>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://jw.beijing.gov.cn/" target="_blank" title="" class="a_link3">北京市教育委员会</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://jyt.hlj.gov.cn/" target="_blank" title="" class="a_link3">黑龙江省教育厅</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://jyt.henan.gov.cn/" target="_blank" title="" class="a_link3">河南省教育厅</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://edu.sc.gov.cn/" target="_blank" title="" class="a_link3">四川省教育厅</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://jyt.xinjiang.gov.cn/" target="_blank" title="" class="a_link3">新疆维吾尔自治区教育厅</a></span>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://jy.tj.gov.cn/" target="_blank" title="" class="a_link3">天津市教育委员会</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://edu.sh.gov.cn/" target="_blank" title="" class="a_link3">上海市教育委员会</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://jyt.hubei.gov.cn/" target="_blank" title="" class="a_link3">湖北省教育厅</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://jyt.guizhou.gov.cn/" target="_blank" title="" class="a_link3">贵州省教育厅</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://jyt.hebei.gov.cn/" target="_blank" title="" class="a_link3">河北省教育厅</a></span>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://jyt.jiangsu.gov.cn/" target="_blank" title="" class="a_link3">江苏省教育厅</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://jyt.hunan.gov.cn/" target="_blank" title="" class="a_link3">湖南省教育厅</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://edu.xizang.gov.cn/" target="_blank" title="" class="a_link3">西藏自治区教育厅</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://jyt.shanxi.gov.cn/" target="_blank" title="" class="a_link3">山西省教育厅</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://jyt.ah.gov.cn/" target="_blank" title="" class="a_link3">安徽省教育厅</a></span>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://edu.gd.gov.cn/" target="_blank" title="" class="a_link3">广东省教育厅</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://jyt.shaanxi.gov.cn/" target="_blank" title="" class="a_link3">陕西省教育厅</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://jyt.nmg.gov.cn/" target="_blank" title="" class="a_link3">内蒙古教育厅</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://jyt.fujian.gov.cn/" target="_blank" title="" class="a_link3">福建省教育厅</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://jyt.gxzf.gov.cn/" target="_blank" title="" class="a_link3">广西壮族自治区教育厅</a></span>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://jyt.gansu.gov.cn/" target="_blank" title="" class="a_link3">甘肃省教育厅</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://jyt.ln.gov.cn/" target="_blank" title="" class="a_link3">辽宁省教育厅</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://jyt.jiangxi.gov.cn/" target="_blank" title="" class="a_link3">江西省教育厅</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://edu.hainan.gov.cn/" target="_blank" title="" class="a_link3">海南省教育厅</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://jyt.qinghai.gov.cn/" target="_blank" title="" class="a_link3">青海省教育厅</a></span>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://jyt.jl.gov.cn/" target="_blank" title="" class="a_link3">吉林省教育厅</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://edu.shandong.gov.cn/" target="_blank" title="" class="a_link3">山东省教育厅</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://jw.cq.gov.cn/" target="_blank" title="" class="a_link3">重庆市教育委员会</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://jyt.nx.gov.cn/" target="_blank" title="" class="a_link3">宁夏回族自治区教育厅</a></span>
+
+									 </td>
+</tr></table>
+                </div>
+
+            </ul>
+            <ul id="con_wzdh_5" style="display: none; border: 1px solid #E2E2E2;">
+                <div style=" overflow-x:hidden;word-break:break-all;font-size: 14px">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+								<tr>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://fzggw.zj.gov.cn/" target="_blank" title="" class="a_link3">省发展改革委</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://jxt.zj.gov.cn/" target="_blank" title="" class="a_link3">省经济和信息化厅</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://jyt.zj.gov.cn/" target="_blank" title="" class="a_link3">省教育厅</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://kjt.zj.gov.cn/" target="_blank" title="" class="a_link3">省科技厅</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://mzw.zj.gov.cn/" target="_blank" title="" class="a_link3">省民宗委</a></span>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://gat.zj.gov.cn/" target="_blank" title="" class="a_link3">省公安厅</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://mzt.zj.gov.cn/" target="_blank" title="" class="a_link3">省民政厅</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://sft.zj.gov.cn/" target="_blank" title="" class="a_link3">省司法厅</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://czt.zj.gov.cn/" target="_blank" title="" class="a_link3">省财政厅</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://rlsbt.zj.gov.cn/" target="_blank" title="" class="a_link3">省人力社保厅</a></span>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://zrzyt.zj.gov.cn/" target="_blank" title="" class="a_link3">省自然资源厅</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://sthjt.zj.gov.cn/" target="_blank" title="" class="a_link3">省生态环境厅</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://jst.zj.gov.cn/" target="_blank" title="" class="a_link3">省建设厅</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://jtyst.zj.gov.cn/" target="_blank" title="" class="a_link3">省交通运输厅</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://slt.zj.gov.cn/" target="_blank" title="" class="a_link3">省水利厅</a></span>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://nynct.zj.gov.cn/" target="_blank" title="" class="a_link3">省农业农村厅</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://zcom.zj.gov.cn/" target="_blank" title="" class="a_link3">省商务厅</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://ct.zj.gov.cn/" target="_blank" title="" class="a_link3">省文化和旅游厅</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://wsjkw.zj.gov.cn/" target="_blank" title="" class="a_link3">省卫生健康委</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://yjt.zj.gov.cn/" target="_blank" title="" class="a_link3">省应急管理厅</a></span>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://sjt.zj.gov.cn/index.html" target="_blank" title="" class="a_link3">省审计厅</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://fad.zj.gov.cn/" target="_blank" title="" class="a_link3">省外办</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://gzw.zj.gov.cn/" target="_blank" title="" class="a_link3">省国资委</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://zjamr.zj.gov.cn/" target="_blank" title="" class="a_link3">省市场监管局</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://sjrb.zj.gov.cn/" target="_blank" title="" class="a_link3">省地方金融监管局</a></span>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://tyj.zj.gov.cn/" target="_blank" title="" class="a_link3">省体育局</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://tjj.zj.gov.cn/" target="_blank" title="" class="a_link3">省统计局</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.lswz.gov.cn/" target="_blank" title="" class="a_link3">省粮食和储备局</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://jgswj.zj.gov.cn/" target="_blank" title="" class="a_link3">省机关事务局</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://gdb.zj.gov.cn/" target="_blank" title="" class="a_link3">省国动办</a></span>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://jyglj.zj.gov.cn/index.html" target="_blank" title="" class="a_link3">省监狱管理局</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://lyj.zj.gov.cn/" target="_blank" title="" class="a_link3">省林业局</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://wwj.zj.gov.cn/" target="_blank" title="" class="a_link3">省文物局</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://mpa.zj.gov.cn/" target="_blank" title="" class="a_link3">省药监局</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://jtyst.zj.gov.cn/col/col1229327533/index.html" target="_blank" title="" class="a_link3">省港航管理中心</a></span>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://jtyst.zj.gov.cn/col/col1229221393/index.html" target="_blank" title="" class="a_link3">省公路与运输管理中心</a></span>
+
+									 </td>
+</tr></table>
+                </div>
+
+            </ul>
+            <ul id="con_wzdh_6" style="display: none; border: 1px solid #E2E2E2;">
+                <div style="overflow-x:hidden;word-break:break-all;font-size: 14px">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+								<tr>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.zjzs.net/moban/index/index.html" target="_blank" title="" class="a_link3">浙江教育考试网</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="https://www.zjedu.org/" target="_blank" title="" class="a_link3">浙江省教育技术中心</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.zjjyzx.com/" target="_blank" title="" class="a_link3">浙江教育在线</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.zjjys.org/" target="_blank" title="" class="a_link3">浙江教研网</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.zjedusri.com.cn/" target="_blank" title="" class="a_link3">浙江省教育科学研究院</a></span>
+
+									 </td>
+      </tr>
+								<tr>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.zjedc.com/" target="_blank" title="" class="a_link3">浙江省教育发展中心</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://zeaie.zjedu.gov.cn/index.html" target="_blank" title="" class="a_link3">浙江省教育国际交流协会</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://www.zjjyb.cn" target="_blank" title="" class="a_link3">浙江教育报</a></span>
+
+									 </td>
+									 <td>
+
+
+<span style="padding-right:8px;line-height:30px; margin-left:20px;font-size:15px;">
+<img src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web2485/site/picture/0/1707251037187715493.gif" style="margin-right:8px;display: inline;">
+<a href="http://yun.zjer.cn/" target="_blank" title="" class="a_link3">之江汇教育广场</a></span>
+
+									 </td>
+</tr></table>
+                </div>
+
+            </ul>
+        </div>
+    </div>
+    <!--网站链接结束-->
+
+    <!-- 底部信息 -->
+
+<style>.b1859b4{color:#1859b4}.content-list-style ul li a{width:265px;}
+.mobile_type .content-list-style ul li a{width:75%;}
+</style><script src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/script/0/1809041039067814.js"></script>
+
+<script src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/script/0/2004032331168540.js"></script>
+
+
+<style>
+#sus2{position: fixed;z-index: 99999;bottom:240px;right: 20px;}
+#sus1{position: fixed;z-index: 99999;bottom:120px;right: 20px;}
+#sus3{position: fixed;z-index: 99999;bottom:0px;right: 20px;}
+#sus4{position: fixed;z-index: 99999;bottom:100px;left: 5px;}
+#sus5{position: fixed;z-index: 99999;bottom: 205px;left: 5px;}
+h1.h1focus{overflow: hidden;text-overflow: ellipsis;white-space: nowrap;width: 520px;}.mobile_type #sus5,body.useOldFixed #sus5{display: none !important;}
+
+</style>
+
+
+
+
+
+
+
+<div id="sus1" style="overflow:hidden;margin:0px;padding:0;width:180px;height:120px; display:block;">
+  <a href="https://www.gov.cn/zhengce/zczhjd/" target="_blank">
+     <img style="display:block;" width="180px" height="100px" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/2308011729495318905.jpg">
+  </a>
+   <a style="cursor:pointer;float:left;" onclick="sus1.style.visibility='hidden'">
+     <img style="display:block;" width="100px" height="14px" title="关闭" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web149/site/picture/0/31095e4461ee486483543ac2bbea3cd4.gif">
+  </a>
+
+</div>
+
+
+<style>
+#sus6{position: fixed;z-index: 99999;bottom:360px;right: 20px;}
+</style>
+
+
+
+
+
+
+<div id="sus2" style="overflow:hidden;margin:0px;padding:0;width:180px;height:137px; display:block;">
+  <a href="https://liuyan.www.gov.cn/2025wwzfgzbgtjy/bmdf.html?q=zj" target="_blank">
+     <img style="display:block;" width="180px" height="117px" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/1475/2503111516537264483.jpg">
+  </a>
+   <a style="cursor:pointer;float:left;" onclick="sus2.style.visibility='hidden'">
+     <img style="display:block;" width="100px" height="14px" title="关闭" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web149/site/picture/0/31095e4461ee486483543ac2bbea3cd4.gif">
+  </a>
+
+</div>
+
+
+
+
+
+
+
+<div id="sus3" style="overflow:hidden;margin:0px;padding:0;width:180px;height:120px; display:block;">
+  <a href="https://www.zj.gov.cn/col/col1229577560/index.html" target="_blank">
+     <img style="display:block;" width="180px" height="100px" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web3099/site/picture/0/2410081427126119427.jpg">
+  </a>
+   <a style="cursor:pointer;float:left;" onclick="sus3.style.visibility='hidden'">
+     <img style="display:block;" width="100px" height="14px" title="关闭" src="http://jyj.jinhua.gov.cn/cms_files/jcms1/web149/site/picture/0/31095e4461ee486483543ac2bbea3cd4.gif">
+  </a>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+<script src="http://jyj.jinhua.gov.cn/cms_files/filemanager/1567293/script/juba/jubascript.js?v=4.5.12.1-ZJSJYH-U39"></script>
+ </div></body>
+
+</html>
+
+
+
+<script>
+    // 判断老年版和普通版
+    var storage = window.localStorage;
+    // 获取浏览器页面宽度
+    var clientWidth = $("html").outerWidth();
+    // 判断localstorage存储中是否含有key为mode，true则是老年版，添加老年版class类名old_type
+    if (storage.hasOwnProperty("mode")) {
+        $("body").addClass("old_type");
+    } else {
+        $("body").removeClass("old_type");
+    }
+    // 进入老年版按钮点击，创建存储键值，并在body添加class类名
+    $(".new_boount").click(function() { // 进入老年版按钮点击
+        $("body").addClass("old_type");
+        storage.setItem("mode", 2);
+    });
+    // 退出老年版按钮点击，删除存储键值，并移除body的class类名
+    $(".old_boount").click(function() {
+        $("body").removeClass("old_type");
+        storage.removeItem("mode");
+    });
+    // 手机版，是否是移动端设备以及根据浏览器页面宽度（国产浏览器）来判断
+    if (navigator.userAgent.match(/mobile/i) && clientWidth <= 1024) {
+        $("body").removeClass("old_type").addClass("mobile_type");
+        storage.removeItem("mode");
+        // 页面的head头部的meta是否有name为viemport标签，如无则添加
+        if ($("meta[name=viewport]").attr("content") == null) {
+            $("head").prepend(
+                "<meta name="\"viewport\"" content="\"width=device-width," initial-scale="1.0," minimum-scale="1.0\"">");
+        }
+    } else {
+        $("body").removeClass("mobile_type");
+    }
+    </script>

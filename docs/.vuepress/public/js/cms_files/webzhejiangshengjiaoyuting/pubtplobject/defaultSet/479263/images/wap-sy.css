@@ -1,0 +1,339 @@
+.mobile_type{
+    min-width: auto !important;
+    font-size: 3.5vw !important;
+}
+/* 头部开始 */
+.mobile_type #container>ul li{width:auto !important;}
+.mobile_type .head-column {
+    width: 100%;
+    height: 200px;
+    background: none !important;
+  }
+  .mobile_type .cearch {
+    width: 100% !important;
+    right: auto;
+    top: 125px;
+  }
+  .mobile_type #q {
+    /* width: 80% !important;  */
+    margin-left: 3vw;
+  }
+  .mobile_type .head-list {
+    display: none;
+  }
+  /* .head-list{display: none;} */
+  .mobile_type #container {
+    width: 100% !important;
+    overflow-x: auto;
+    height: auto !important;
+  }
+  .mobile_type #container > ul {
+    width: 120% !important;
+    padding-left: 2vw;
+  }
+  .mobile_type .nav {
+    height: auto !important;
+  }
+  .mobile_type #container > ul li {    
+    /* border: 1px solid #fff; */
+    border: none !important;
+    display: -webkit-inline-box;
+    background: none;
+    float: left;    
+    text-align: center;
+    /* padding-bottom: 1vw;
+    padding-top: 1vw; */
+    line-height: 50px;
+  }
+  .mobile_type #container > ul li a {
+    padding: 0;
+  }
+  /* 头部结束 */
+  /* 弹窗 */
+  .mobile_type #sus1 {
+    display: none !important;
+  }
+  .mobile_type #sus2 {
+    display: none !important;
+  }
+  .mobile_type #sus4 {
+    display: none !important;
+  }
+  /* 主体开始 */
+  .mobile_type .content {
+    width: 100%;
+    height: auto;
+    font-size: 3.5vw !important;
+  }
+  .mobile_type .content-listPublic.bt-left.bt-margin-right-30{
+    position: relative;
+  }
+  .mobile_type .more{
+    position: absolute;
+    right: 2vw;
+    top: 16px;
+    color: #fff;
+  }
+  .mobile_type .more a{
+    color: #fff;
+    font-size: 3.5vw;
+  }
+  .mobile_type .focus {
+    width: 100%;
+    height: 100%;
+  }
+  .mobile_type #slidesImgs li {
+    width: 97%;
+    height: 100%;
+    margin: 0 auto;
+  }
+  .mobile_type #slidesImgs li img {
+    width: 100%;
+    height: 100%;
+  }
+  .mobile_type .Education-news {
+    width: 100%;
+    height: auto;
+    padding: 10px 10px;
+	margin-bottom:3%;
+  }
+  .mobile_type .Education-news-title {
+    border: none;
+    height: 12vw;
+  }
+  .mobile_type .Education-news-title ul li {
+    height: 35px;
+    font-size: 3.8vw;
+    padding: 0px;
+    padding-right: 2vw;
+  }
+  .mobile_type #more-list a{font-size: 3.5vw;}
+  .mobile_type #Education-list ul li a {
+    display: inline-block;
+    width: 72%;
+    overflow: hidden;
+    white-space: nowrap;
+    word-break: keep-all;
+    text-overflow: ellipsis;
+    font-size: 3.5vw;
+  }
+  .mobile_type .banner {
+    width: 100%;
+    height: 400px;
+  }
+  .mobile_type .content-list {
+    width: 100%;
+    padding-top: 0;
+  }
+
+  .mobile_type .web-lj{
+    display: none;
+  }
+
+  .mobile_type .listPublic-title-hover a{
+    color: #fff !important;
+  }
+  .mobile_type .content-listPublic {
+    width: 100%;
+    position: relative;
+  }
+  .mobile_type .content-listPublic span{
+    margin-right: 2vw;
+    font-size: 3.5vw;
+  }
+  .mobile_type .content-listPublic-title {
+    width: 100%;
+    margin-top: 10px;
+    padding-left: 1vw;
+    background: #368ac9;
+    height: 35px;
+    line-height: 35px;
+  }
+  .mobile_type .content-listPublic-title ul li a{
+    color: #fff !important;
+    font-size: 3.5vw;
+  }
+  .mobile_type .content-list-style ul li {
+    background: none;
+    line-height: 6vw;
+  }
+  .mobile_type .content-list-style ul li a {
+    font-size: 3.5vw;
+    width: 71% !important;
+  }
+  .mobile_type .content-listPublic-title ul li {
+    padding-right: 3vw;
+    background: url(/cms_files/jcms1/web3099/site/picture/0/2201141056421111763.png?0.3891499729236749) no-repeat right !important;
+  }
+  .mobile_type .default_pgContainer li {
+    width: 100% !important;
+  }
+  .mobile_type .bt-right {
+    float: left;
+  }
+  .mobile_type .icon-list {
+    width: 100% !important;
+    padding: 0px !important;
+  }
+  .mobile_type #focusTo {
+    width: 97% !important;
+  }
+  .mobile_type .information-public:nth-child(1) {
+    margin-top: 50vw;
+    width: 100% !important;
+  }
+  .mobile_type .information-public-list {
+    width: 100% !important;
+  }
+  .mobile_type .information-public-list div {
+    width: 100% !important;
+  }
+  .mobile_type .information-public-list a {
+    margin-right: 0;
+    width: 33% !important;
+  }
+  .mobile_type .features-content {
+    width: 100%;
+    height: auto;
+  }
+  .mobile_type .features-title p a {
+    padding-left: 5vw;
+  }
+  .mobile_type .information-public {
+    width: 100%;
+    margin-top: 7vw;
+  }
+  .mobile_type .information-public:nth-child(1) {
+    margin-top: 1vw;
+  }
+  .mobile_type .features {
+    height: 248vw !important;
+  }
+  .mobile_type li.listPublic-title-hover{
+    font-weight: bold;
+  }
+  .mobile_type .h1focus {
+    display: inline-block;
+    width: 75%;
+    overflow: hidden;
+    white-space: nowrap;
+    word-break: keep-all;
+    text-overflow: ellipsis;
+  }
+  .mobile_type .Education-news-title-hover {
+    border-bottom: none;
+  }
+  .mobile_type .information-public {
+    padding-left: 0px !important;
+  }
+  .mobile_type #tjiao {
+    width: 17% !important;
+  }
+  .mobile_type .wzlj-cen {
+    width: 100% !important;
+  }
+  .mobile_type .wzlj-cen ul li h3 {
+    width: 100% !important;
+  }
+  .mobile_type .wzlj-cen ul li {
+    width: 50% !important;
+  }
+  .mobile_type .wzlj-cen ul {
+    margin-top: 5vw !important;
+    display: none;
+  }
+  .mobile_type .banner img {
+    width: 100% !important;
+    margin-bottom: 5vw;
+  }
+  .mobile_type .banner a {
+    margin-right: 0px !important;
+    width: 100%;
+  }
+  .mobile_type .bt-margin-right-30 {
+    margin-right: 0;
+  }
+  .mobile_type .content-listPublic ul li{
+    margin-bottom: 0 ;
+  }
+  .mobile_type .nav-hover{border-bottom: none;}
+  .mobile_type #focusTo ul li{
+    width: 88vw;
+  }
+  .mobile_type #focusTo ul li a{
+    width: 79vw;
+    display: inline-block;
+  }
+  .mobile_type .features-img img{
+    width: 100% !important;
+  }
+  /* #focusTo ul li{    width: 90vw; }
+  div#focusTo div ul li a img{    width: 100% !important;} */
+  .mobile_type #listPublic-one-list{height: 52vw !important;}
+  .mobile_type .head-column img {
+    width: 90%;
+    margin: 0 auto;
+  }
+  /* 移动端强制滚动 */
+   html,
+   body {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    overflow: hidden;
+    overflow-y: auto;
+  }
+  /* footer start */
+  .mobile_type .footer-column {
+    width: 100% !important;
+  }
+  .mobile_type .footer-column ul {
+    width: 90% !important;
+  }
+  .mobile_type .footer-details{
+      margin-top: 10vw;
+  }
+  .mobile_type .footer-details div {
+    width: 100% !important;
+    padding-right: 0px !important;
+  }
+  .mobile_type .footer-column ul li a {
+    padding: 0;
+    padding-right: 2vw;
+    color: #fff;
+  }
+  .mobile_type #container>ul{
+    line-height: 8vw;
+    height: auto;
+    width: 180%;
+  }
+  .mobile_type .footer-column ul li {
+    /* background: none; */
+  }
+  .mobile_type .content-listPublic{
+    margin-bottom: 0 !important;
+  }
+  .mobile_type .content-listPublic:nth-child(3){
+    margin-bottom: 3vw;
+  }
+  .mobile_type .footer-details{    
+      background-color: #076fbe;
+}
+.mobile_type .footer-details p{
+    color: #fff !important;
+}
+.mobile_type .footer-details a{
+    color: #fff !important;
+}
+.mobile_type .footer-details span {
+    color: #fff !important;
+}
+.mobile_type .information-public{height:auto}
+
+.mobile_type a#mobile_ghb{width: 80px;height: 30px;position: relative;}
+.mobile_type .mobile_lnb {background: #f3f4f8;line-height: 35px;font-size: 3.8vw; padding-left: 10px;display: block;}
+
+/* footer-end */
